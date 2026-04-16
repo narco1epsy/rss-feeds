@@ -18,18 +18,19 @@ jobs:
       - name: Cache node_modules
         uses: actions/cache@v4
         with:
-          path: node_modules
-          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: ${{ runner.os }}-node-
 
       - run: npm ci
-      - run: node scrapers/shop1.js
 
-      - name: Commit and push
+      - name: Run all scrapers
         run: |
-          git config user.name 'github-actions'
-          git config user.email 'actions@github.com'
-          git add docs/
-          git diff --staged --quiet || git commit -m 'Update RSS'
-          git push
+          node scrapers/jokei.js
+          # node scrapers/newshop.js  ← 追加するだけ
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
