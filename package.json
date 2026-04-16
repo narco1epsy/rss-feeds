@@ -1,0 +1,14 @@
+{
+  "name": "rss-feeds",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "feed": "^4.2.2"
+  },
+  "devDependencies": {
+    "@local/shared-configs": "file:../shared-configs",
+    "eslint": "^9.39.4",
+    "prettier": "^3.8.3"
+  }
+}
