@@ -30,8 +30,10 @@ jobs:
           node scrapers/ideot.js
           # node scrapers/newshop.js  ← 追加するだけ
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
+      - name: Commit and push docs
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/*.xml
+          git diff --staged --quiet || git commit -m "Update RSS feeds: $(date +'%Y-%m-%d %H:%M')"
+          git push
