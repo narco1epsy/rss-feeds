@@ -23,13 +23,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-
-      - name: Cache npm
-        uses: actions/cache@v4
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: ${{ runner.os }}-node-
+          cache: 'npm'
+          cache-dependency-path: 'package-lock.json'
 
       - run: npm ci
 
@@ -43,16 +38,11 @@ jobs:
           node scrapers/ampm.js
           node scrapers/iens.js
           node scrapers/graphio-buro.js
-          # node scrapers/newshop.js
-
-      - name: Save generated XML
-        run: |
-          mkdir -p /tmp/rss
-          cp docs/*.xml /tmp/rss/
-          touch /tmp/rss/.nojekyll
 
       - name: Publish to gh-pages root
         run: |
+          set -e
+
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
@@ -60,22 +50,22 @@ jobs:
           cp docs/*.xml /tmp/rss/
           touch /tmp/rss/.nojekyll
 
-          git fetch origin gh-pages
+          git fetch origin gh-pages || true
 
           if git show-ref --verify --quiet refs/remotes/origin/gh-pages; then
             git checkout -B gh-pages origin/gh-pages
           else
             git checkout --orphan gh-pages
-            git rm -rf . || true
           fi
 
-          find . -mindepth 1 -maxdepth 1 \
-            ! -name '.git' \
-            -exec rm -rf {} +
+          find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
 
           cp /tmp/rss/*.xml ./
           cp /tmp/rss/.nojekyll ./
 
-          git add *.xml .nojekyll
-          git diff --staged --quiet || git commit -m "Update RSS feeds: $(date +'%Y-%m-%d %H:%M')"
-          git push origin gh-pages
+          git add -A .
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update RSS feeds: $(date +'%Y-%m-%d %H:%M')"
+            git push origin gh-pages
+          fi
