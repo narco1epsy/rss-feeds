@@ -5,4 +5,11 @@ await scrapeShop({
     outputFile: 'jokei.xml',
     feedTitle: '叙景 jokei',
     feedDesc: '叙景 jokei の新着商品フィード',
+    selectors: {
+        itemBox: '.item-box',
+        anchor: 'a',
+        title: '.item-title',
+        price: '.item-price',
+        img: 'img',
+    },
 });

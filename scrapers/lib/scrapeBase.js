@@ -15,14 +15,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../d
  * @param {object} [config.selectors]  - CSSセレクターの上書き（省略可）
  */
 export async function scrapeShop(config) {
-    const sel = {
-        itemBox: '.item-box',
-        anchor: 'a',
-        title: '.item-title',
-        price: '.item-price',
-        img: 'img',
-        ...config.selectors,
-    };
+    const sel = { ...config.selectors };
 
     const res = await fetch(config.shopUrl, {
         headers: {
