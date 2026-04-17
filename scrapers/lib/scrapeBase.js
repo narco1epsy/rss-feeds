@@ -26,10 +26,17 @@ export async function scrapeShop(config) {
 
     const items = [];
     $(sel.itemBox).each((_, el) => {
-        const url = $(el).find(sel.anchor).first().attr('href');
+        const rawUrl = $(el).is(sel.anchor)
+            ? $(el).attr('href')
+            : $(el).find(sel.anchor).first().attr('href');
+        const rawImg = $(el).is(sel.img)
+            ? $(el).attr('src')
+            : $(el).find(sel.img).first().attr('src');
+
+        const url = rawUrl ? new URL(rawUrl, config.shopUrl).href : null;
         const title = $(el).find(sel.title).text().trim();
         const price = $(el).find(sel.price).text().trim();
-        const img = $(el).find(sel.img).attr('src');
+        const img = rawImg ? new URL(rawImg, config.shopUrl).href : null;
         if (url && title) items.push({ url, title, price, img });
     });
 
