@@ -3,6 +3,12 @@ name: Update RSS
 on:
   schedule:
     - cron: '15 * * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - 'scrapers/*.js'
+      - '.github/workflows/scrape.yaml'
   workflow_dispatch:
 
 jobs:
