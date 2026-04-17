@@ -29,6 +29,7 @@ jobs:
           node scrapers/jokei.js
           node scrapers/ideot.js
           node scrapers/couperin.js
+          node scrapers/still-life.js
           # node scrapers/newshop.js  ← 追加するだけ
 
       - name: Commit and push docs
