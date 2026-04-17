@@ -42,10 +42,22 @@ jobs:
           node scrapers/graphio-buro.js
           # node scrapers/newshop.js  ← 追加するだけ
 
-      - name: Commit and push docs
+      - name: Deploy XML to gh-pages
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          
+          # 生成した XML を一時保存
+          cp -r docs /tmp/rss-output
+          
+          # gh-pages をフェッチして切り替え（なければ orphan で作成）
+          git fetch origin gh-pages || true
+          git checkout gh-pages 2>/dev/null || git checkout --orphan gh-pages
+          
+          # gh-pages の中身を最新 XML で上書き
+          rm -rf docs
+          cp -r /tmp/rss-output docs
+          
           git add docs/*.xml
           git diff --staged --quiet || git commit -m "Update RSS feeds: $(date +'%Y-%m-%d %H:%M')"
-          git push
+          git push origin gh-pages
