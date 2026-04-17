@@ -107,21 +107,6 @@ const parseListHtml = (html) => {
     return uniqBy(items, (item) => item.url);
 };
 
-const collectItems = async () => {
-    const allItems = [];
-
-    for (let page = 1; page <= 100; page += 1) {
-        const html = await fetchListPage(page);
-        const items = parseListHtml(html);
-
-        if (items.length === 0) break;
-
-        allItems.push(...items);
-    }
-
-    return uniqBy(allItems, (item) => item.url);
-};
-
 const buildFeed = (items) => {
     const feed = new Feed({
         title: SHOP_NAME,
@@ -148,7 +133,8 @@ const buildFeed = (items) => {
 const main = async () => {
     await fs.mkdir(DOCS_DIR, { recursive: true });
 
-    const items = await collectItems();
+    const html = await fetchListPage();
+    const items = parseListHtml(html);
     const feed = buildFeed(items);
 
     await fs.writeFile(OUT_FILE, feed.rss2(), 'utf-8');
