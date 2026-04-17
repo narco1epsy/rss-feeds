@@ -16,6 +16,21 @@ function toAbsoluteUrl(url) {
     return `${SITE_URL}/${url.replace(/^\.\//, '')}`;
 }
 
+function normalizeWixImageUrl(url) {
+    const abs = toAbsoluteUrl(url);
+    if (!abs) return '';
+
+    const originalMatch = abs.match(
+        /(https:\/\/static\.wixstatic\.com\/media\/[^/]+\.(?:jpg|jpeg|png|webp|avif))/i
+    );
+
+    if (originalMatch) {
+        return originalMatch[1];
+    }
+
+    return abs;
+}
+
 function normalizeText(text) {
     return (text || '').replace(/\s+/g, ' ').trim();
 }
@@ -33,8 +48,8 @@ function extractImageUrl($root) {
     ];
 
     for (const candidate of candidates) {
-        const abs = toAbsoluteUrl(candidate || '');
-        if (abs) return abs;
+        const normalized = normalizeWixImageUrl(candidate || '');
+        if (normalized) return normalized;
     }
     return '';
 }
