@@ -33,6 +33,7 @@ jobs:
           node scrapers/elephant.js
           node scrapers/ampm.js
           node scrapers/iens.js
+          node scrapers/graphio-buro.js
           # node scrapers/newshop.js  ← 追加するだけ
 
       - name: Commit and push docs
