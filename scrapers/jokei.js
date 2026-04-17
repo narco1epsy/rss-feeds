@@ -4,5 +4,5 @@ await scrapeShop({
     shopUrl: 'https://jokei.theshop.jp',
     outputFile: 'jokei.xml',
     feedTitle: '叙景 jokei',
-    feedDesc: 'jokei.theshop.jp の新着商品フィード',
+    feedDesc: '叙景 jokei の新着商品フィード',
 });

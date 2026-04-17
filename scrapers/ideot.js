@@ -72,8 +72,6 @@ const parseListHtml = (html) => {
                 '';
             const imageAlt = mainLink.find('figure img').attr('alt')?.trim() || '';
             const title = normalize(mainLink.find('.txt_ttl').first().text());
-            const soldOutText = normalize(article.find('.txt_status').first().text());
-            const soldOut = /sold\s*out|売り切れ|在庫切れ/i.test(soldOutText);
 
             const categories = article
                 .find('.item_category a')
@@ -88,7 +86,6 @@ const parseListHtml = (html) => {
                 .filter(Boolean);
 
             const description = [
-                soldOut ? 'SOLD OUT' : '',
                 categories.length ? `カテゴリ: ${categories.join(', ')}` : '',
                 brands.length ? `ブランド: ${brands.join(', ')}` : '',
                 imageAlt && imageAlt !== title ? imageAlt : '',
@@ -100,7 +97,6 @@ const parseListHtml = (html) => {
                 title,
                 url,
                 image,
-                soldOut,
                 categories,
                 brands,
                 description,
@@ -129,31 +125,20 @@ const collectItems = async () => {
 const buildFeed = (items) => {
     const feed = new Feed({
         title: SHOP_NAME,
-        description: `${SHOP_NAME} の新着商品フィード`,
-        id: LIST_URL,
         link: LIST_URL,
+        description: `${SHOP_NAME} の新着商品フィード`,
         language: 'ja',
-        updated: new Date(),
-        generator: 'feed for Node.js',
         favicon: `${SITE_URL}/favicon.ico`,
     });
 
     items.forEach((item) => {
-        const contentParts = [
-            item.soldOut ? '<p>SOLD OUT</p>' : '',
-            item.image ? `<p><img src="${item.image}" alt="${item.title}"></p>` : '',
-            item.categories.length ? `<p>カテゴリ: ${item.categories.join(', ')}</p>` : '',
-            item.brands.length ? `<p>ブランド: ${item.brands.join(', ')}</p>` : '',
-        ].filter(Boolean);
-
         feed.addItem({
             title: item.title,
-            id: item.url,
             link: item.url,
-            description: item.description || item.title,
-            content: contentParts.join(''),
-            image: item.image || undefined,
             date: new Date(),
+            id: item.url,
+            description: item.description || item.title,
+            image: item.image || undefined,
         });
     });
 

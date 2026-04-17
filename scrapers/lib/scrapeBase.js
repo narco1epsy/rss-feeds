@@ -42,19 +42,19 @@ export async function scrapeShop(config) {
 
     const feed = new Feed({
         title: config.feedTitle,
-        description: config.feedDesc,
         link: config.shopUrl,
+        description: config.feedDesc,
         language: 'ja',
-        updated: new Date(),
     });
 
     items.forEach((item) => {
         feed.addItem({
             title: item.title,
             link: item.url,
-            id: item.url,
-            description: item.img ? `<img src="${item.img}"><br>${item.price}` : item.price,
             date: new Date(),
+            id: item.url,
+            description: item.price,
+            image: item.img || undefined,
         });
     });
 
