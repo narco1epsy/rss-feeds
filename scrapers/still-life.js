@@ -1,4 +1,3 @@
-import * as cheerio from 'cheerio';
 import { Feed } from 'feed';
 import { writeFile, mkdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
@@ -8,95 +7,81 @@ const SHOP_NAME = 'STILL LIFE';
 const SHOP_URL = 'https://www.still-life-nagoya.net/shop';
 const SITE_URL = 'https://www.still-life-nagoya.net';
 
-function toAbsoluteUrl(url) {
-    if (!url) return '';
-    if (url.startsWith('http://') || url.startsWith('https://')) return url;
-    if (url.startsWith('//')) return `https:${url}`;
-    if (url.startsWith('/')) return `${SITE_URL}${url}`;
-    return `${SITE_URL}/${url.replace(/^\.\//, '')}`;
-}
-
-function normalizeWixImageUrl(url) {
-    const abs = toAbsoluteUrl(url);
-    if (!abs) return '';
-
-    const originalMatch = abs.match(
-        /(https:\/\/static\.wixstatic\.com\/media\/[^/]+\.(?:jpg|jpeg|png|webp|avif))/i
-    );
-
-    if (originalMatch) {
-        return originalMatch[1];
-    }
-
-    return abs;
-}
-
 function normalizeText(text) {
     return (text || '').replace(/\s+/g, ' ').trim();
 }
 
-function extractImageUrl($root) {
-    const candidates = [
-        $root.find('img').first().attr('src'),
-        $root.find('img').first().attr('data-src'),
-        $root.find('img').first().attr('srcset')?.split(',')[0]?.trim().split(' ')[0],
-        $root
-            .find('[style*="background-image"]')
-            .first()
-            .attr('style')
-            ?.match(/url\(["']?([^"')]+)["']?\)/)?.[1],
-    ];
-
-    for (const candidate of candidates) {
-        const normalized = normalizeWixImageUrl(candidate || '');
-        if (normalized) return normalized;
-    }
-    return '';
+function toProductUrl(urlPart) {
+    if (!urlPart) return '';
+    return `${SITE_URL}/product-page/${urlPart}`;
 }
 
-function extractTitle($root) {
-    const aria = normalizeText($root.attr('aria-label'));
-    if (aria) {
-        return aria
-            .replace(/\.\s*NEW.*$/i, '')
-            .replace(/NEW.*$/i, '')
-            .trim();
+function extractProductsFromHtml(html) {
+    const marker = '"productsWithMetaData":{"list":[';
+    const start = html.indexOf(marker);
+    if (start === -1) {
+        throw new Error('productsWithMetaData.list not found');
     }
 
-    const textCandidates = [
-        $root.find('[data-hook="product-item-name"]').first().text(),
-        $root.find('[data-hook*="product-title"]').first().text(),
-        $root.find('h2, h3').first().text(),
-        $root.text(),
-    ];
+    const listStart = start + marker.length - 1;
+    let i = listStart;
+    let depth = 0;
+    let inString = false;
+    let escaped = false;
 
-    for (const text of textCandidates) {
-        const normalized = normalizeText(text);
-        if (normalized) return normalized;
+    for (; i < html.length; i += 1) {
+        const ch = html[i];
+
+        if (inString) {
+            if (escaped) {
+                escaped = false;
+            } else if (ch === '\\') {
+                escaped = true;
+            } else if (ch === '"') {
+                inString = false;
+            }
+            continue;
+        }
+
+        if (ch === '"') {
+            inString = true;
+            continue;
+        }
+
+        if (ch === '[') {
+            depth += 1;
+            continue;
+        }
+
+        if (ch === ']') {
+            depth -= 1;
+            if (depth === 0) {
+                i += 1;
+                break;
+            }
+        }
     }
-    return '';
+
+    const listJson = html.slice(listStart, i);
+    return JSON.parse(listJson);
 }
 
-function extractDescription($root) {
-    const textCandidates = [
-        $root.find('[data-hook="product-item-price-to-pay"]').first().attr('data-wix-price'),
-        $root.find('[data-hook="product-item-price-to-pay"]').first().text(),
-        $root.find('[data-hook*="out-of-stock"]').first().text(),
-        $root.find('[data-hook*="inventory"]').first().text(),
-        $root.find('[data-hook*="ribbon"]').first().text(),
-        $root.find('[data-hook*="badge"]').first().text(),
-    ];
+function mapProduct(product) {
+    const title = normalizeText(product.name);
+    const url = toProductUrl(product.urlPart);
+    const image = product.media?.[0]?.fullUrl || '';
+    const description = normalizeText(
+        product.formattedPrice || (product.isInStock === false ? 'SOLD OUT' : '')
+    );
 
-    for (const text of textCandidates) {
-        const normalized = normalizeText(text);
-        if (normalized) return normalized;
-    }
+    if (!title || !url || !image) return null;
 
-    const allText = normalizeText($root.text());
-    const soldOutMatch = allText.match(/SOLD\s*OUT/i);
-    if (soldOutMatch) return soldOutMatch[0];
-
-    return '';
+    return {
+        title,
+        url,
+        image,
+        description,
+    };
 }
 
 async function fetchHtml(url) {
@@ -113,37 +98,15 @@ async function fetchHtml(url) {
     return await res.text();
 }
 
-function parseProducts(html) {
-    const $ = cheerio.load(html);
-    const seen = new Set();
-    const items = [];
-
-    $('[data-hook="product-item-root"]').each((_, el) => {
-        const $item = $(el);
-        const link = $item.find('a[href*="/product-page/"]').first().attr('href');
-        const url = toAbsoluteUrl(link || '');
-        const title = extractTitle($item);
-        const image = extractImageUrl($item);
-        const description = extractDescription($item);
-
-        if (!title || !url || !image) return;
-        if (seen.has(url)) return;
-        seen.add(url);
-
-        items.push({
-            title,
-            url,
-            image,
-            description,
-        });
-    });
-
-    return items;
-}
-
 async function main() {
     const html = await fetchHtml(SHOP_URL);
-    const products = parseProducts(html);
+    const rawProducts = extractProductsFromHtml(html);
+    const seen = new Set();
+    const products = rawProducts.map(mapProduct).filter((product) => {
+        if (seen.has(product.url)) return false;
+        seen.add(product.url);
+        return true;
+    });
 
     if (!products.length) {
         throw new Error('No products found');
