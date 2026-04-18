@@ -38,6 +38,7 @@ jobs:
           node scrapers/ampm.js
           node scrapers/iens.js
           node scrapers/graphio-buro.js
+          node scrapers/talo.js
 
       - name: Publish to gh-pages root
         run: |
