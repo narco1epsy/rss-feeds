@@ -39,6 +39,7 @@ jobs:
           node scrapers/iens.js
           node scrapers/graphio-buro.js
           node scrapers/talo.js
+          node scrapers/stoop.js
 
       - name: Publish to gh-pages root
         run: |
