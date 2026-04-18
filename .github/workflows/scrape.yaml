@@ -40,7 +40,6 @@ jobs:
           node scrapers/graphio-buro.js
           node scrapers/talo.js
           node scrapers/stoop.js
-          node scrapers/letemin.js
 
       - name: Publish to gh-pages root
         run: |
