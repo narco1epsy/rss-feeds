@@ -1,6 +1,7 @@
-import { scrapeShop } from './lib/scrapeBase.js';
+import { scrapeBaseShop } from './lib/scrapeBaseShop.js';
 
-await scrapeShop({
+await scrapeBaseShop({
+    metaUrl: import.meta.url,
     shopUrl: 'https://ampm.buyshop.jp',
     outputFile: 'ampm.xml',
     feedTitle: 'vintage shop AM/PM',

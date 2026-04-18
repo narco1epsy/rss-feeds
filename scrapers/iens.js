@@ -1,6 +1,7 @@
-import { scrapeShop } from './lib/scrapeBase.js';
+import { scrapeBaseShop } from './lib/scrapeBaseShop.js';
 
-await scrapeShop({
+await scrapeBaseShop({
+    metaUrl: import.meta.url,
     shopUrl: 'https://iens.base.shop',
     outputFile: 'iens.xml',
     feedTitle: 'iens',

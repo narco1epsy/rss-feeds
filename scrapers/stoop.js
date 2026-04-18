@@ -1,14 +1,13 @@
-import { getTerms, runWordpressFeed } from './lib/scrapeWordpress.js';
+import { runWordpressFeed, getTerms } from './lib/scrapeWordpress.js';
 
 const SHOP_NAME = 'stoop';
 const SITE_URL = 'https://stoop.jp';
-const API_URL = `${SITE_URL}/wp-json/wp/v2/collection?_embed&per_page=100`;
 
 await runWordpressFeed({
     metaUrl: import.meta.url,
     shopName: SHOP_NAME,
     siteUrl: `${SITE_URL}/collection`,
-    apiUrl: API_URL,
+    apiUrl: `${SITE_URL}/wp-json/wp/v2/collection?_embed&per_page=100`,
     feedPath: 'stoop.xml',
     buildDescription: (item) => {
         const taxonomies = [
@@ -21,7 +20,6 @@ await runWordpressFeed({
             'period',
             'country',
         ];
-
         return taxonomies
             .map((taxonomy) => {
                 const names = getTerms(item, taxonomy);

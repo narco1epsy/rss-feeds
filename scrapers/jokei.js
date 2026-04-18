@@ -1,6 +1,7 @@
-import { scrapeShop } from './lib/scrapeBase.js';
+import { scrapeBaseShop } from './lib/scrapeBaseShop.js';
 
-await scrapeShop({
+await scrapeBaseShop({
+    metaUrl: import.meta.url,
     shopUrl: 'https://jokei.theshop.jp',
     outputFile: 'jokei.xml',
     feedTitle: '叙景 jokei',

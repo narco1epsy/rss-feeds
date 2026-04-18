@@ -1,27 +1,15 @@
-import { Feed } from 'feed';
-import { writeFile, mkdir } from 'node:fs/promises';
-import { fileURLToPath } from 'node:url';
-import { dirname, join } from 'node:path';
+import { createFeed, addFeedItems, writeFeed } from './lib/feedWriter.js';
+import { fetchText } from './lib/httpClient.js';
+import { normalizeText } from './lib/normalize.js';
 
 const SHOP_NAME = 'STILL LIFE';
 const SHOP_URL = 'https://www.still-life-nagoya.net/shop';
 const SITE_URL = 'https://www.still-life-nagoya.net';
 
-function normalizeText(text) {
-    return (text || '').replace(/\s+/g, ' ').trim();
-}
-
-function toProductUrl(urlPart) {
-    if (!urlPart) return '';
-    return `${SITE_URL}/product-page/${urlPart}`;
-}
-
 function extractProductsFromHtml(html) {
     const marker = '"productsWithMetaData":{"list":[';
     const start = html.indexOf(marker);
-    if (start === -1) {
-        throw new Error('productsWithMetaData.list not found');
-    }
+    if (start === -1) throw new Error('productsWithMetaData.list not found');
 
     const listStart = start + marker.length - 1;
     let i = listStart;
@@ -31,28 +19,20 @@ function extractProductsFromHtml(html) {
 
     for (; i < html.length; i += 1) {
         const ch = html[i];
-
         if (inString) {
-            if (escaped) {
-                escaped = false;
-            } else if (ch === '\\') {
-                escaped = true;
-            } else if (ch === '"') {
-                inString = false;
-            }
+            if (escaped) escaped = false;
+            else if (ch === '\\') escaped = true;
+            else if (ch === '"') inString = false;
             continue;
         }
-
         if (ch === '"') {
             inString = true;
             continue;
         }
-
         if (ch === '[') {
             depth += 1;
             continue;
         }
-
         if (ch === ']') {
             depth -= 1;
             if (depth === 0) {
@@ -62,83 +42,32 @@ function extractProductsFromHtml(html) {
         }
     }
 
-    const listJson = html.slice(listStart, i);
-    return JSON.parse(listJson);
+    return JSON.parse(html.slice(listStart, i));
 }
 
-function mapProduct(product) {
-    const title = normalizeText(product.name);
-    const url = toProductUrl(product.urlPart);
-    const image = product.media?.[0]?.fullUrl || '';
-    const description = normalizeText(
-        product.formattedPrice || (product.isInStock === false ? 'SOLD OUT' : '')
-    );
+const html = await fetchText(SHOP_URL);
+const rawProducts = extractProductsFromHtml(html);
+const seen = new Set();
 
-    if (!title || !url || !image) return null;
-
-    return {
-        title,
-        url,
-        image,
-        description,
-    };
-}
-
-async function fetchHtml(url) {
-    const res = await fetch(url, {
-        headers: {
-            'user-agent': 'Mozilla/5.0 (compatible; RSSBot/1.0; +https://github.com/)',
-        },
-    });
-
-    if (!res.ok) {
-        throw new Error(`Failed to fetch ${url}: ${res.status} ${res.statusText}`);
-    }
-
-    return await res.text();
-}
-
-async function main() {
-    const html = await fetchHtml(SHOP_URL);
-    const rawProducts = extractProductsFromHtml(html);
-    const seen = new Set();
-    const products = rawProducts.map(mapProduct).filter((product) => {
-        if (seen.has(product.url)) return false;
-        seen.add(product.url);
+const items = rawProducts
+    .map((product) => {
+        const title = normalizeText(product.name);
+        const link = `${SITE_URL}/product-page/${product.urlPart}`;
+        const image = product.media?.[0]?.fullUrl || '';
+        const description = normalizeText(
+            product.formattedPrice || (product.isInStock === false ? 'SOLD OUT' : '')
+        );
+        if (!title || !link || !image) return null;
+        return { title, link, date: new Date(), id: link, description, image };
+    })
+    .filter(Boolean)
+    .filter((item) => {
+        if (seen.has(item.link)) return false;
+        seen.add(item.link);
         return true;
     });
 
-    if (!products.length) {
-        throw new Error('No products found');
-    }
-
-    const feed = new Feed({
-        title: `${SHOP_NAME}`,
-        link: SHOP_URL,
-        description: `${SHOP_NAME} の新着商品フィード`,
-        language: 'ja',
-        favicon: `${SITE_URL}/favicon.ico`,
-        copyright: `© ${new Date().getFullYear()} ${SHOP_NAME}`,
-    });
-
-    for (const product of products) {
-        feed.addItem({
-            title: product.title,
-            link: product.url,
-            date: new Date(),
-            id: product.url,
-            description: product.description,
-            image: product.image,
-        });
-    }
-
-    const currentDir = dirname(fileURLToPath(import.meta.url));
-    const docsDir = join(currentDir, '..', 'docs');
-    await mkdir(docsDir, { recursive: true });
-    await writeFile(join(docsDir, 'still-life-nagoya.xml'), feed.rss2(), 'utf-8');
-}
-
-main().catch((error) => {
-    console.error(error);
-    process.exit(1);
-});
+const feed = createFeed({ title: SHOP_NAME, link: SHOP_URL });
+addFeedItems(feed, items);
+const outPath = await writeFeed(import.meta.url, 'still-life-nagoya.xml', feed);
+console.log(`✅ ${items.length}件 → ${outPath}`);
