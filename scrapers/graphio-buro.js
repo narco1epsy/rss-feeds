@@ -1,5 +1,5 @@
 import { runWordpressFeed, getTerms } from './lib/scrapeWordpress.js';
-import { stripHtml, truncate, joinLines } from './lib/normalize.js';
+import { stripHtml, joinLines } from './lib/normalize.js';
 
 const SHOP_NAME = 'Graphio/büro-stil';
 const SITE_URL = 'https://graphio-buro.com';
@@ -12,8 +12,7 @@ await runWordpressFeed({
     feedPath: 'graphio-buro.xml',
     buildDescription: (post) =>
         joinLines([
-            truncate(stripHtml(post?.content?.rendered || ''), 400) ||
-                stripHtml(post?.excerpt?.rendered || ''),
+            stripHtml(post?.content?.rendered || post?.excerpt?.rendered || ''),
             getTerms(post, 'category').length
                 ? `カテゴリ: ${getTerms(post, 'category').join(', ')}`
                 : '',

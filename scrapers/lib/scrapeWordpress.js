@@ -37,7 +37,6 @@ export async function runWordpressFeed({
     apiUrl,
     feedPath,
     requestHeaders = {},
-    filter = () => true,
     buildDescription = () => '',
     mapLink = (item) => item?.link || '',
     mapDate = (item) => new Date(item?.modified || item?.date || Date.now()),
@@ -49,7 +48,7 @@ export async function runWordpressFeed({
         link: siteUrl,
     });
 
-    const items = rows.filter(filter).map((item) => {
+    const items = rows.map((item) => {
         const title = stripHtml(item?.title?.rendered || '');
         const link = mapLink(item);
         const date = mapDate(item);

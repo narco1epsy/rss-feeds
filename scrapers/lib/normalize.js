@@ -18,10 +18,6 @@ export function stripHtml(html = '') {
     return normalizeText($.text());
 }
 
-export function truncate(text = '', max = 400) {
-    return text.length > max ? `${text.slice(0, max).trim()}…` : text;
-}
-
 export function joinLines(lines = []) {
     return lines.filter(Boolean).join('\n\n');
 }
