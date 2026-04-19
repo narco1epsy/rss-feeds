@@ -57,7 +57,6 @@ const items = rawProducts
         const description = normalizeText(
             product.formattedPrice || (product.isInStock === false ? 'SOLD OUT' : '')
         );
-        if (!title || !link || !image) return null;
         return { title, link, date: new Date(), id: link, description, image };
     })
     .filter(Boolean)

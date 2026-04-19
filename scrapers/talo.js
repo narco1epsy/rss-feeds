@@ -22,8 +22,6 @@ $newArrival.find('li').each((_, el) => {
     const price = $a.find('.m-item-unit__price').text().trim();
     const tax = $a.find('.m-item-unit__tax').text().trim();
 
-    if (!link || !title || !image) return;
-
     items.push({
         title,
         link,

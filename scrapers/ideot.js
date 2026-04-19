@@ -46,7 +46,6 @@ $('.item_index > li').each((_, li) => {
         .filter(Boolean)
         .join(' / ');
 
-    if (!url || !title || !image || seen.has(url)) return;
     seen.add(url);
     items.push({ title, link: url, date: new Date(), id: url, description, image });
 });

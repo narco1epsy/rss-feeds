@@ -23,8 +23,6 @@ export async function scrapeBaseShop(config) {
         const title = normalizeText($(el).find(sel.title).text());
         const description = normalizeText($(el).find(sel.price).text());
 
-        if (!title || !link || !image) return;
-
         items.push({
             title,
             link,
