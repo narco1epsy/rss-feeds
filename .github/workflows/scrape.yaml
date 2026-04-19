@@ -40,6 +40,8 @@ jobs:
           node scrapers/kauniitasiat.js
           node scrapers/kosvintage.js
           node scrapers/mobelman.js
+          node scrapers/rafuju.js
+          node scrapers/shabbys.js
           node scrapers/still-life.js
           node scrapers/stoop.js
           node scrapers/talo.js
