@@ -1,15 +1,12 @@
-import { scrapeBaseShop } from './lib/scrapeBaseShop.js';
+import { runBaseShopFeed } from './lib/scrapeBaseShop.js';
 
-await scrapeBaseShop({
+const SHOP_NAME = 'vintage shop AM/PM';
+const SITE_URL = 'https://ampm.buyshop.jp';
+
+await runBaseShopFeed({
     metaUrl: import.meta.url,
-    shopUrl: 'https://ampm.buyshop.jp',
+    shopName: SHOP_NAME,
+    siteUrl: SITE_URL,
+    apiUrl: `${SITE_URL}/load_items/1?response_type=json`,
     feedFile: 'ampm.xml',
-    shopName: 'vintage shop AM/PM',
-    selectors: {
-        itemBox: '.item',
-        anchor: 'a[href*="/items/"]',
-        title: '.itemTitle h2',
-        price: '.itemPrice div',
-        img: '.itemThumbImg img',
-    },
 });

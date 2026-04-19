@@ -1,32 +1,30 @@
-import * as cheerio from 'cheerio';
 import { createFeed, addFeedItems, writeFeed } from './feedWriter.js';
-import { fetchText } from './httpClient.js';
-import { normalizeText, normalizeUrl } from './normalize.js';
+import { fetchJson } from './httpClient.js';
 
-export async function scrapeBaseShop(config) {
-    const html = await fetchText(config.shopUrl);
-    const $ = cheerio.load(html);
-    const sel = { ...config.selectors };
+export async function runBaseShopFeed({
+    metaUrl,
+    shopName,
+    siteUrl,
+    apiUrl,
+    feedFile,
+    requestHeaders = {},
+    buildDescription = () => '',
+    buildContent = (item) => item?.description || undefined,
+    mapLink = (item) => item?.url || '',
+    mapId = (item) => mapLink(item),
+}) {
+    const rows = await fetchJson(apiUrl, requestHeaders);
+    const feed = createFeed({ title: shopName, link: siteUrl });
 
-    const items = [];
-    $(sel.itemBox).each((_, el) => {
-        const rawUrl = $(el).is(sel.anchor)
-            ? $(el).attr('href')
-            : $(el).find(sel.anchor).first().attr('href');
+    const items = rows.map((item) => ({
+        title: item?.title || '',
+        link: mapLink(item),
+        id: mapId(item),
+        description: buildDescription(item),
+        content: buildContent(item),
+        image: item?.images?.[0]?.origin || undefined,
+    }));
 
-        const rawImg = $(el).is(sel.img)
-            ? $(el).attr('src')
-            : $(el).find(sel.img).first().attr('src');
-
-        const link = normalizeUrl(rawUrl, config.shopUrl);
-        const image = normalizeUrl(rawImg, config.shopUrl);
-        const title = normalizeText($(el).find(sel.title).text());
-        const description = normalizeText($(el).find(sel.price).text());
-
-        items.push({ title, link, date: new Date(), id: link, description, image });
-    });
-
-    const feed = createFeed({ title: config.shopName, link: config.shopUrl });
     addFeedItems(feed, items);
-    await writeFeed(config.metaUrl, config.feedFile, feed);
+    return await writeFeed(metaUrl, feedFile, feed);
 }

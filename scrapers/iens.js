@@ -1,15 +1,12 @@
-import { scrapeBaseShop } from './lib/scrapeBaseShop.js';
+import { runBaseShopFeed } from './lib/scrapeBaseShop.js';
 
-await scrapeBaseShop({
+const SHOP_NAME = 'iens';
+const SITE_URL = 'https://iens.base.shop';
+
+await runBaseShopFeed({
     metaUrl: import.meta.url,
-    shopUrl: 'https://iens.base.shop',
+    shopName: SHOP_NAME,
+    siteUrl: SITE_URL,
+    apiUrl: `${SITE_URL}/load_items/1?response_type=json`,
     feedFile: 'iens.xml',
-    shopName: 'iens',
-    selectors: {
-        itemBox: 'a.c-card.js-item.js-itemLink',
-        anchor: 'a.c-card.js-item.js-itemLink',
-        title: '.c-card-title',
-        price: '.off-price',
-        img: '.c-card-visual-img',
-    },
 });

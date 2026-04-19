@@ -1,15 +1,12 @@
-import { scrapeBaseShop } from './lib/scrapeBaseShop.js';
+import { runBaseShopFeed } from './lib/scrapeBaseShop.js';
 
-await scrapeBaseShop({
+const SHOP_NAME = '叙景 jokei';
+const SITE_URL = 'https://jokei.theshop.jp';
+
+await runBaseShopFeed({
     metaUrl: import.meta.url,
-    shopUrl: 'https://jokei.theshop.jp',
+    shopName: SHOP_NAME,
+    siteUrl: SITE_URL,
+    apiUrl: `${SITE_URL}/load_items/1?response_type=json`,
     feedFile: 'jokei.xml',
-    shopName: '叙景 jokei',
-    selectors: {
-        itemBox: '.item-box',
-        anchor: 'a',
-        title: '.item-title',
-        price: '.item-price',
-        img: 'img',
-    },
 });
