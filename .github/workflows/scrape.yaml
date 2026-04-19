@@ -30,16 +30,17 @@ jobs:
 
       - name: Run all scrapers
         run: |
-          node scrapers/jokei.js
-          node scrapers/ideot.js
-          node scrapers/couperin.js
-          node scrapers/still-life.js
-          node scrapers/elephant.js
           node scrapers/ampm.js
-          node scrapers/iens.js
+          node scrapers/couperin.js
+          node scrapers/elephant.js
           node scrapers/graphio-buro.js
-          node scrapers/talo.js
+          node scrapers/ideot.js
+          node scrapers/iens.js
+          node scrapers/jokei.js
+          node scrapers/mobelman.js
+          node scrapers/still-life.js
           node scrapers/stoop.js
+          node scrapers/talo.js
 
       - name: Publish to gh-pages root
         run: |
