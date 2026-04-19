@@ -40,7 +40,7 @@ export async function runWordpressFeed({
     buildDescription = () => '',
     buildContent = () => undefined,
     mapLink = (item) => item?.link || '',
-    mapDate = (item) => new Date(item?.modified || item?.date || Date.now()),
+    mapDate = (item) => new Date(item?.date || item?.modified || Date.now()),
     mapId = (item) => mapLink(item),
 }) {
     const rows = await fetchJson(apiUrl, requestHeaders);
