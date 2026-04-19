@@ -57,7 +57,7 @@ const items = rawProducts
         const description = normalizeText(
             product.formattedPrice || (product.isInStock === false ? 'SOLD OUT' : '')
         );
-        return { title, link, date: new Date(), id: link, description, image };
+        return { title, link, date: new Date(), description, image };
     })
     .filter((item) => {
         if (seen.has(item.link)) return false;

@@ -45,7 +45,7 @@ $('.item_index > li').each((_, li) => {
         .filter(Boolean)
         .join(' / ');
 
-    items.push({ title, link: url, date: new Date(), id: url, description, image });
+    items.push({ title, link: url, date: new Date(), description, image });
 });
 
 const feed = createFeed({ title: SHOP_NAME, link: LIST_URL });

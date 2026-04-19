@@ -11,7 +11,6 @@ export async function runBaseShopFeed({
     buildDescription = () => '',
     buildContent = (item) => item?.description || undefined,
     mapLink = (item) => item?.url || '',
-    mapId = (item) => mapLink(item),
 }) {
     const rows = await fetchJson(apiUrl, requestHeaders);
     const feed = createFeed({ title: shopName, link: siteUrl });
@@ -19,7 +18,6 @@ export async function runBaseShopFeed({
     const items = rows.map((item) => ({
         title: item?.title || '',
         link: mapLink(item),
-        id: mapId(item),
         description: buildDescription(item),
         content: buildContent(item),
         image: item?.images?.[0]?.origin || undefined,

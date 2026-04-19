@@ -26,7 +26,6 @@ $newArrival.find('li').each((_, el) => {
         title,
         link,
         date: new Date(),
-        id: link,
         description: `${itemNum} ${price}${tax}`.trim(),
         image,
     });

@@ -15,7 +15,6 @@ const items = products.map((product) => ({
     title: product.title || '',
     link: `${SITE_URL}/products/${product.handle}`,
     date: new Date(product.published_at || Date.now()),
-    id: `${SITE_URL}/products/${product.handle}`,
     content: product.body_html || undefined,
     image: product?.images?.[0]?.src || product?.image?.src || '',
 }));

@@ -26,7 +26,7 @@ export function addFeedItems(feed, items) {
             title: item.title,
             link: item.link,
             date: item.date || new Date(),
-            id: item.link || item.id,
+            id: item.link,
             description: item.description || '',
             content: item.content || undefined,
             image: item.image,
