@@ -59,7 +59,6 @@ const items = rawProducts
         );
         return { title, link, date: new Date(), id: link, description, image };
     })
-    .filter(Boolean)
     .filter((item) => {
         if (seen.has(item.link)) return false;
         seen.add(item.link);
@@ -68,5 +67,4 @@ const items = rawProducts
 
 const feed = createFeed({ title: SHOP_NAME, link: SHOP_URL });
 addFeedItems(feed, items);
-const outPath = await writeFeed(import.meta.url, 'still-life-nagoya.xml', feed);
-console.log(`✅ ${items.length}件 → ${outPath}`);
+await writeFeed(import.meta.url, 'still-life-nagoya.xml', feed);

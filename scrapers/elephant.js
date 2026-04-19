@@ -22,5 +22,4 @@ const items = products.map((product) => ({
 
 const feed = createFeed({ title: SHOP_NAME, link: SITE_URL });
 addFeedItems(feed, items);
-const outPath = await writeFeed(import.meta.url, 'elephant-life.xml', feed);
-console.log(`✅ ${items.length}件 → ${outPath}`);
+await writeFeed(import.meta.url, 'elephant-life.xml', feed);

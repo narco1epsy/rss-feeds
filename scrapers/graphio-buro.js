@@ -8,6 +8,6 @@ await runWordpressFeed({
     shopName: SHOP_NAME,
     siteUrl: `${SITE_URL}/selections/`,
     apiUrl: `${SITE_URL}/wp-json/wp/v2/selections?_embed&per_page=100`,
-    feedPath: 'graphio-buro.xml',
+    feedFile: 'graphio-buro.xml',
     buildContent: (post) => post?.content?.rendered || undefined,
 });

@@ -10,7 +10,7 @@ await runWordpressFeed({
     shopName: SHOP_NAME,
     siteUrl: `${SITE_URL}/`,
     apiUrl: `${SITE_URL}/wp-json/wp/v2/posts?_embed&per_page=100&categories=${CATEGORY_ID}`,
-    feedPath: 'couperin.xml',
+    feedFile: 'couperin.xml',
     buildDescription: (post) => stripHtml(post?.excerpt?.rendered || ''),
     buildContent: (post) => post?.content?.rendered || undefined,
 });

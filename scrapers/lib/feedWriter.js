@@ -40,5 +40,7 @@ export async function writeFeed(metaUrl, fileName, feed) {
     const outPath = resolveDocsPath(metaUrl, fileName);
     await fs.mkdir(path.dirname(outPath), { recursive: true });
     await fs.writeFile(outPath, feed.rss2(), 'utf-8');
+    const count = feed.items.length;
+    console.log(`✅ ${count}件 → ${outPath}`);
     return outPath;
 }

@@ -8,7 +8,7 @@ await runWordpressFeed({
     shopName: SHOP_NAME,
     siteUrl: `${SITE_URL}/collection`,
     apiUrl: `${SITE_URL}/wp-json/wp/v2/collection?_embed&per_page=100`,
-    feedPath: 'stoop.xml',
+    feedFile: 'stoop.xml',
     buildDescription: (item) => {
         const taxonomies = [
             'genre',

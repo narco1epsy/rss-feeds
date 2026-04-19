@@ -3,8 +3,8 @@ import { scrapeBaseShop } from './lib/scrapeBaseShop.js';
 await scrapeBaseShop({
     metaUrl: import.meta.url,
     shopUrl: 'https://iens.base.shop',
-    outputFile: 'iens.xml',
-    feedTitle: 'iens',
+    feedFile: 'iens.xml',
+    shopName: 'iens',
     selectors: {
         itemBox: 'a.c-card.js-item.js-itemLink',
         anchor: 'a.c-card.js-item.js-itemLink',

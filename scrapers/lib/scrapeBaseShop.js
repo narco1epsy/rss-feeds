@@ -23,22 +23,10 @@ export async function scrapeBaseShop(config) {
         const title = normalizeText($(el).find(sel.title).text());
         const description = normalizeText($(el).find(sel.price).text());
 
-        items.push({
-            title,
-            link,
-            date: new Date(),
-            id: link,
-            description,
-            image,
-        });
+        items.push({ title, link, date: new Date(), id: link, description, image });
     });
 
-    const feed = createFeed({
-        title: config.feedTitle,
-        link: config.shopUrl,
-    });
-
+    const feed = createFeed({ title: config.shopName, link: config.shopUrl });
     addFeedItems(feed, items);
-    const outPath = await writeFeed(config.metaUrl, config.outputFile, feed);
-    console.log(`✅ ${items.length}件 → ${outPath}`);
+    await writeFeed(config.metaUrl, config.feedFile, feed);
 }

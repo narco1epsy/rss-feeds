@@ -35,13 +35,13 @@ export async function runWordpressFeed({
     shopName,
     siteUrl,
     apiUrl,
-    feedPath,
+    feedFile,
     requestHeaders = {},
     buildDescription = () => '',
     buildContent = () => undefined,
     mapLink = (item) => item?.link || '',
     mapDate = (item) => new Date(item?.modified || item?.date || Date.now()),
-    mapId = (item) => String(item?.link || item?.id || ''),
+    mapId = (item) => mapLink(item),
 }) {
     const rows = await fetchJson(apiUrl, requestHeaders);
     const feed = createFeed({ title: shopName, link: siteUrl });
@@ -57,5 +57,5 @@ export async function runWordpressFeed({
     }));
 
     addFeedItems(feed, items);
-    return await writeFeed(metaUrl, feedPath, feed);
+    return await writeFeed(metaUrl, feedFile, feed);
 }

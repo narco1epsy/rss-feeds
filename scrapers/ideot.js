@@ -1,4 +1,4 @@
-import { load } from 'cheerio';
+import * as cheerio from 'cheerio';
 import { createFeed, addFeedItems, writeFeed } from './lib/feedWriter.js';
 import { postForm } from './lib/httpClient.js';
 import { normalizeText } from './lib/normalize.js';
@@ -14,8 +14,7 @@ const html = await postForm(
     { Referer: LIST_URL, Origin: SITE_URL, 'X-Requested-With': 'XMLHttpRequest' }
 );
 
-const $ = load(html);
-const seen = new Set();
+const $ = cheerio.load(html);
 const items = [];
 
 $('.item_index > li').each((_, li) => {
@@ -46,11 +45,9 @@ $('.item_index > li').each((_, li) => {
         .filter(Boolean)
         .join(' / ');
 
-    seen.add(url);
     items.push({ title, link: url, date: new Date(), id: url, description, image });
 });
 
 const feed = createFeed({ title: SHOP_NAME, link: LIST_URL });
 addFeedItems(feed, items);
-const outPath = await writeFeed(import.meta.url, 'ideot.xml', feed);
-console.log(`✅ ${items.length}件 → ${outPath}`);
+await writeFeed(import.meta.url, 'ideot.xml', feed);

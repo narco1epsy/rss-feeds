@@ -34,5 +34,4 @@ $newArrival.find('li').each((_, el) => {
 
 const feed = createFeed({ title: SHOP_NAME, link: SHOP_URL });
 addFeedItems(feed, items);
-const outPath = await writeFeed(import.meta.url, 'talo.xml', feed);
-console.log(`✅ ${items.length}件 → ${outPath}`);
+await writeFeed(import.meta.url, 'talo.xml', feed);
