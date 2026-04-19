@@ -41,7 +41,11 @@ jobs:
           node scrapers/kosvintage.js
           node scrapers/mobelman.js
           node scrapers/rafuju.js
+<<<<<<< HEAD
           node scrapers/shabbys.js
+=======
+          node scrapers/shabby.js
+>>>>>>> f2d2f67 (add rafuju)
           node scrapers/still-life.js
           node scrapers/stoop.js
           node scrapers/talo.js
