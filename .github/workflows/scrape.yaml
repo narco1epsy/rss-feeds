@@ -37,6 +37,7 @@ jobs:
           node scrapers/ideot.js
           node scrapers/iens.js
           node scrapers/jokei.js
+          node scrapers/kauniitasiat.js
           node scrapers/mobelman.js
           node scrapers/still-life.js
           node scrapers/stoop.js
