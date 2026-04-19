@@ -36,6 +36,7 @@ jobs:
           node scrapers/decoboco.js
           node scrapers/elephant.js
           node scrapers/graphio-buro.js
+          node scrapers/henshusha.js
           node scrapers/ideot.js
           node scrapers/iens.js
           node scrapers/jokei.js
