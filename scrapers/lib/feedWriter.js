@@ -28,6 +28,7 @@ export function addFeedItems(feed, items) {
             date: item.date || new Date(),
             id: item.link || item.id,
             description: item.description || '',
+            content: item.content || undefined,
             image: item.image,
         });
     }

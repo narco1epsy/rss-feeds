@@ -38,33 +38,23 @@ export async function runWordpressFeed({
     feedPath,
     requestHeaders = {},
     buildDescription = () => '',
+    buildContent = () => undefined,
     mapLink = (item) => item?.link || '',
     mapDate = (item) => new Date(item?.modified || item?.date || Date.now()),
     mapId = (item) => String(item?.link || item?.id || ''),
 }) {
     const rows = await fetchJson(apiUrl, requestHeaders);
-    const feed = createFeed({
-        title: shopName,
-        link: siteUrl,
-    });
+    const feed = createFeed({ title: shopName, link: siteUrl });
 
-    const items = rows.map((item) => {
-        const title = stripHtml(item?.title?.rendered || '');
-        const link = mapLink(item);
-        const date = mapDate(item);
-        const id = mapId(item);
-        const description = buildDescription(item);
-        const image = getImage(item);
-
-        return {
-            title,
-            link,
-            date,
-            id,
-            description,
-            image,
-        };
-    });
+    const items = rows.map((item) => ({
+        title: stripHtml(item?.title?.rendered || ''),
+        link: mapLink(item),
+        date: mapDate(item),
+        id: mapId(item),
+        description: buildDescription(item),
+        content: buildContent(item),
+        image: getImage(item),
+    }));
 
     addFeedItems(feed, items);
     return await writeFeed(metaUrl, feedPath, feed);

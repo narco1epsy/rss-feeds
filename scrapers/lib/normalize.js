@@ -17,7 +17,3 @@ export function stripHtml(html = '') {
     const $ = cheerio.load(html || '');
     return normalizeText($.text());
 }
-
-export function joinLines(lines = []) {
-    return lines.filter(Boolean).join('\n\n');
-}
