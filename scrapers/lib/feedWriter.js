@@ -20,7 +20,7 @@ export function createFeed({ title, link }) {
 
 export function addFeedItems(feed, items) {
     for (const item of items) {
-        if (!item?.title || !item?.link || !item?.image) continue;
+        if (!item?.title || !item?.link) continue;
 
         feed.addItem({
             title: item.title,
@@ -29,7 +29,7 @@ export function addFeedItems(feed, items) {
             id: item.link,
             description: item.description || '',
             content: item.content || undefined,
-            image: item.image,
+            image: item.image || undefined,
         });
     }
 
