@@ -4,9 +4,7 @@ import { fetchText } from './httpClient.js';
 import { normalizeText, normalizeUrl } from './normalize.js';
 
 export async function scrapeBaseShop(config) {
-    const html = await fetchText(config.shopUrl, {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
-    });
+    const html = await fetchText(config.shopUrl);
     const $ = cheerio.load(html);
     const sel = { ...config.selectors };
 
@@ -40,7 +38,6 @@ export async function scrapeBaseShop(config) {
     const feed = createFeed({
         title: config.feedTitle,
         link: config.shopUrl,
-        description: config.feedDesc,
     });
 
     addFeedItems(feed, items);
