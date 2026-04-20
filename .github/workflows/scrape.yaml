@@ -27,28 +27,7 @@ jobs:
           cache-dependency-path: 'package-lock.json'
 
       - run: npm ci
-
-      - name: Run all scrapers
-        run: |
-          node scrapers/ampm.js
-          node scrapers/antiquesalon.js
-          node scrapers/couperin.js
-          node scrapers/decoboco.js
-          node scrapers/elephant.js
-          node scrapers/graphio-buro.js
-          node scrapers/henshusha.js
-          node scrapers/ideot.js
-          node scrapers/iens.js
-          node scrapers/jokei.js
-          node scrapers/kauniitasiat.js
-          node scrapers/kosvintage.js
-          node scrapers/mobelman.js
-          node scrapers/noage.js
-          node scrapers/rafuju.js
-          node scrapers/shabbys.js
-          node scrapers/still-life.js
-          node scrapers/stoop.js
-          node scrapers/talo.js
+      - run: node scrapers/*.js
 
       - name: Publish to gh-pages root
         run: |

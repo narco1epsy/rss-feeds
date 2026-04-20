@@ -1,30 +1,39 @@
-import { getTerms, runWordpressFeed, stripHtml, truncate } from './lib/scrapeWordpress.js';
+import * as cheerio from 'cheerio';
+import { createFeed, addFeedItems, writeFeed } from './lib/feedWriter.js';
+import { fetchText } from './lib/httpClient.js';
+import { normalizeText, normalizeUrl } from './lib/normalize.js';
 
 const SHOP_NAME = 'LET EM IN';
-const SITE_URL = 'https://letemin.jp';
-const API_URL = `${SITE_URL}/wp-json/wp/v2/posts?_embed&per_page=100`;
-const PRODUCT_CATEGORY_ID = 17;
+const SHOP_URL = 'https://letemin.jp/shopping';
 
-await runWordpressFeed({
-    metaUrl: import.meta.url,
-    shopName: SHOP_NAME,
-    siteUrl: `${SITE_URL}/`,
-    apiUrl: API_URL,
-    feedPath: 'letemin.xml',
-    filter: (post) =>
-        Array.isArray(post?.categories) && post.categories.includes(PRODUCT_CATEGORY_ID),
-    buildDescription: (post) => {
-        const excerpt = stripHtml(post?.excerpt?.rendered || '');
-        const content = stripHtml(post?.content?.rendered || '');
-        const categories = getTerms(post, 'category');
-        const tags = getTerms(post, 'post_tag');
+const html = await fetchText(SHOP_URL);
+const $ = cheerio.load(html);
 
-        return [
-            truncate(content, 400) || excerpt,
-            categories.length ? `カテゴリ: ${categories.join(', ')}` : '',
-            tags.length ? `タグ: ${tags.join(', ')}` : '',
-        ]
-            .filter(Boolean)
-            .join('\n\n');
-    },
+const items = [];
+
+$('#shopArchive li').each((_, el) => {
+    const figure = $(el).find('figure.shopArchiveThumb');
+    const link = normalizeUrl(figure.find('p.shopArchiveThumbLink a').attr('href'), SHOP_URL);
+    const imgEl = figure.find('img');
+    const srcset = imgEl.attr('srcset') ?? '';
+    const lastSrcset = srcset
+        .split(',')
+        .map((s) => s.trim().split(' ')[0])
+        .filter(Boolean)
+        .pop();
+    const rawSrc = imgEl.attr('src') ?? '';
+    const image = lastSrcset ?? rawSrc.replace(/-\d+x\d+(\.\w+)$/, '$1');
+    const title = normalizeText(figure.find('figcaption p').eq(0).text());
+    const priceText = normalizeText(figure.find('figcaption p').eq(1).text());
+
+    items.push({
+        title,
+        link,
+        description: priceText || undefined,
+        image,
+    });
 });
+
+const feed = createFeed({ title: SHOP_NAME, link: SHOP_URL });
+addFeedItems(feed, items);
+await writeFeed(import.meta.url, 'letemin.xml', feed);
