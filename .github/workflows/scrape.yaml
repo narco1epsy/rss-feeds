@@ -27,7 +27,7 @@ jobs:
           cache-dependency-path: 'package-lock.json'
 
       - run: npm ci
-      - run: node scrapers/*.js
+      - run: for f in scrapers/*.js; do node "$f"; done
 
       - name: Publish to gh-pages root
         run: |
