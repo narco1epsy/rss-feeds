@@ -46,3 +46,27 @@ export async function postForm(url, body, headers = {}) {
 
     return await res.text();
 }
+
+export async function postGraphQL(url, query, token) {
+    const res = await fetch(url, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'X-Shopify-Storefront-Access-Token': token,
+            'User-Agent': 'Mozilla/5.0 (compatible; rss-feeds-bot/1.0; +GitHub Actions)',
+        },
+        body: JSON.stringify({ query }),
+    });
+
+    if (!res.ok) {
+        throw new Error(`GraphQL request failed: ${res.status} ${res.statusText}`);
+    }
+
+    const json = await res.json();
+
+    if (json.errors?.length) {
+        throw new Error(`GraphQL errors: ${json.errors.map((e) => e.message).join(', ')}`);
+    }
+
+    return json.data;
+}
