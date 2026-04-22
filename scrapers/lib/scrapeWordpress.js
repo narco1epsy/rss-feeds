@@ -1,3 +1,4 @@
+import * as cheerio from 'cheerio';
 import { createFeed, addFeedItems, writeFeed } from './feedWriter.js';
 import { fetchJson } from './httpClient.js';
 import { stripHtml } from './normalize.js';
@@ -14,8 +15,8 @@ export function getFeaturedImage(item) {
 
 export function getContentImage(item) {
     const html = item?.content?.rendered || '';
-    const matched = html.match(/<img[^>]+src=["']([^"']+)["']/i);
-    return matched?.[1] || '';
+    const $ = cheerio.load(html);
+    return $('img').first().attr('src') || '';
 }
 
 export function getImage(item) {

@@ -6,11 +6,19 @@ export function normalizeText(text = '') {
 
 export function normalizeUrl(rawUrl, baseUrl) {
     if (!rawUrl) return '';
-    return new URL(rawUrl, baseUrl).href;
+    try {
+        const url = new URL(rawUrl, baseUrl);
+        if (url.protocol !== 'http:' && url.protocol !== 'https:') return '';
+        return url.href;
+    } catch {
+        return '';
+    }
 }
 
 export function normalizeDate(value) {
-    return value ? new Date(value) : new Date();
+    if (!value) return new Date();
+    const d = new Date(value);
+    return isNaN(d.getTime()) ? new Date() : d;
 }
 
 export function stripHtml(html = '') {

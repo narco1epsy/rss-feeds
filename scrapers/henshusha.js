@@ -1,12 +1,12 @@
 import { runBaseShopFeed } from './lib/scrapeBaseShop.js';
 
-const SHOPNAME = '偏集舎';
-const SITEURL = 'https://henshusha.theshop.jp';
+const SHOP_NAME = '偏集舎';
+const SITE_URL = 'https://henshusha.theshop.jp';
 
 await runBaseShopFeed({
     metaUrl: import.meta.url,
-    shopName: SHOPNAME,
-    siteUrl: SITEURL,
-    apiUrl: `${SITEURL}/load_items/1?response_type=json`,
+    shopName: SHOP_NAME,
+    siteUrl: SITE_URL,
+    apiUrl: `${SITE_URL}/load_items/1?response_type=json`,
     feedFile: 'henshusha.xml',
 });

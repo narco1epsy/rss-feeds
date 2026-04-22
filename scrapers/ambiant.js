@@ -35,7 +35,8 @@ const feed = createFeed({ title: SHOP_NAME, link: COLLECTION_URL });
 
 const items = nodes.map((node) => {
     const link = node.onlineStoreUrl ?? `${SITE_URL}/products/${node.handle}`;
-    const { amount, currencyCode } = node.priceRange.minVariantPrice;
+    const amount = node.priceRange?.minVariantPrice?.amount ?? '0';
+    const currencyCode = node.priceRange?.minVariantPrice?.currencyCode ?? 'JPY';
     const price = `${Number(amount).toLocaleString('ja-JP')}${currencyCode}`;
     const stock = node.availableForSale ? '在庫あり' : '売切れ';
     const description = [normalizeText(node.description), `${price} / ${stock}`]

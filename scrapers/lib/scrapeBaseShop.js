@@ -13,6 +13,8 @@ export async function runBaseShopFeed({
     mapLink = (item) => item?.url || '',
 }) {
     const rows = await fetchJson(apiUrl, requestHeaders);
+    if (!Array.isArray(rows)) throw new Error(`Unexpected response from ${apiUrl}`);
+
     const feed = createFeed({ title: shopName, link: siteUrl });
 
     const items = rows.map((item) => ({

@@ -1,5 +1,6 @@
 import { createFeed, addFeedItems, writeFeed } from './lib/feedWriter.js';
 import { fetchJson } from './lib/httpClient.js';
+import { normalizeDate } from './lib/normalize.js';
 
 const SHOP_NAME = 'ELEPHANT';
 const SITE_URL = 'https://elephant-life.com';
@@ -14,7 +15,7 @@ products.sort((a, b) => new Date(b?.published_at || 0) - new Date(a?.published_a
 const items = products.map((product) => ({
     title: product.title || '',
     link: `${SITE_URL}/products/${product.handle}`,
-    date: new Date(product.published_at || Date.now()),
+    date: normalizeDate(product.published_at),
     content: product.body_html || undefined,
     image: product?.images?.[0]?.src || product?.image?.src || '',
 }));

@@ -3,11 +3,11 @@ import { createFeed, addFeedItems, writeFeed } from './lib/feedWriter.js';
 import { fetchText } from './lib/httpClient.js';
 import { normalizeText, normalizeUrl } from './lib/normalize.js';
 
-const SHOPNAME = 'D&DEPARTMENT USED';
-const SITEURL = 'https://www.d-department.com';
-const LISTURL = `${SITEURL}/category/STORE_USED/`;
+const SHOP_NAME = 'D&DEPARTMENT USED';
+const SITE_URL = 'https://www.d-department.com';
+const LIST_URL = `${SITE_URL}/category/STORE_USED/`;
 
-const html = await fetchText(LISTURL);
+const html = await fetchText(LIST_URL);
 const $ = cheerio.load(html);
 
 const items = [];
@@ -17,10 +17,10 @@ $('article.content-block.item').each((_, article) => {
     const linkEl = root.find('a.content-block-link.item-link').first();
     const imgEl = root.find('.item-image figure img').first();
 
-    const link = normalizeUrl(linkEl.attr('href'), LISTURL);
+    const link = normalizeUrl(linkEl.attr('href'), LIST_URL);
     const title = normalizeText(root.find('.item-store-title span').first().text());
     const price = normalizeText(root.find('.item-store-price').first().text());
-    const image = normalizeUrl(imgEl.attr('src') || imgEl.attr('data-src'), SITEURL);
+    const image = normalizeUrl(imgEl.attr('src') || imgEl.attr('data-src') || '', SITE_URL);
     const alt = normalizeText(imgEl.attr('alt') || '');
 
     const description = [price, alt && alt !== title ? alt : ''].filter(Boolean).join(' / ');
@@ -34,8 +34,8 @@ $('article.content-block.item').each((_, article) => {
 });
 
 const feed = createFeed({
-    title: SHOPNAME,
-    link: LISTURL,
+    title: SHOP_NAME,
+    link: LIST_URL,
 });
 
 addFeedItems(feed, items);

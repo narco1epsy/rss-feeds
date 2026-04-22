@@ -1,12 +1,12 @@
-// scrapers/rafuju.js
 import * as cheerio from 'cheerio';
 import { createFeed, addFeedItems, writeFeed } from './lib/feedWriter.js';
 import { fetchText } from './lib/httpClient.js';
 import { normalizeText, normalizeUrl } from './lib/normalize.js';
 
-const SHOPNAME = 'アンティーク家具ラフジュ工房';
-const LISTURL = 'https://rafuju.jp/products/list.php?orderby=date&disp_number=200&pageno=1';
-const FEEDFILE = 'rafuju.xml';
+const SHOP_NAME = 'アンティーク家具ラフジュ工房';
+const SITE_URL = 'https://rafuju.jp';
+const LIST_URL = `${SITE_URL}/products/list.php?orderby=date&disp_number=200&pageno=1`;
+const FEED_FILE = 'rafuju.xml';
 
 function extractJsonLd(html) {
     const $ = cheerio.load(html);
@@ -25,7 +25,7 @@ function extractJsonLd(html) {
         try {
             parsed.push(JSON.parse(block));
         } catch (error) {
-            console.warn('JSON.parse に失敗した block をスキップします');
+            console.warn('JSON.parse に失敗した block をスキップします:', error.message);
         }
     }
 
@@ -36,7 +36,7 @@ function extractJsonLd(html) {
     return parsed;
 }
 
-const html = await fetchText(LISTURL);
+const html = await fetchText(LIST_URL);
 const jsonLdList = extractJsonLd(html);
 
 const items = jsonLdList
@@ -45,8 +45,8 @@ const items = jsonLdList
     .map((entry) => {
         const product = entry?.item ?? {};
         const offer = product?.offers ?? {};
-        const link = normalizeUrl(product?.url, LISTURL);
-        const image = normalizeUrl(product?.image, LISTURL);
+        const link = normalizeUrl(product?.url, LIST_URL);
+        const image = normalizeUrl(product?.image, LIST_URL);
         const title = normalizeText(product?.name ?? product?.sku ?? '');
         const price = offer?.price ? `¥${offer.price}` : '';
         const condition = offer?.itemCondition
@@ -64,6 +64,6 @@ const items = jsonLdList
         };
     });
 
-const feed = createFeed({ title: SHOPNAME, link: LISTURL });
+const feed = createFeed({ title: SHOP_NAME, link: SITE_URL });
 addFeedItems(feed, items);
-await writeFeed(import.meta.url, FEEDFILE, feed);
+await writeFeed(import.meta.url, FEED_FILE, feed);

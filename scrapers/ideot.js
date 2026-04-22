@@ -1,7 +1,7 @@
 import * as cheerio from 'cheerio';
 import { createFeed, addFeedItems, writeFeed } from './lib/feedWriter.js';
 import { postForm } from './lib/httpClient.js';
-import { normalizeText } from './lib/normalize.js';
+import { normalizeText, normalizeUrl } from './lib/normalize.js';
 
 const SHOP_NAME = 'ideot';
 const SITE_URL = 'https://ideot.net';
@@ -20,7 +20,7 @@ const items = [];
 $('.item_index > li').each((_, li) => {
     const article = $(li).children('article').first();
     const mainLink = article.children('a').first();
-    const url = mainLink.attr('href')?.trim() || '';
+    const link = normalizeUrl(mainLink.attr('href'), SITE_URL);
     const image =
         mainLink.find('figure img').attr('src')?.trim() ||
         mainLink.find('figure img').attr('data-src')?.trim() ||
@@ -45,7 +45,7 @@ $('.item_index > li').each((_, li) => {
         .filter(Boolean)
         .join(' / ');
 
-    items.push({ title, link: url, description, image });
+    items.push({ title, link, description, image });
 });
 
 const feed = createFeed({ title: SHOP_NAME, link: LIST_URL });
