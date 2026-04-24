@@ -5,7 +5,7 @@ import { normalizeText, normalizeUrl } from './lib/normalize.js';
 
 const SHOP_NAME = 'アンティーク家具ラフジュ工房';
 const SITE_URL = 'https://rafuju.jp';
-const LIST_URL = `${SITE_URL}/products/list.php?orderby=date&disp_number=200&pageno=1`;
+const LIST_URL = `${SITE_URL}/products/list.php?orderby=date&disp_number=100&pageno=1`;
 const FEED_FILE = 'rafuju.xml';
 
 function extractJsonLd(html) {
