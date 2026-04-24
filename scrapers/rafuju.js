@@ -5,29 +5,36 @@ import { normalizeText, normalizeUrl } from './lib/normalize.js';
 
 const SHOP_NAME = 'アンティーク家具ラフジュ工房';
 const SITE_URL = 'https://rafuju.jp';
-const LIST_URL = `${SITE_URL}/products/list.php?orderby=date&disp_number=100&pageno=1`;
+const LIST_URL = `${SITE_URL}/products/list.php?orderby=date&disp_number=200&pageno=1`;
 const FEED_FILE = 'rafuju.xml';
 
 function extractJsonLd(html) {
     const $ = cheerio.load(html);
     const blocks = $('script[type="application/ld+json"]')
         .toArray()
-        .map((el) => $(el).html()?.trim())
+        .map((el) => el.children?.[0]?.data?.trim() ?? null)
         .filter(Boolean);
 
     if (!blocks.length) {
         throw new Error('application/ld+json が見つかりません');
     }
 
-    const parsed = [];
-
-    for (const block of blocks) {
+    const tryParse = (block) => {
         try {
-            parsed.push(JSON.parse(block));
+            return JSON.parse(block);
+        } catch {
+            return JSON.parse(block.replace(/\\(?!["\\/bfnrtu])/g, '\\\\'));
+        }
+    };
+
+    const parsed = blocks.flatMap((block) => {
+        try {
+            return [tryParse(block)];
         } catch (error) {
             console.warn('JSON.parse に失敗した block をスキップします:', error.message);
+            return [];
         }
-    }
+    });
 
     if (!parsed.length) {
         throw new Error('parse 可能な JSON-LD がありません');
