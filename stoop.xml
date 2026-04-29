@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Wed, 29 Apr 2026 00:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 04:04:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -1048,6 +1048,17 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main_0022_20251201-1-main-6196.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘Arcibaldo’ Coat Rack by Giorgio Marianelli and Raul Barbieri for Valenti]]></title>
+            <link>https://stoop.jp/collection/59059</link>
+            <guid>https://stoop.jp/collection/59059</guid>
+            <pubDate>Mon, 01 Dec 2025 19:31:39 GMT</pubDate>
+            <description><![CDATA[genre: DECOR, OBJECT, STORAGE
+genre2: MINIMAL & POSTMODERN, VINTAGE
+period: 1980s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2025/12/main3_0009_20251201-3-main-831822.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Reno Side Table by Frederico Correa & Alfonso Mila for Gres in Wood]]></title>
             <link>https://stoop.jp/collection/58627</link>
             <guid>https://stoop.jp/collection/58627</guid>
@@ -1189,18 +1200,6 @@ genre2: CONTEMPORARY
 period: Contemporary
 country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/01/fukuda-mainNo.8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pirkka Chair by Ilmari Tapiovaara for Laukaan Puu in Wood]]></title>
-            <link>https://stoop.jp/collection/58723</link>
-            <guid>https://stoop.jp/collection/58723</guid>
-            <pubDate>Mon, 01 Dec 2025 17:54:12 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
-creator: Ilmari Tapiovaara
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: Finland]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main_0010_20251201-1-main-6432.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
