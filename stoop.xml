@@ -4,10 +4,21 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Thu, 30 Apr 2026 09:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 11:54:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Safari Arm Chair by Wilhelm Kienzle for Wohnbedarf in Wood , Canvas and Leather]]></title>
+            <link>https://stoop.jp/collection/58788</link>
+            <guid>https://stoop.jp/collection/58788</guid>
+            <pubDate>Tue, 21 Apr 2026 19:59:42 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1960s
+country: Switzerland]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/003.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LC2 Sofa by Le Corbusier , Charlotte Perriand , Pierre Jeanneret for Cassina in Fabric and Chrome]]></title>
             <link>https://stoop.jp/collection/64540</link>
@@ -1187,19 +1198,6 @@ genre2: MINIMAL & POSTMODERN, VINTAGE
 period: 1980s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/02/fu-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[For temperature of colors 002 by Shuhei Fukuda]]></title>
-            <link>https://stoop.jp/collection/62678</link>
-            <guid>https://stoop.jp/collection/62678</guid>
-            <pubDate>Mon, 01 Dec 2025 17:54:15 GMT</pubDate>
-            <description><![CDATA[genre: ART, DECOR
-artists: Shuhei Fukuda
-focus_on: Presence
-genre2: CONTEMPORARY
-period: Contemporary
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/01/fukuda-mainNo.8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
