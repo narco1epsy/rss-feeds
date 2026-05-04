@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Mon, 04 May 2026 15:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 17:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -94,7 +94,7 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/0327-02-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Onda Sofa by Giovanni Offredi for saporiti italia in Fabric and Steel]]></title>
+            <title><![CDATA[Wave Sofa by Giovanni Offredi for saporiti italia in Fabric and Steel]]></title>
             <link>https://stoop.jp/collection/64650</link>
             <guid>https://stoop.jp/collection/64650</guid>
             <pubDate>Mon, 16 Mar 2026 21:16:32 GMT</pubDate>
