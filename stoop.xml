@@ -4,21 +4,10 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Mon, 04 May 2026 07:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 10:26:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
-        <item>
-            <title><![CDATA[Safari Arm Chair by Wilhelm Kienzle for Wohnbedarf in Wood , Canvas and Leather]]></title>
-            <link>https://stoop.jp/collection/58788</link>
-            <guid>https://stoop.jp/collection/58788</guid>
-            <pubDate>Tue, 21 Apr 2026 19:59:42 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1960s
-country: Switzerland]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/003.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[LC2 Sofa by Le Corbusier , Charlotte Perriand , Pierre Jeanneret for Cassina in Fabric and Chrome]]></title>
             <link>https://stoop.jp/collection/64540</link>
@@ -213,6 +202,17 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/0327-05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Safari Arm Chair by Wilhelm Kienzle for Wohnbedarf in Wood , Canvas and Leather]]></title>
+            <link>https://stoop.jp/collection/58788</link>
+            <guid>https://stoop.jp/collection/58788</guid>
+            <pubDate>Mon, 16 Mar 2026 11:20:42 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1960s
+country: Switzerland]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/003.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sideboard by Aldo Tura for Tura Milano in Goat Leather , Wood and Glass]]></title>
             <link>https://stoop.jp/collection/65799</link>
             <guid>https://stoop.jp/collection/65799</guid>
@@ -255,18 +255,6 @@ genre2: VINTAGE
 period: 1970s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0015_20260317-MAIN-059122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PB02 Stool by Cees Braakman for Pastoe in Fabric and Birch]]></title>
-            <link>https://stoop.jp/collection/64660</link>
-            <guid>https://stoop.jp/collection/64660</guid>
-            <pubDate>Mon, 16 Mar 2026 02:20:09 GMT</pubDate>
-            <description><![CDATA[genre: SEATING, STOOL
-creator: Cees Braakman
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: Netherlands]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0002_20260317-MAIN-9939.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Seen through a small window by Ikki Kobayashi for Nan Fang Shu-chu]]></title>
@@ -338,17 +326,6 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0027_20260317-MAIN-03521.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Coffee Table in Seagrass and Iron]]></title>
-            <link>https://stoop.jp/collection/59068</link>
-            <guid>https://stoop.jp/collection/59068</guid>
-            <pubDate>Sat, 14 Mar 2026 00:00:20 GMT</pubDate>
-            <description><![CDATA[genre: COFFEE TABLE, TABLE
-genre2: VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0019_20260317-MAIN-0537.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Callimaco Floor Lamp by Ettore Sottsass for Artemide in Steel]]></title>
             <link>https://stoop.jp/collection/63792</link>
             <guid>https://stoop.jp/collection/63792</guid>
@@ -373,6 +350,17 @@ genre2: CONTEMPORARY
 period: Contemporary
 country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/02/fukuda-art-2007.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coffee Table in Seagrass and Iron]]></title>
+            <link>https://stoop.jp/collection/59068</link>
+            <guid>https://stoop.jp/collection/59068</guid>
+            <pubDate>Wed, 14 Jan 2026 00:00:20 GMT</pubDate>
+            <description><![CDATA[genre: COFFEE TABLE, TABLE
+genre2: VINTAGE
+period: 1970s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0019_20260317-MAIN-0537.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dining Chair by Jean-René Picard for SETA in Glassfiber and Steel]]></title>
@@ -494,6 +482,18 @@ genre2: CONTEMPORARY
 period: Contemporary
 country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2025/12/fukuda-art-2011-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PB02 Stool by Cees Braakman for Pastoe in Fabric and Birch]]></title>
+            <link>https://stoop.jp/collection/64660</link>
+            <guid>https://stoop.jp/collection/64660</guid>
+            <pubDate>Mon, 01 Dec 2025 22:19:09 GMT</pubDate>
+            <description><![CDATA[genre: SEATING, STOOL
+creator: Cees Braakman
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1950s
+country: Netherlands]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0002_20260317-MAIN-9939.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Applique À Volet Pivotant Plié Wall Lamp by Charlotte Perriand for NEMO]]></title>
