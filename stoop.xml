@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Mon, 04 May 2026 10:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 12:57:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -166,16 +166,18 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/0327-06.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Desk Lamp by Charlotte Perriand for Philips in Steel]]></title>
-            <link>https://stoop.jp/collection/64544</link>
-            <guid>https://stoop.jp/collection/64544</guid>
-            <pubDate>Mon, 16 Mar 2026 18:06:23 GMT</pubDate>
-            <description><![CDATA[genre: LIGHTING, TABLE LAMP
-creator: Charlotte Perriand
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1960s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0012_20260317-MAIN-0657.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[PAROLA Floor Lamp Amber by Gae Aulenti & Piero Castiglion for FontanaArte]]></title>
+            <link>https://stoop.jp/collection/37336</link>
+            <guid>https://stoop.jp/collection/37336</guid>
+            <pubDate>Mon, 16 Mar 2026 18:07:51 GMT</pubDate>
+            <description><![CDATA[genre: FLOOR LAMP, LIGHTING
+maker: FontanaArte
+creator: Gae Aulenti
+focus_on: Glass Furniture, Italian , French and Dutch Design Mix
+genre2: MINIMAL & POSTMODERN, NEW EDITION
+period: 1980s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2025/08/1006-01-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PIPISTRELLO Medium Table Lamp by Gae Aulenti for Martinelli Luce]]></title>
@@ -222,6 +224,18 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/0327-01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Desk Lamp by Charlotte Perriand for Philips in Steel]]></title>
+            <link>https://stoop.jp/collection/64544</link>
+            <guid>https://stoop.jp/collection/64544</guid>
+            <pubDate>Mon, 16 Mar 2026 11:17:23 GMT</pubDate>
+            <description><![CDATA[genre: LIGHTING, TABLE LAMP
+creator: Charlotte Perriand
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1960s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0012_20260317-MAIN-0657.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Washington Dining Table by Jean-Michel Wilmotte in Glass and Steel]]></title>
@@ -315,6 +329,19 @@ country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0007_20260317-MAIN-9776.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Prism Glass Wardrobe by Tokujin Yoshioka for GLAS ITALIA in Glass , Steel and Mirror]]></title>
+            <link>https://stoop.jp/collection/48441</link>
+            <guid>https://stoop.jp/collection/48441</guid>
+            <pubDate>Sun, 15 Mar 2026 00:03:56 GMT</pubDate>
+            <description><![CDATA[genre: STORAGE
+maker: GLAS ITALIA
+focus_on: Glass Furniture
+genre2: NEW EDITION
+period: 2000s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2025/04/topso_showroom_sub_062-12.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sculptural Table in Limestone]]></title>
             <link>https://stoop.jp/collection/64614</link>
             <guid>https://stoop.jp/collection/64614</guid>
@@ -350,17 +377,6 @@ genre2: CONTEMPORARY
 period: Contemporary
 country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/02/fukuda-art-2007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coffee Table in Seagrass and Iron]]></title>
-            <link>https://stoop.jp/collection/59068</link>
-            <guid>https://stoop.jp/collection/59068</guid>
-            <pubDate>Wed, 14 Jan 2026 00:00:20 GMT</pubDate>
-            <description><![CDATA[genre: COFFEE TABLE, TABLE
-genre2: VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0019_20260317-MAIN-0537.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dining Chair by Jean-René Picard for SETA in Glassfiber and Steel]]></title>
@@ -1195,17 +1211,6 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1950s
 country: Finland]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main2_0013_20251201-2-main-7293-00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dining Chair in Wood]]></title>
-            <link>https://stoop.jp/collection/58977</link>
-            <guid>https://stoop.jp/collection/58977</guid>
-            <pubDate>Mon, 01 Dec 2025 16:13:55 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
-genre2: VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main_0015_20251201-1-main-6322.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
