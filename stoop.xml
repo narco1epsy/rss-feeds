@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Tue, 05 May 2026 09:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 11:40:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -33,6 +33,19 @@ country: Netherlands]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0023_20260317-MAIN-0449.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ghost Armchair by Cini Boeri & Tomu Katayanagi for FIAM in Glass]]></title>
+            <link>https://stoop.jp/collection/66300</link>
+            <guid>https://stoop.jp/collection/66300</guid>
+            <pubDate>Mon, 16 Mar 2026 23:08:13 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+maker: FIAM
+focus_on: Glass Furniture
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1970s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/glass62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Wassily Daybed by Marcel Breuer in Chrome and Calf Hair Leather]]></title>
             <link>https://stoop.jp/collection/64617</link>
             <guid>https://stoop.jp/collection/64617</guid>
@@ -58,6 +71,19 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0017_20260317-MAIN-05652.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TESO Glass Table by Renzo Piano for FontanaArte in Glass and Metal]]></title>
+            <link>https://stoop.jp/collection/66175</link>
+            <guid>https://stoop.jp/collection/66175</guid>
+            <pubDate>Mon, 16 Mar 2026 22:03:18 GMT</pubDate>
+            <description><![CDATA[genre: DINING TABLE, TABLE
+maker: FontanaArte
+focus_on: Glass Furniture
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1980s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/glass52.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Medea Chair by Vittorio Nobili for Tagliabue F.lli in Plywood and Steel]]></title>
             <link>https://stoop.jp/collection/64602</link>
             <guid>https://stoop.jp/collection/64602</guid>
@@ -80,6 +106,18 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0036_20260317-MAIN-005422.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bent Glass Chair in Navy Fabric and Steel]]></title>
+            <link>https://stoop.jp/collection/22920</link>
+            <guid>https://stoop.jp/collection/22920</guid>
+            <pubDate>Mon, 16 Mar 2026 21:23:02 GMT</pubDate>
+            <description><![CDATA[genre: SEATING
+focus_on: Glass Furniture
+genre2: MINIMAL & POSTMODERN, VINTAGE
+period: 1980s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/glass1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sideboard by Giovanni Offredi for saporiti italia in Maple]]></title>
@@ -153,6 +191,18 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/0327-07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Glass Side Table for Shviro Holon in Glass and Metal]]></title>
+            <link>https://stoop.jp/collection/66185</link>
+            <guid>https://stoop.jp/collection/66185</guid>
+            <pubDate>Mon, 16 Mar 2026 19:23:33 GMT</pubDate>
+            <description><![CDATA[genre: SIDE TABLE, TABLE
+focus_on: Glass Furniture
+genre2: MINIMAL & POSTMODERN, VINTAGE
+period: 1980s
+country: Israel]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/glass3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SORIANA Sofa by Afra and Tobia Scarpa for Cassina in Fabric and Chrome]]></title>
             <link>https://stoop.jp/collection/65806</link>
             <guid>https://stoop.jp/collection/65806</guid>
@@ -202,6 +252,18 @@ genre2: ART DECO, VINTAGE
 period: 1970s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/0327-05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Magazine rack for Marais International in Glass and Plexiglas]]></title>
+            <link>https://stoop.jp/collection/66178</link>
+            <guid>https://stoop.jp/collection/66178</guid>
+            <pubDate>Mon, 16 Mar 2026 11:20:57 GMT</pubDate>
+            <description><![CDATA[genre: STORAGE
+focus_on: Glass Furniture
+genre2: MINIMAL & POSTMODERN, VINTAGE
+period: 1980s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/glass23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Safari Arm Chair by Wilhelm Kienzle for Wohnbedarf in Wood , Canvas and Leather]]></title>
@@ -269,6 +331,18 @@ genre2: VINTAGE
 period: 1970s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0015_20260317-MAIN-059122.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glass Top Coffee Table by Leon Rosen for Pace Collection in Glass and Brass]]></title>
+            <link>https://stoop.jp/collection/66188</link>
+            <guid>https://stoop.jp/collection/66188</guid>
+            <pubDate>Mon, 16 Mar 2026 02:21:46 GMT</pubDate>
+            <description><![CDATA[genre: COFFEE TABLE, TABLE
+focus_on: Glass Furniture
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1970s
+country: America]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/glass4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Seen through a small window by Ikki Kobayashi for Nan Fang Shu-chu]]></title>
@@ -1138,79 +1212,6 @@ genre2: CONTEMPORARY
 period: Contemporary
 country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/01/fukuda-mainNo.002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Applique À Volet Pivotant CP1 Wall Lamp by Charlotte Perriand for NEMO in Red]]></title>
-            <link>https://stoop.jp/collection/62526</link>
-            <guid>https://stoop.jp/collection/62526</guid>
-            <pubDate>Mon, 01 Dec 2025 17:00:40 GMT</pubDate>
-            <description><![CDATA[genre: LIGHTING, WALL LAMP
-maker: NEMO
-creator: Charlotte Perriand
-genre2: MID-CENTURY MODERN, NEW EDITION
-period: 1960s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/01/20260112-TOPSO-MAIN32-5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Coffee Table in Glass and Travertine]]></title>
-            <link>https://stoop.jp/collection/58785</link>
-            <guid>https://stoop.jp/collection/58785</guid>
-            <pubDate>Mon, 01 Dec 2025 16:57:44 GMT</pubDate>
-            <description><![CDATA[genre: COFFEE TABLE, TABLE
-genre2: VINTAGE
-period: 1970s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/12/main5_0001_20251201-main-5-989233.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Potence Pivotante Wall Lamp by Charlotte Perriand for NEMO]]></title>
-            <link>https://stoop.jp/collection/62469</link>
-            <guid>https://stoop.jp/collection/62469</guid>
-            <pubDate>Mon, 01 Dec 2025 16:42:46 GMT</pubDate>
-            <description><![CDATA[genre: LIGHTING, WALL LAMP
-maker: NEMO
-creator: Charlotte Perriand
-genre2: MID-CENTURY MODERN, NEW EDITION
-period: 1930s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/01/20260112-TOPSO-MAIN-10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TZ 75 Coffee Table by Werner Blaser for Spectrum in Glass and Wood]]></title>
-            <link>https://stoop.jp/collection/59021</link>
-            <guid>https://stoop.jp/collection/59021</guid>
-            <pubDate>Mon, 01 Dec 2025 16:38:23 GMT</pubDate>
-            <description><![CDATA[genre: COFFEE TABLE, TABLE
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1960s
-country: Netherlands]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main5_0000_20251201-main-5-9936.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Quiet Presence 002 by Shuhei Fukuda]]></title>
-            <link>https://stoop.jp/collection/63627</link>
-            <guid>https://stoop.jp/collection/63627</guid>
-            <pubDate>Mon, 01 Dec 2025 16:36:26 GMT</pubDate>
-            <description><![CDATA[genre: ART, DECOR
-artists: Shuhei Fukuda
-focus_on: Presence
-genre2: CONTEMPORARY
-period: Contemporary
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/12/fukuda-art-20092.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pirkka Bench by Ilmari Tapiovaara for Laukaan Puu in Wood]]></title>
-            <link>https://stoop.jp/collection/58992</link>
-            <guid>https://stoop.jp/collection/58992</guid>
-            <pubDate>Mon, 01 Dec 2025 16:21:29 GMT</pubDate>
-            <description><![CDATA[genre: BENCH, SEATING
-creator: Ilmari Tapiovaara
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: Finland]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main2_0013_20251201-2-main-7293-00.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
