@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Tue, 05 May 2026 11:40:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 16:57:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -409,6 +409,7 @@ country: France]]></description>
             <pubDate>Sun, 15 Mar 2026 00:03:56 GMT</pubDate>
             <description><![CDATA[genre: STORAGE
 maker: GLAS ITALIA
+creator: Tokujin Yoshioka
 focus_on: Glass Furniture
 genre2: NEW EDITION
 period: 2000s
