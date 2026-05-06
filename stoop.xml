@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Wed, 06 May 2026 06:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 09:37:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -41,7 +41,7 @@ country: Netherlands]]></description>
 maker: FIAM
 focus_on: Glass Furniture
 genre2: MID-CENTURY MODERN, VINTAGE
-period: 1970s
+period: 1980s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/glass62.jpg" length="0" type="image/jpg"/>
         </item>
