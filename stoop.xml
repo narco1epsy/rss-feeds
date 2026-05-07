@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Thu, 07 May 2026 00:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 04:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -20,6 +20,19 @@ genre2: VINTAGE
 period: 1980s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[trace Untitled by Shiho Hayashi]]></title>
+            <link>https://stoop.jp/collection/66244</link>
+            <guid>https://stoop.jp/collection/66244</guid>
+            <pubDate>Mon, 16 Mar 2026 23:44:53 GMT</pubDate>
+            <description><![CDATA[genre: ART, DECOR, OBJECT
+artists: Shiho Hayashi
+focus_on: Blending Forms
+genre2: CONTEMPORARY
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/shihohayashi-2-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cabinet by Frits Spanjaard in Wood and Steel]]></title>
@@ -96,6 +109,19 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0008_20260317-MAIN-9712.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[trace Untitled by Shiho Hayashi]]></title>
+            <link>https://stoop.jp/collection/66254</link>
+            <guid>https://stoop.jp/collection/66254</guid>
+            <pubDate>Mon, 16 Mar 2026 22:02:16 GMT</pubDate>
+            <description><![CDATA[genre: ART, DECOR, OBJECT
+artists: Shiho Hayashi
+focus_on: Blending Forms
+genre2: CONTEMPORARY
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/shihohayashi-63-1-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Day Bed by Gio Ponti for Italbed in Wood , Steel , Brass , Rubber and Fabric]]></title>
             <link>https://stoop.jp/collection/64608</link>
             <guid>https://stoop.jp/collection/64608</guid>
@@ -165,6 +191,19 @@ genre2: MINIMAL & POSTMODERN, VINTAGE
 period: 1980s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0020_20260317-MAIN-0511.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[trace Untitled by Shiho Hayashi]]></title>
+            <link>https://stoop.jp/collection/66242</link>
+            <guid>https://stoop.jp/collection/66242</guid>
+            <pubDate>Mon, 16 Mar 2026 20:59:04 GMT</pubDate>
+            <description><![CDATA[genre: ART, DECOR, OBJECT
+artists: Shiho Hayashi
+focus_on: Blending Forms
+genre2: CONTEMPORARY, MID-CENTURY MODERN
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/shihohayashi-432-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mr 10 / Mr 533 Chair by Mies van der Rohe for Knoll in Leather and Chrome]]></title>
@@ -254,6 +293,19 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/0327-05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[trace Untitled by Shiho Hayashi]]></title>
+            <link>https://stoop.jp/collection/66252</link>
+            <guid>https://stoop.jp/collection/66252</guid>
+            <pubDate>Mon, 16 Mar 2026 11:22:22 GMT</pubDate>
+            <description><![CDATA[genre: ART, DECOR, OBJECT
+artists: Shiho Hayashi
+focus_on: Blending Forms
+genre2: CONTEMPORARY
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/shihohayashi-5-1-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Magazine rack for Marais International in Glass and Plexiglas]]></title>
             <link>https://stoop.jp/collection/66178</link>
             <guid>https://stoop.jp/collection/66178</guid>
@@ -309,6 +361,19 @@ genre2: MINIMAL & POSTMODERN, VINTAGE
 period: 1980s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0031_20260317-MAIN-0208.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Providence by Shiho Hayashi]]></title>
+            <link>https://stoop.jp/collection/66256</link>
+            <guid>https://stoop.jp/collection/66256</guid>
+            <pubDate>Mon, 16 Mar 2026 11:05:54 GMT</pubDate>
+            <description><![CDATA[genre: ART, DECOR, OBJECT
+artists: Shiho Hayashi
+focus_on: Blending Forms
+genre2: CONTEMPORARY
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/shihohayashi-72-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lounge Chair by Anton Lorenz in Metal and Fabric]]></title>
@@ -369,6 +434,19 @@ country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0034_20260317-MAIN-0127.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[trace Untitled by Shiho Hayashi]]></title>
+            <link>https://stoop.jp/collection/66246</link>
+            <guid>https://stoop.jp/collection/66246</guid>
+            <pubDate>Mon, 16 Mar 2026 00:04:36 GMT</pubDate>
+            <description><![CDATA[genre: ART, DECOR, OBJECT
+artists: Shiho Hayashi
+focus_on: Blending Forms
+genre2: CONTEMPORARY
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/shihohayashi-12-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dining Chair in Wood and Fabric]]></title>
             <link>https://stoop.jp/collection/58777</link>
             <guid>https://stoop.jp/collection/58777</guid>
@@ -401,6 +479,19 @@ genre2: MINIMAL & POSTMODERN, VINTAGE
 period: 1980s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0007_20260317-MAIN-9776.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[trace Untitled by Shiho Hayashi]]></title>
+            <link>https://stoop.jp/collection/66249</link>
+            <guid>https://stoop.jp/collection/66249</guid>
+            <pubDate>Sun, 15 Mar 2026 00:04:49 GMT</pubDate>
+            <description><![CDATA[genre: ART, DECOR, OBJECT
+artists: Shiho Hayashi
+focus_on: Blending Forms
+genre2: CONTEMPORARY
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/shihohayashi-3-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Prism Glass Wardrobe by Tokujin Yoshioka for GLAS ITALIA in Glass , Steel and Mirror]]></title>
@@ -1129,90 +1220,6 @@ genre2: MID-CENTURY MODERN, NEW EDITION
 period: 2000s
 country: Brazil]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2025/08/SQURE_0012_2024-0201-2F-748724.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Glass Side Table in Glass and Iron]]></title>
-            <link>https://stoop.jp/collection/63843</link>
-            <guid>https://stoop.jp/collection/63843</guid>
-            <pubDate>Mon, 01 Dec 2025 17:55:32 GMT</pubDate>
-            <description><![CDATA[genre: SIDE TABLE, TABLE
-genre2: MINIMAL & POSTMODERN, VINTAGE
-period: 1980s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/02/fu-02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[For temperature of colors 002 by Shuhei Fukuda]]></title>
-            <link>https://stoop.jp/collection/62678</link>
-            <guid>https://stoop.jp/collection/62678</guid>
-            <pubDate>Mon, 01 Dec 2025 17:54:15 GMT</pubDate>
-            <description><![CDATA[genre: ART, DECOR
-artists: Shuhei Fukuda
-focus_on: Presence
-genre2: CONTEMPORARY
-period: Contemporary
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/01/fukuda-mainNo.8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pirkka Chair by Ilmari Tapiovaara for Laukaan Puu in Wood]]></title>
-            <link>https://stoop.jp/collection/58723</link>
-            <guid>https://stoop.jp/collection/58723</guid>
-            <pubDate>Mon, 01 Dec 2025 17:54:12 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
-creator: Ilmari Tapiovaara
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: Finland]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main_0010_20251201-1-main-6432.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pirkka Dining Table by Ilmari Tapiovaara for Laukaan Puu in Wood]]></title>
-            <link>https://stoop.jp/collection/58989</link>
-            <guid>https://stoop.jp/collection/58989</guid>
-            <pubDate>Mon, 01 Dec 2025 17:53:01 GMT</pubDate>
-            <description><![CDATA[genre: DINING TABLE, TABLE
-creator: Ilmari Tapiovaara
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: Finland]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/12/main6_0009_20251201-6-main-0174.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nest Table Set in Wood]]></title>
-            <link>https://stoop.jp/collection/59076</link>
-            <guid>https://stoop.jp/collection/59076</guid>
-            <pubDate>Mon, 01 Dec 2025 17:09:26 GMT</pubDate>
-            <description><![CDATA[genre: SIDE TABLE, TABLE
-genre2: VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main_0009_20251201-1-main-64672.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kazuki Floor Lamp by Kazuhide Takahama for Sirrah in Plastic and Polyester]]></title>
-            <link>https://stoop.jp/collection/58726</link>
-            <guid>https://stoop.jp/collection/58726</guid>
-            <pubDate>Mon, 01 Dec 2025 17:02:53 GMT</pubDate>
-            <description><![CDATA[genre: FLOOR LAMP, LIGHTING
-creator: Kazuhide Takahama
-genre2: VINTAGE
-period: 1970s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/12/main3_0006_20251201-3-main-836522.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silent 014-002 by Shuhei Fukuda]]></title>
-            <link>https://stoop.jp/collection/62682</link>
-            <guid>https://stoop.jp/collection/62682</guid>
-            <pubDate>Mon, 01 Dec 2025 17:02:45 GMT</pubDate>
-            <description><![CDATA[genre: ART, DECOR
-artists: Shuhei Fukuda
-focus_on: Presence
-genre2: CONTEMPORARY
-period: Contemporary
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/01/fukuda-mainNo.002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
