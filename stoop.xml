@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Wed, 13 May 2026 13:31:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 16:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -20,6 +20,17 @@ genre2: VINTAGE
 period: 1980s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wall Lamp by Oscar Torlasco for Lumen in Metal and Brass]]></title>
+            <link>https://stoop.jp/collection/66329</link>
+            <guid>https://stoop.jp/collection/66329</guid>
+            <pubDate>Mon, 16 Mar 2026 23:59:00 GMT</pubDate>
+            <description><![CDATA[genre: LIGHTING, WALL LAMP
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1950s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/000051.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[trace Untitled by Shiho Hayashi]]></title>
@@ -84,6 +95,17 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0017_20260317-MAIN-05652.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lella Chair by Ezio Longhi for Elam Milano in Rattan , Wood and Steel]]></title>
+            <link>https://stoop.jp/collection/66332</link>
+            <guid>https://stoop.jp/collection/66332</guid>
+            <pubDate>Mon, 16 Mar 2026 22:04:34 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1950s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/000112.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TESO Glass Table by Renzo Piano for FontanaArte in Glass and Metal]]></title>
             <link>https://stoop.jp/collection/66175</link>
             <guid>https://stoop.jp/collection/66175</guid>
@@ -144,6 +166,18 @@ genre2: MINIMAL & POSTMODERN, VINTAGE
 period: 1980s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/glass1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Table Lamp by Marcel Breuer in Metal]]></title>
+            <link>https://stoop.jp/collection/66340</link>
+            <guid>https://stoop.jp/collection/66340</guid>
+            <pubDate>Mon, 16 Mar 2026 21:22:49 GMT</pubDate>
+            <description><![CDATA[genre: LIGHTING, TABLE LAMP
+creator: Marcel Breuer
+genre2: ART DECO, VINTAGE
+period: 1970s
+country: Germany]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/00009.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sideboard by Giovanni Offredi for saporiti italia in Maple]]></title>
@@ -389,6 +423,17 @@ country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/shihohayashi-72-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Adjustable Wall Lamp in Metal , Steel and Chrome]]></title>
+            <link>https://stoop.jp/collection/66323</link>
+            <guid>https://stoop.jp/collection/66323</guid>
+            <pubDate>Mon, 16 Mar 2026 11:04:33 GMT</pubDate>
+            <description><![CDATA[genre: LIGHTING, WALL LAMP
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1960s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/00004.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lounge Chair by Anton Lorenz in Metal and Fabric]]></title>
             <link>https://stoop.jp/collection/58986</link>
             <guid>https://stoop.jp/collection/58986</guid>
@@ -471,6 +516,28 @@ country: Netherlands]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0006_20260317-MAIN-983922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Wall Lamp in Glass and Steel]]></title>
+            <link>https://stoop.jp/collection/66320</link>
+            <guid>https://stoop.jp/collection/66320</guid>
+            <pubDate>Mon, 16 Mar 2026 00:00:58 GMT</pubDate>
+            <description><![CDATA[genre: CEILING LAMP, LIGHTING, WALL LAMP
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1960s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stool in Rattan and Bamboo]]></title>
+            <link>https://stoop.jp/collection/66344</link>
+            <guid>https://stoop.jp/collection/66344</guid>
+            <pubDate>Mon, 16 Mar 2026 00:00:37 GMT</pubDate>
+            <description><![CDATA[genre: SEATING, STOOL
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1950s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/00007-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bench by André Sornay in Fabric and Wood]]></title>
             <link>https://stoop.jp/collection/59137</link>
             <guid>https://stoop.jp/collection/59137</guid>
@@ -532,6 +599,17 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0027_20260317-MAIN-03521.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Wall Lamp in Glass and Ceramic]]></title>
+            <link>https://stoop.jp/collection/66336</link>
+            <guid>https://stoop.jp/collection/66336</guid>
+            <pubDate>Fri, 27 Feb 2026 16:23:41 GMT</pubDate>
+            <description><![CDATA[genre: LIGHTING, WALL LAMP
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1950s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/00006.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Callimaco Floor Lamp by Ettore Sottsass for Artemide in Steel]]></title>
             <link>https://stoop.jp/collection/63792</link>
             <guid>https://stoop.jp/collection/63792</guid>
@@ -572,6 +650,19 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/00010.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dining Table by Audoux & Minet in Glass , Rattan and Bamboo]]></title>
+            <link>https://stoop.jp/collection/17944</link>
+            <guid>https://stoop.jp/collection/17944</guid>
+            <pubDate>Tue, 30 Dec 2025 18:22:43 GMT</pubDate>
+            <description><![CDATA[genre: DINING TABLE, TABLE
+creator: Audoux & Minet
+focus_on: Audoux & Minet + Their Style
+genre2: VINTAGE
+period: 1960s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/00002-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dining Chair by Jean-René Picard for SETA in Glassfiber and Steel]]></title>
             <link>https://stoop.jp/collection/58844</link>
             <guid>https://stoop.jp/collection/58844</guid>
@@ -581,6 +672,17 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1950s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main2_0033_20251201-2-main-6862-33233.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Adjustable Arm Wall Lamp for Seminara Torino in Metal]]></title>
+            <link>https://stoop.jp/collection/66315</link>
+            <guid>https://stoop.jp/collection/66315</guid>
+            <pubDate>Mon, 01 Dec 2025 23:31:49 GMT</pubDate>
+            <description><![CDATA[genre: LIGHTING, WALL LAMP
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1950s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/00003.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sideboard in Wood , Leather and Chrome]]></title>
@@ -1117,110 +1219,6 @@ genre2: CONTEMPORARY
 period: Contemporary
 country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/02/fukuda-art-2031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eridiana Chair by Antonio Citterio for Xilitalia in Wood and Chrome]]></title>
-            <link>https://stoop.jp/collection/59018</link>
-            <guid>https://stoop.jp/collection/59018</guid>
-            <pubDate>Mon, 01 Dec 2025 19:36:50 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
-genre2: MINIMAL & POSTMODERN, VINTAGE
-period: 1980s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main_0022_20251201-1-main-6196.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Arcibaldo’ Coat Rack by Giorgio Marianelli and Raul Barbieri for Valenti]]></title>
-            <link>https://stoop.jp/collection/59059</link>
-            <guid>https://stoop.jp/collection/59059</guid>
-            <pubDate>Mon, 01 Dec 2025 19:31:39 GMT</pubDate>
-            <description><![CDATA[genre: DECOR, OBJECT, STORAGE
-genre2: MINIMAL & POSTMODERN, VINTAGE
-period: 1980s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/12/main3_0009_20251201-3-main-831822.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reno Side Table by Frederico Correa & Alfonso Mila for Gres in Wood]]></title>
-            <link>https://stoop.jp/collection/58627</link>
-            <guid>https://stoop.jp/collection/58627</guid>
-            <pubDate>Mon, 01 Dec 2025 19:29:37 GMT</pubDate>
-            <description><![CDATA[genre: SIDE TABLE, TABLE
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1960s
-country: Spain]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main3_0023_20251201-3-main-8039.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silent 014-003 by Shuhei Fukuda]]></title>
-            <link>https://stoop.jp/collection/62686</link>
-            <guid>https://stoop.jp/collection/62686</guid>
-            <pubDate>Mon, 01 Dec 2025 19:16:36 GMT</pubDate>
-            <description><![CDATA[genre: ART, DECOR
-artists: Shuhei Fukuda
-focus_on: Presence
-genre2: CONTEMPORARY
-period: Contemporary
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/01/fukuda-mainNo.003.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Table Lamp in Steel and Glass]]></title>
-            <link>https://stoop.jp/collection/58665</link>
-            <guid>https://stoop.jp/collection/58665</guid>
-            <pubDate>Mon, 01 Dec 2025 19:15:00 GMT</pubDate>
-            <description><![CDATA[genre: LIGHTING, TABLE LAMP
-genre2: VINTAGE
-period: 1970s
-country: Netherlands]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main5_0020_20251201-main-5-9455.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vintage Sofa in Cow Leather]]></title>
-            <link>https://stoop.jp/collection/58742</link>
-            <guid>https://stoop.jp/collection/58742</guid>
-            <pubDate>Mon, 01 Dec 2025 19:14:01 GMT</pubDate>
-            <description><![CDATA[genre: SEATING, SOFA
-genre2: VINTAGE
-period: 1980s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main2_0010_20251201-2-main-749522.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Floor Lamp in Metal]]></title>
-            <link>https://stoop.jp/collection/58736</link>
-            <guid>https://stoop.jp/collection/58736</guid>
-            <pubDate>Mon, 01 Dec 2025 19:10:49 GMT</pubDate>
-            <description><![CDATA[genre: FLOOR LAMP, LIGHTING
-genre2: VINTAGE
-period: 1970s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main3_0005_20251201-3-main-8374.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sgabillo Stool and Side Table by Max Bill for Zanotta in beech]]></title>
-            <link>https://stoop.jp/collection/58693</link>
-            <guid>https://stoop.jp/collection/58693</guid>
-            <pubDate>Mon, 01 Dec 2025 19:09:24 GMT</pubDate>
-            <description><![CDATA[genre: SEATING, SIDE TABLE, STOOL, TABLE
-maker: Zanotta
-creator: Max Bill
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: Switzerland]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/12/main3_0031-532.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Saori Wall Lamp by Kazuhide Takahama for Sirrah in Plastic and Polyesterin Metal and Fabric]]></title>
-            <link>https://stoop.jp/collection/58729</link>
-            <guid>https://stoop.jp/collection/58729</guid>
-            <pubDate>Mon, 01 Dec 2025 19:04:18 GMT</pubDate>
-            <description><![CDATA[genre: CEILING LAMP, LIGHTING, WALL LAMP
-creator: Kazuhide Takahama
-genre2: VINTAGE
-period: 1970s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/12/main7_0002_20251201-7-main-1100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
