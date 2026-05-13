@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Wed, 13 May 2026 08:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 13:31:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -168,6 +168,19 @@ genre2: VINTAGE
 period: 1970s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/0327-08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chandelier by Flavio Poli in Glass and Steel]]></title>
+            <link>https://stoop.jp/collection/66326</link>
+            <guid>https://stoop.jp/collection/66326</guid>
+            <pubDate>Mon, 16 Mar 2026 21:13:39 GMT</pubDate>
+            <description><![CDATA[genre: CEILING LAMP, LIGHTING
+creator: Flavio Poli
+focus_on: Glass Furniture
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1970s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/0000122-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Wall Shelf Set by Gianfranco Frattini for Bernini in Rosewood]]></title>
@@ -1208,18 +1221,6 @@ genre2: VINTAGE
 period: 1970s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2025/12/main7_0002_20251201-7-main-1100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Toscana Chair by Piero Sartogo for saporiti italia in Wood and Fabric]]></title>
-            <link>https://stoop.jp/collection/59047</link>
-            <guid>https://stoop.jp/collection/59047</guid>
-            <pubDate>Mon, 01 Dec 2025 19:02:43 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
-maker: saporiti italia
-genre2: MINIMAL & POSTMODERN, VINTAGE
-period: 1980s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main2_0024_20251201-2-main-7016.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
