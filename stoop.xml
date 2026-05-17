@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Sun, 17 May 2026 10:01:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 11:34:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -93,6 +93,20 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0017_20260317-MAIN-05652.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Model 2093 Wall Lamp by Max Ingrand for FontanaArte in Glass and Chrome]]></title>
+            <link>https://stoop.jp/collection/67139</link>
+            <guid>https://stoop.jp/collection/67139</guid>
+            <pubDate>Mon, 16 Mar 2026 22:52:12 GMT</pubDate>
+            <description><![CDATA[genre: LIGHTING, WALL LAMP
+maker: FontanaArte
+creator: Max Ingrand
+focus_on: Glass Furniture
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1960s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/max.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lella Chair by Ezio Longhi for Elam Milano in Rattan , Wood and Steel]]></title>
@@ -634,6 +648,19 @@ genre2: CONTEMPORARY
 period: Contemporary
 country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/02/fukuda-art-2007.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Applique Veilleuse Wall Lamp by Le Corbusier , Charlotte Perriand in Glass]]></title>
+            <link>https://stoop.jp/collection/67142</link>
+            <guid>https://stoop.jp/collection/67142</guid>
+            <pubDate>Tue, 06 Jan 2026 19:43:11 GMT</pubDate>
+            <description><![CDATA[genre: LIGHTING, WALL LAMP
+creator: Charlotte Perriand, Le Corbusier
+focus_on: Glass Furniture
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1950s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/co2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fontana Lamp Large by Max Ingrand for FontanaArte]]></title>
@@ -1195,31 +1222,6 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1950s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2025/12/main-4_0010_20251201-main-4-885921.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wall Lamp for LUMI in Glass and Metal]]></title>
-            <link>https://stoop.jp/collection/59848</link>
-            <guid>https://stoop.jp/collection/59848</guid>
-            <pubDate>Mon, 01 Dec 2025 19:40:33 GMT</pubDate>
-            <description><![CDATA[genre: LIGHTING, WALL LAMP
-focus_on: Glass Furniture
-genre2: VINTAGE
-period: 1970s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/12/main7_0006_20251201-7-main-1000222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Quiet Presence 008-004 by Shuhei Fukuda]]></title>
-            <link>https://stoop.jp/collection/63664</link>
-            <guid>https://stoop.jp/collection/63664</guid>
-            <pubDate>Mon, 01 Dec 2025 19:40:11 GMT</pubDate>
-            <description><![CDATA[genre: ART, DECOR
-artists: Shuhei Fukuda
-focus_on: Presence
-genre2: CONTEMPORARY
-period: Contemporary
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/02/fukuda-art-2031.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
