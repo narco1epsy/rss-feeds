@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Wed, 20 May 2026 12:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 15:58:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -206,6 +206,19 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/0327-02-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Book Stands for Fontana Arte in Glass and Brass]]></title>
+            <link>https://stoop.jp/collection/67509</link>
+            <guid>https://stoop.jp/collection/67509</guid>
+            <pubDate>Mon, 16 Mar 2026 21:18:31 GMT</pubDate>
+            <description><![CDATA[genre: OBJECT
+maker: FontanaArte
+focus_on: Glass Furniture
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1950s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/1111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Wave Sofa by Giovanni Offredi for saporiti italia in Fabric and Steel]]></title>
             <link>https://stoop.jp/collection/64650</link>
             <guid>https://stoop.jp/collection/64650</guid>
@@ -314,6 +327,17 @@ genre2: VINTAGE
 period: 1970s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/0327-06.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coffee Table by Albert Stolle for Stoll Giroflex in Glass and Wood]]></title>
+            <link>https://stoop.jp/collection/28141</link>
+            <guid>https://stoop.jp/collection/28141</guid>
+            <pubDate>Mon, 16 Mar 2026 18:15:00 GMT</pubDate>
+            <description><![CDATA[genre: COFFEE TABLE, TABLE
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1970s
+country: Switzerland]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/1924/01/1112.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PAROLA Floor Lamp Amber by Gae Aulenti & Piero Castiglion for FontanaArte]]></title>
@@ -1199,29 +1223,6 @@ genre2: MINIMAL & POSTMODERN, VINTAGE
 period: 1980s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main2_0025_20251201-2-main-6979.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wall Lamp for Philips in Metal]]></title>
-            <link>https://stoop.jp/collection/58638</link>
-            <guid>https://stoop.jp/collection/58638</guid>
-            <pubDate>Mon, 01 Dec 2025 19:45:14 GMT</pubDate>
-            <description><![CDATA[genre: LIGHTING, WALL LAMP
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1960s
-country: Netherlands]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/12/main7_0013_20251201-7-main-0638.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Extension Dining Table by André Sornay in Wood]]></title>
-            <link>https://stoop.jp/collection/59140</link>
-            <guid>https://stoop.jp/collection/59140</guid>
-            <pubDate>Mon, 01 Dec 2025 19:44:15 GMT</pubDate>
-            <description><![CDATA[genre: DINING TABLE, TABLE
-creator: André Sornay
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2025/12/main-4_0010_20251201-main-4-885921.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
