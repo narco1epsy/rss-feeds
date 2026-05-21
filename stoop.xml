@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Wed, 20 May 2026 22:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 00:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -248,7 +248,7 @@ country: Italy]]></description>
             <link>https://stoop.jp/collection/64623</link>
             <guid>https://stoop.jp/collection/64623</guid>
             <pubDate>Mon, 16 Mar 2026 21:12:50 GMT</pubDate>
-            <description><![CDATA[genre: SIDE TABLE, STORAGE, TABLE
+            <description><![CDATA[genre: STORAGE
 creator: Gianfranco Frattini
 genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
