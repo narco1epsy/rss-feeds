@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Sun, 31 May 2026 12:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 14:57:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -563,7 +563,7 @@ country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0007_20260317-MAIN-9776.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[trace Untitled by Shiho Hayashi]]></title>
+            <title><![CDATA[Trace Untitled by Shiho Hayashi]]></title>
             <link>https://stoop.jp/collection/66249</link>
             <guid>https://stoop.jp/collection/66249</guid>
             <pubDate>Sun, 15 Mar 2026 00:04:49 GMT</pubDate>
