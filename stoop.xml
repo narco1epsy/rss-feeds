@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Thu, 04 Jun 2026 05:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 09:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -74,7 +74,7 @@ country: Italy]]></description>
             <link>https://stoop.jp/collection/64617</link>
             <guid>https://stoop.jp/collection/64617</guid>
             <pubDate>Mon, 16 Mar 2026 23:05:47 GMT</pubDate>
-            <description><![CDATA[genre: BED
+            <description><![CDATA[genre: BED, SEATING, SOFA
 creator: Marcel Breuer
 genre2: VINTAGE
 period: 1970s
@@ -173,7 +173,7 @@ country: Japan]]></description>
             <link>https://stoop.jp/collection/64608</link>
             <guid>https://stoop.jp/collection/64608</guid>
             <pubDate>Mon, 16 Mar 2026 22:01:07 GMT</pubDate>
-            <description><![CDATA[genre: BED
+            <description><![CDATA[genre: BED, SEATING, SOFA
 creator: Gio Ponti
 genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
