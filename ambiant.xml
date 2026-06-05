@@ -4,10 +4,18 @@
         <title>ambiant</title>
         <link>https://ambiant.jp/collections/antiques</link>
         <description>ambiant の新着商品フィード</description>
-        <lastBuildDate>Fri, 05 Jun 2026 04:47:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 08:52:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Antique Calvello Plate 1800s AN-8091]]></title>
+            <link>https://checkout.ambiant.jp/products/8091</link>
+            <guid>https://checkout.ambiant.jp/products/8091</guid>
+            <pubDate>Fri, 05 Jun 2026 08:01:20 GMT</pubDate>
+            <description><![CDATA[19世紀南イタリア、バジリカータ州カルヴェッロ周辺の作と見られる古い日用陶。 バジリカータ内陸部らしい灰味を帯びた釉面には、細やかな貫入が広がります。 全体が波打つように歪んだ器形にも、南イタリア民陶ならではのおおらかさが感じられます。 — 33,000JPY / 在庫あり]]></description>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1052878.jpg?v=1780550489" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grottaglie Spouted Jug 8075]]></title>
             <link>https://checkout.ambiant.jp/products/8075</link>
@@ -81,22 +89,6 @@
             <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1052855_ef743eb5-544e-4d4d-9cda-1badba04cc32.jpg?v=1778905401" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Antique Italian Ricotta Cheese Strainer AN-8063]]></title>
-            <link>https://checkout.ambiant.jp/products/8063</link>
-            <guid>https://checkout.ambiant.jp/products/8063</guid>
-            <pubDate>Sat, 16 May 2026 03:48:35 GMT</pubDate>
-            <description><![CDATA[19世紀末〜20世紀初頭、南イタリア プーリア州周辺で作られたものと思われます。リコッタなどのフレッシュチーズを入れ、余分な乳清を落としながら形を整えるために使われた、民陶の道具です。 — 15,400JPY / 売切れ]]></description>
-            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1052864_d0782447-2724-4e03-9017-f18757ffab37.jpg?v=1778818579" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Antique Italian Ricotta Cheese Strainer AN-8064]]></title>
-            <link>https://checkout.ambiant.jp/products/8064</link>
-            <guid>https://checkout.ambiant.jp/products/8064</guid>
-            <pubDate>Sat, 16 May 2026 04:00:45 GMT</pubDate>
-            <description><![CDATA[19世紀末〜20世紀初頭、南イタリア プーリア州周辺で作られたものと思われます。リコッタなどのフレッシュチーズを入れ、余分な乳清を落としながら形を整えるために使われた、民陶の道具です。 — 15,400JPY / 売切れ]]></description>
-            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1052872_94662368-39f6-492c-a1ed-04f9937153de.jpg?v=1778821511" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Antique French Oil Jug AN-4059]]></title>
             <link>https://checkout.ambiant.jp/products/4059</link>
             <guid>https://checkout.ambiant.jp/products/4059</guid>
@@ -119,14 +111,6 @@
             <pubDate>Sat, 04 Apr 2026 06:48:13 GMT</pubDate>
             <description><![CDATA[古くから炻器の産地として知られるフランス、La Borne で作られた、19世紀頃の液体用ボトル。 硬質で質朴な佇まいには、用に根ざした器ならではの実直な美しさが感じられます。 — 22,000JPY / 在庫あり]]></description>
             <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1052288_6b761f2b-fbeb-48f3-b436-11c220cf93b7.jpg?v=1775283159" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Antique Spanish Plaster Object AN-4058]]></title>
-            <link>https://checkout.ambiant.jp/products/4058</link>
-            <guid>https://checkout.ambiant.jp/products/4058</guid>
-            <pubDate>Sat, 04 Apr 2026 06:53:08 GMT</pubDate>
-            <description><![CDATA[南フランスで見つけた、スペインの古い石膏装飾片。 直角に立ち上がる形状から、壁と天井の境目やコーナーまわりに用いられた建築装飾の一部と思われます。 石膏特有のやわらかな陰影と、抽象彫刻のような佇まいが美しいオブジェです。 — 50JPY / 売切れ]]></description>
-            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1052355.jpg?v=1775200470" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Antique Hand-Forged Iron Handle Copper Pan AN-4021]]></title>
@@ -175,14 +159,6 @@
             <pubDate>Sat, 21 Feb 2026 04:46:31 GMT</pubDate>
             <description><![CDATA[南イタリアで見つけた、“robba gialla” と呼ばれる黄褐色釉に黒の流紋が印象的な大鉢。 19世紀後半から20世紀前半にかけて、南イタリア各地で広く作られた日用陶のひとつと考えられます。 かつては豆類や野菜の下処理、パン生地の扱い、あるいは食卓での共用鉢として使われていたものでしょう。 南イタリアの暮らしを映す民陶です。 — 38,500JPY / 在庫あり]]></description>
             <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/IMG-5796_85c4f355-b8df-4b2d-9e65-864b42be085b.jpg?v=1771656198" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Antique Calabria Pot AN-5047]]></title>
-            <link>https://checkout.ambiant.jp/products/5047</link>
-            <guid>https://checkout.ambiant.jp/products/5047</guid>
-            <pubDate>Tue, 10 Feb 2026 10:06:16 GMT</pubDate>
-            <description><![CDATA[南イタリアで見つけた、カラブリアの保存壺。 19世紀後半から20世紀初頭にかけて、日常的に使われていた保存用の陶器です。 大胆に走る緑の一筆文様は、日常使いの器に自然と添えられてきた、ごく簡素な線文装飾。 飾るためではなく、使われることを前提に生まれた器にだけ宿る、この土地の暮らしに根ざした静かな表情のひとつです。 — 38,500JPY / 売切れ]]></description>
-            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/IMG-5656_28e758cd-633a-4148-a208-ac63e429ab76.jpg?v=1774687668" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Antique Grottaglie Pot AN-5209]]></title>

@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Fri, 05 Jun 2026 04:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 08:53:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -363,7 +363,7 @@ focus_on: Blending Forms
 genre2: CONTEMPORARY
 period: Contemporary
 country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/shihohayashi-5-1-2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/shihohayashi332.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Magazine rack for Marais International in Glass and Plexiglas]]></title>
