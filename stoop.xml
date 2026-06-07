@@ -4,10 +4,23 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Sat, 06 Jun 2026 22:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 00:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Trace Untitled 02 by Shiho Hayashi]]></title>
+            <link>https://stoop.jp/collection/66244</link>
+            <guid>https://stoop.jp/collection/66244</guid>
+            <pubDate>Sat, 30 May 2026 23:05:53 GMT</pubDate>
+            <description><![CDATA[genre: ART, DECOR, OBJECT
+artists: Shiho Hayashi
+focus_on: Blending Forms
+genre2: CONTEMPORARY
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/shihohayashi-2-2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LC2 Sofa by Le Corbusier , Charlotte Perriand , Pierre Jeanneret for Cassina in Fabric and Chrome]]></title>
             <link>https://stoop.jp/collection/64540</link>
@@ -31,19 +44,6 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1950s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/000051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trace Untitled 02 by Shiho Hayashi]]></title>
-            <link>https://stoop.jp/collection/66244</link>
-            <guid>https://stoop.jp/collection/66244</guid>
-            <pubDate>Mon, 16 Mar 2026 23:44:53 GMT</pubDate>
-            <description><![CDATA[genre: ART, DECOR, OBJECT
-artists: Shiho Hayashi
-focus_on: Blending Forms
-genre2: CONTEMPORARY
-period: Contemporary
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/shihohayashi-2-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cabinet by Frits Spanjaard in Wood and Steel]]></title>
