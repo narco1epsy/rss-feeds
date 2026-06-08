@@ -4,10 +4,18 @@
         <title>ambiant</title>
         <link>https://ambiant.jp/collections/antiques</link>
         <description>ambiant の新着商品フィード</description>
-        <lastBuildDate>Mon, 08 Jun 2026 12:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 16:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Antique Grottaglie Plate 23cm AN-8090]]></title>
+            <link>https://checkout.ambiant.jp/products/8090</link>
+            <guid>https://checkout.ambiant.jp/products/8090</guid>
+            <pubDate>Mon, 08 Jun 2026 11:48:26 GMT</pubDate>
+            <description><![CDATA[南イタリア、プーリア州グロッターリエの青文様皿。 プーリアらしい素朴な料理を引き立てる日用の器です。 — 50JPY / 売切れ]]></description>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1052924.jpg?v=1780918793" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Antique Calvello Plate 1800s AN-8091]]></title>
             <link>https://checkout.ambiant.jp/products/8091</link>
