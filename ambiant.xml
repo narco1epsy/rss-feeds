@@ -4,10 +4,18 @@
         <title>ambiant</title>
         <link>https://ambiant.jp/collections/antiques</link>
         <description>ambiant の新着商品フィード</description>
-        <lastBuildDate>Tue, 09 Jun 2026 08:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 16:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Antique Southern Italian Glazed Earthenware Bowl AN-8051]]></title>
+            <link>https://checkout.ambiant.jp/products/8051</link>
+            <guid>https://checkout.ambiant.jp/products/8051</guid>
+            <pubDate>Tue, 09 Jun 2026 08:01:01 GMT</pubDate>
+            <description><![CDATA[南イタリアで見つけた、19世紀から20世紀前半頃、カラブリア、あるいはバジリカータ周辺の作と見られる小鉢。 黒く煤けたような釉調と、内側をめぐる鮮やかな銅緑の装飾が目を引く、南イタリアらしい力強さを感じる一品です。 — 22,000JPY / 在庫あり]]></description>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1053004_67ca7c14-f674-4c3f-a3ce-d27b20daca71.jpg?v=1780997898" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Antique Grottaglie Plate 23cm AN-8090]]></title>
             <link>https://checkout.ambiant.jp/products/8090</link>
