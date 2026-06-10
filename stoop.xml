@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Tue, 09 Jun 2026 16:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 14:30:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -541,7 +541,7 @@ country: Japan]]></description>
             <pubDate>Sat, 30 May 2026 17:04:14 GMT</pubDate>
             <description><![CDATA[genre: STORAGE
 creator: Jan de Vries
-genre2: MID-CENTURY MODERN, VINTAGE
+genre2: VINTAGE
 period: 1970s
 country: Netherlands]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/134.jpg" length="0" type="image/jpg"/>
@@ -927,7 +927,7 @@ country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/shihohayashi30-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Trix Chair by Karl Friedrich Förster in Steel]]></title>
+            <title><![CDATA[Trix Chair by Karl Friedrich Förster for KFF in Steel]]></title>
             <link>https://stoop.jp/collection/67434</link>
             <guid>https://stoop.jp/collection/67434</guid>
             <pubDate>Sat, 30 May 2026 13:06:16 GMT</pubDate>
@@ -1146,7 +1146,7 @@ country: Italy]]></description>
             <guid>https://stoop.jp/collection/67601</guid>
             <pubDate>Sat, 30 May 2026 10:03:23 GMT</pubDate>
             <description><![CDATA[genre: SEATING, SOFA
-genre2: MID-CENTURY MODERN, VINTAGE
+genre2: VINTAGE
 period: 1970s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/120−30.jpg" length="0" type="image/jpg"/>
