@@ -4,7 +4,7 @@
         <title>Couperin</title>
         <link>https://couperin.net/</link>
         <description>Couperin の新着商品フィード</description>
-        <lastBuildDate>Thu, 11 Jun 2026 07:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 11:48:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -54,6 +54,36 @@
 <p>カップ径 5.2 / プレート（底部）径 7.1 / 高さ 14センチ</p>
 ]]></content:encoded>
             <enclosure url="https://couperin.net/wp-content/uploads/2023/06/23060202.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nans-sous-Sainte-Anne｜Petit Plat Carré]]></title>
+            <link>https://couperin.net/26061101/</link>
+            <guid>https://couperin.net/26061101/</guid>
+            <pubDate>Thu, 11 Jun 2026 11:52:35 GMT</pubDate>
+            <description><![CDATA[装飾を加えない面と余白だけの構成。ナン＝ス＝サンタンヌ製陶所による白釉角皿。]]></description>
+            <content:encoded><![CDATA[
+							<div class='swiper-wrapper'><div class='swiper-slide'><img src=https://couperin.net/wp-content/uploads/2026/06/26061101.jpg></div><div class='swiper-slide'><img src=https://couperin.net/wp-content/uploads/2026/06/26061101-2.jpg></div><div class='swiper-slide'><img src=https://couperin.net/wp-content/uploads/2026/06/26061101-3.jpg></div><div class='swiper-slide'><img src=https://couperin.net/wp-content/uploads/2026/06/26061101-4.jpg></div><div class='swiper-slide'><img src=https://couperin.net/wp-content/uploads/2026/06/26061101-5.jpg></div><div class='swiper-slide'><img src=https://couperin.net/wp-content/uploads/2026/06/26061101-6.jpg></div><div class='swiper-slide'><img src=https://couperin.net/wp-content/uploads/2026/06/26061101-7.jpg></div></div>
+<p>&nbsp;</p>
+<p class="isSelectedEnd">半陶半磁、テール・ド・フェールの白釉角皿。</p>
+<p>装飾を加えない面と余白だけの構成。シンプルで無駄のない、潔い造形に惹かれます。</p>
+<p>こういうものは探すと意外に見つからないものですね。刻印から、作陶がフランス東部、スイス近郊のナン＝ス＝サンタンヌの製陶所と判り頷きました。この地域周辺の窯では、装飾的なレリーフを配さない、簡素な作域もしばしば見られます。それが美意識によるものなのか、地方窯業ならではの石膏型の簡略化によるものなのかは定かではありませんが、現代の目線では、その簡略さがむしろ心地よく映ります。</p>
+<p>四角い見込みにわずかに立ち上がる端正なリム、半陶半磁らしい柔らかな白に、仄かな貫入。均質すぎず、かといって素朴にも寄りすぎません。サイズも小さめで、前菜や焼き菓子、果物などを盛るのにも使いやすい大きさだと思います。料理の輪郭をすっと整えてくれるような一枚です。</p>
+<p>&nbsp;</p>
+<p><strong>Terre de fer (テールドフェール)</strong></p>
+<div data-post-id="13241" class="insert-page insert-page-13241 "><p>技術的・技法的というよりは、商用的な言葉としての側面のほうが強いため語義は多岐にわたり、厳密な定義付けをすることは難しいですが、1800年代初期までの繊細なファイアンスフィーヌ陶器の少量生産を経て、1800年代半ば以降に台頭する市民社会に向けて量産されるようになった、より実用的で磁器質の強い陶器（半陶半磁器）のことを指してフランス語では「テールドフェール」と呼びます。</p>
+<p>それ以前の陶器に比べると、主原料である粘土に磁器生産に使われるカオリンや長石がより多く加えられ、釉薬はホウ砂が主原料となっています。</p>
+<p>生産者の手跡が残る不均一な施釉や石膏型の寸法差異、或いは経年による貫入。そうした古い陶器ならではの不安定さと、ある程度量産化が整備された時代の陶器ならではの実直さの双方が同居した、過渡期的な均衡は、今の暮らしに溶け込んだときに、無理のない心地よさを生んでくれるように思います。</p>
+<p>クレイユエモントロー、ショワジールロワ、ジアン、サルグミンヌ等々。当時のフランスにおける陶器製造の中心にいた様々な陶磁器窯で、多様なテールドフェール陶器が作られました。</p>
+</div>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>年代｜1900前後<br />
+生産｜フランス東部<br />
+窯　｜ナン＝ス＝サンタンヌ製陶所<br />
+寸法｜径22.5 / 22.7 / 高2cm</p>
+]]></content:encoded>
+            <enclosure url="https://couperin.net/wp-content/uploads/2026/06/26061101.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Digoin Sarreguemines｜Assiette Épaisse]]></title>
@@ -4012,34 +4042,6 @@ F：約 口径 15.6 / 丈4.7 センチ</p>
 <p>幅23.1 / 25 / 高2.4cm</p>
 ]]></content:encoded>
             <enclosure url="https://couperin.net/wp-content/uploads/2024/08/24083101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chantilly Assiette Octogonale vers 1790-1805]]></title>
-            <link>https://couperin.net/24083102/</link>
-            <guid>https://couperin.net/24083102/</guid>
-            <pubDate>Thu, 31 Aug 2023 10:05:11 GMT</pubDate>
-            <description><![CDATA[作陶初期の貴族性と、革命後、作陶最盛期のブルジョワ性との狭間で、二世代を「橋渡し」をするかたちで、ごく短期間に存在感を示したシャンティイのファイアンスフィーヌより、オクトゴナル皿。1790〜1805年頃。]]></description>
-            <content:encoded><![CDATA[<div class="loopimg">
-	<a href="https://couperin.net/24083102/"><img width="300" height="300" src="https://couperin.net/wp-content/uploads/2024/08/24083102-600x600.jpg" class="attachment-300x300 size-300x300" alt="24083102" /></a>
-	</div>
-	<div class="loopexp">
-		<div class="field">
-							<div class='swiper-wrapper'><div class='swiper-slide'><img src=https://couperin.net/wp-content/uploads/2024/08/24083102-7.jpg></div><div class='swiper-slide'><img src=https://couperin.net/wp-content/uploads/2024/08/24083102-2.jpg></div><div class='swiper-slide'><img src=https://couperin.net/wp-content/uploads/2024/08/24083102-3.jpg></div><div class='swiper-slide'><img src=https://couperin.net/wp-content/uploads/2024/08/24083102-4.jpg></div><div class='swiper-slide'><img src=https://couperin.net/wp-content/uploads/2024/08/24083102-5.jpg></div><div class='swiper-slide'><img src=https://couperin.net/wp-content/uploads/2024/08/24083102-6.jpg></div></div>
-<p>&nbsp;</p>
-<p>革命前のポントシュー製陶所を軸とした作陶初期の貴族性と、革命後のクレイユやモントローを軸とした作陶最盛期のブルジョワ性との狭間で、二世代を「橋渡し」をするかたちで、ごく短期間に存在感を示したシャンティイのファイアンスフィーヌより、オクトゴナル皿。</p>
-<p>パリ郊外北40キロ、かのシャンティイ城城主としても著名なコンデ公の命により、王侯貴族を顧客とした軟質磁器の作陶から始まった窯（地図 <a class="fancybox image" href="http://scene-antique.lolipop.jp/wp-content/uploads/2021/10/map_faiencefine_main.jpg">Click!</a>）は、革命の動乱（1789 – 1795年）のさなか、1792年頃から、英国人経営者クリストフ・ポッターの主導により、台頭する有産階級の市民まで顧客層を拡げて、ファイアンスフィーヌの作陶を行うようになりました。ですがそのほんの10年後、1802年、ポッターも経営を離れていたなかで、当時の窯のディレクターであったジャック・バグナルが、近隣の街にあった窯クレイユに能力の高い労働者や職人までをも引き連れて転籍したことで、シャンティイは急速に衰退、同時に工芸史の中心も他の窯々に取って代わられていきました。</p>
-<p>後世に比べると一層儚げな陶胎とゆららかな美しい象牙色の施釉には、前時代の貴族的なファイアンスフィーヌのニュアンスを、他方、左右対象な八角形のモデリングと細やかに配された菱形のレリーフ装飾には、新古典主義を踏襲した新時代のブルジョワ的なファイアンスフィーヌの気配を感じます。</p>
-<p>静かで彫刻的な佇まいは、全世代のファイアンスフィーヌに通底する美質です。</p>
-<p>王立セーヴル磁器窯やポントシュー製陶所に比べれば、革命の直接的な打撃は少なかったなかで、貴族の庇護の延長で敏腕経営者が参入したことで示した先見性・独自性と、時勢に押されやがて失われていくことになる影響力。</p>
-<p>狭間に生まれたシャンティイの器には、時代の過渡期性が写し鏡のように宿っています。</p>
-<p>1790〜1805年頃作陶。</p>
-<p>&nbsp;</p>
-<hr />
-<p>&nbsp;</p>
-<p>幅23.3 / 25 / 高2.5cm</p>
-</div>
-	</div>]]></content:encoded>
-            <enclosure url="https://couperin.net/wp-content/uploads/2024/08/24083102-7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
