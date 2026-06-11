@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Thu, 11 Jun 2026 01:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 07:06:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -592,7 +592,7 @@ country: Japan]]></description>
             <pubDate>Sat, 30 May 2026 16:56:47 GMT</pubDate>
             <description><![CDATA[genre: STORAGE
 creator: Jan de Vries
-genre2: VINTAGE
+genre2: MID-CENTURY MODERN, VINTAGE
 period: 1970s
 country: Netherlands]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/0601-MAIN15.jpg" length="0" type="image/jpg"/>
