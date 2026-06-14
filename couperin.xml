@@ -4,7 +4,7 @@
         <title>Couperin</title>
         <link>https://couperin.net/</link>
         <description>Couperin の新着商品フィード</description>
-        <lastBuildDate>Sun, 14 Jun 2026 06:57:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 10:32:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -631,9 +631,8 @@ Faïences et Porcelaines de Saint-Amand-Orchies-Hamage &amp; Manufacture du Moul
 <p>年代｜1900年頃<br />
 生産｜北フランス<br />
 寸法｜径21 / 高4cm</p>
-<p>備考｜<br />
-ご希望の個体がある場合、ご注文時に備考欄へアルファベットを書き添えください。</p>
 <p>背面の欠けているのように見える箇所は、作陶時の目跡です。後天的な瑕疵ではありません。</p>
+<p>A → <span style="color: #ff0000;">売約済</span> / B → 在庫あり</p>
 </div>
 	</div>]]></content:encoded>
             <enclosure url="https://couperin.net/wp-content/uploads/2026/06/26060901-1.jpg" length="0" type="image/jpg"/>
