@@ -4,10 +4,26 @@
         <title>ambiant</title>
         <link>https://ambiant.jp/collections/antiques</link>
         <description>ambiant の新着商品フィード</description>
-        <lastBuildDate>Tue, 16 Jun 2026 00:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 05:34:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Antique Grottaglie Plate 1800s AN8085]]></title>
+            <link>https://checkout.ambiant.jp/products/8085</link>
+            <guid>https://checkout.ambiant.jp/products/8085</guid>
+            <pubDate>Tue, 16 Jun 2026 01:29:17 GMT</pubDate>
+            <description><![CDATA[南イタリア、19世紀プーリア州グロッターリエの青輪皿。 簡素に引かれた青いラインの装飾は、プーリアやバジリカータ地方の日用陶器にしばしば見られるものです。 グロッターリエの青文様と同じく、南イタリアの風土を映す日常の器です。 — 50JPY / 売切れ]]></description>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1052896_53218aca-ccf7-482a-b1eb-2d54c09bc1d2.jpg?v=1781571324" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Antique Calvello Plate 1800s AN-8091]]></title>
+            <link>https://checkout.ambiant.jp/products/8091</link>
+            <guid>https://checkout.ambiant.jp/products/8091</guid>
+            <pubDate>Fri, 05 Jun 2026 08:01:20 GMT</pubDate>
+            <description><![CDATA[19世紀南イタリア、バジリカータ州カルヴェッロ周辺の作と見られる古い日用陶。 バジリカータ内陸部らしい灰味を帯びた釉面には、細やかな貫入が広がります。 全体が波打つように歪んだ器形にも、南イタリア民陶ならではのおおらかさが感じられます。 — 33,000JPY / 在庫あり]]></description>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1052878.jpg?v=1780550489" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Antique Calabrian Pot AN-8099]]></title>
             <link>https://checkout.ambiant.jp/products/8099</link>
@@ -31,14 +47,6 @@
             <pubDate>Tue, 09 Jun 2026 08:01:01 GMT</pubDate>
             <description><![CDATA[南イタリアで見つけた、19世紀から20世紀前半頃、カラブリア、あるいはバジリカータ周辺の作と見られる小鉢。 黒く煤けたような釉調と、内側をめぐる鮮やかな銅緑の装飾が目を引く、南イタリアらしい力強さを感じる一品です。 — 22,000JPY / 在庫あり]]></description>
             <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1053004_67ca7c14-f674-4c3f-a3ce-d27b20daca71.jpg?v=1780997898" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Antique Calvello Plate 1800s AN-8091]]></title>
-            <link>https://checkout.ambiant.jp/products/8091</link>
-            <guid>https://checkout.ambiant.jp/products/8091</guid>
-            <pubDate>Fri, 05 Jun 2026 08:01:20 GMT</pubDate>
-            <description><![CDATA[19世紀南イタリア、バジリカータ州カルヴェッロ周辺の作と見られる古い日用陶。 バジリカータ内陸部らしい灰味を帯びた釉面には、細やかな貫入が広がります。 全体が波打つように歪んだ器形にも、南イタリア民陶ならではのおおらかさが感じられます。 — 33,000JPY / 在庫あり]]></description>
-            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1052878.jpg?v=1780550489" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Antique Grottaglie Plate 23cm AN-8090]]></title>
