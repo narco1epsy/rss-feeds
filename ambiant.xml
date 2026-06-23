@@ -4,10 +4,18 @@
         <title>ambiant</title>
         <link>https://ambiant.jp/collections/antiques</link>
         <description>ambiant の新着商品フィード</description>
-        <lastBuildDate>Mon, 22 Jun 2026 22:56:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 01:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Antique Puglia Grottaglie Bowl AN-8087]]></title>
+            <link>https://checkout.ambiant.jp/products/8087</link>
+            <guid>https://checkout.ambiant.jp/products/8087</guid>
+            <pubDate>Mon, 22 Jun 2026 23:58:05 GMT</pubDate>
+            <description><![CDATA[南イタリアの骨董市で買い付けた、グロッターリエのボウル。 厚みのある土肌と素朴な釉調に、日常の暮らしを支えてきた実直さが感じられます。 食器としても、卓上のオブジェとしても。 使い勝手の良い小ぶりなサイズです。 — 50JPY / 売切れ]]></description>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1052972.jpg?v=1782172141" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Antique Grottaglie Plate Robba Bianca AN-8093]]></title>
             <link>https://checkout.ambiant.jp/products/8093</link>
