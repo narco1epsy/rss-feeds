@@ -27,9 +27,41 @@ jobs:
           cache-dependency-path: 'package-lock.json'
 
       - run: npm ci
-      - run: for f in scrapers/*.js; do node "$f"; done
+
+      - name: Run scrapers
+        id: scrape
+        shell: bash
+        run: |
+          set +e
+
+          failed=0
+
+          for f in scrapers/*.js; do
+            echo "::group::${f}"
+            output="$(node "$f" 2>&1)"
+            status=$?
+
+            printf '%s\n' "$output"
+
+            if [ $status -ne 0 ]; then
+              failed=1
+
+              msg="$(printf '%s' "$output" | tail -n 20)"
+              msg="${msg//'%'/'%25'}"
+              msg="${msg//$'\n'/'%0A'}"
+              msg="${msg//$'\r'/'%0D'}"
+
+              echo "::error file=${f},title=Scraper failed::exit ${status}%0A${msg}"
+            fi
+
+            echo "::endgroup::"
+          done
+
+          echo "failed=${failed}" >> "$GITHUB_OUTPUT"
+          exit 0
 
       - name: Publish to gh-pages root
+        shell: bash
         run: |
           set -e
 
@@ -37,7 +69,7 @@ jobs:
           git config user.email "actions@github.com"
 
           mkdir -p /tmp/rss
-          cp docs/*.xml /tmp/rss/
+          find docs -maxdepth 1 -name '*.xml' -exec cp {} /tmp/rss/ \;
           touch /tmp/rss/.nojekyll
 
           git fetch origin gh-pages || true
@@ -59,3 +91,9 @@ jobs:
             git commit -m "Update RSS feeds: $(date +'%Y-%m-%d %H:%M')"
             git push origin gh-pages
           fi
+
+      - name: Finalize status
+        if: ${{ always() && steps.scrape.outputs.failed == '1' }}
+        run: |
+          echo "One or more scrapers failed. See Annotations."
+          exit 1
