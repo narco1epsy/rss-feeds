@@ -7,7 +7,10 @@ const SHOP_NAME = 'D&DEPARTMENT USED';
 const SITE_URL = 'https://www.d-department.com';
 const LIST_URL = `${SITE_URL}/category/STORE_USED/`;
 
-const html = await fetchText(LIST_URL);
+const html = await fetchText(LIST_URL, {
+    'User-Agent':
+        'Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1',
+});
 const $ = cheerio.load(html);
 
 const items = [];
