@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Sun, 28 Jun 2026 09:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 11:59:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -220,7 +220,7 @@ country: Italy]]></description>
             <link>https://stoop.jp/collection/67340</link>
             <guid>https://stoop.jp/collection/67340</guid>
             <pubDate>Sat, 30 May 2026 22:02:54 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
+            <description><![CDATA[genre: CHAIR, SEATING, SOFA
 genre2: VINTAGE
 period: 1970s
 country: Italy]]></description>
@@ -856,7 +856,7 @@ country: Italy]]></description>
             <link>https://stoop.jp/collection/67375</link>
             <guid>https://stoop.jp/collection/67375</guid>
             <pubDate>Sat, 30 May 2026 14:43:49 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
+            <description><![CDATA[genre: CHAIR, SEATING, SOFA
 genre2: VINTAGE
 period: 1970s
 country: Italy]]></description>
@@ -1141,11 +1141,11 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/19-11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sofa by Adriano Piazzesi in Fabric and Chrome]]></title>
+            <title><![CDATA[Lounge Chair by Adriano Piazzesi in Fabric and Chrome]]></title>
             <link>https://stoop.jp/collection/67601</link>
             <guid>https://stoop.jp/collection/67601</guid>
             <pubDate>Sat, 30 May 2026 10:03:23 GMT</pubDate>
-            <description><![CDATA[genre: SEATING, SOFA
+            <description><![CDATA[genre: CHAIR, SEATING, SOFA
 genre2: VINTAGE
 period: 1970s
 country: Italy]]></description>
