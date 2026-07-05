@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Sun, 05 Jul 2026 08:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 11:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -1115,6 +1115,7 @@ creator: Joe Colombo
 genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/06/0601-MAIN2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Shifting 11 by Shiho Hayashi]]></title>
