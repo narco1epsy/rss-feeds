@@ -4,7 +4,7 @@
         <title>Couperin</title>
         <link>https://couperin.net/</link>
         <description>Couperin の新着商品フィード</description>
-        <lastBuildDate>Wed, 08 Jul 2026 09:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 11:57:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -646,7 +646,7 @@ Faïences et Porcelaines de Saint-Amand-Orchies-Hamage &amp; Manufacture du Moul
 <p>A → <span style="color: #ff0000;">売約済</span> / B、C、D → 在庫あり</p>
 </div>
 	</div>]]></content:encoded>
-            <enclosure url="https://couperin.net/wp-content/uploads/2026/06/26060801-600x600.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://couperin.net/wp-content/uploads/2026/06/26060801.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tabouret provençal]]></title>
