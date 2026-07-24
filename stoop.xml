@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Fri, 24 Jul 2026 17:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 19:48:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Gatto Piccolo Table Lamp by Achille & Pier Giacomo Castiglioni for FLOS in Resin and Steel]]></title>
             <link>https://stoop.jp/collection/67452</link>
             <guid>https://stoop.jp/collection/67452</guid>
-            <pubDate>Sat, 30 May 2026 23:06:54 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 17:06:54 GMT</pubDate>
             <description><![CDATA[genre: LIGHTING, TABLE LAMP
 creator: Achille Castiglioni
 genre2: MID-CENTURY MODERN, VINTAGE
@@ -24,12 +24,47 @@ country: Italy]]></description>
             <title><![CDATA[GS Modular Cabinet by Gianni Songia for Sormani in Rosewood and Glass]]></title>
             <link>https://stoop.jp/collection/67396</link>
             <guid>https://stoop.jp/collection/67396</guid>
-            <pubDate>Sat, 30 May 2026 23:03:08 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 16:03:08 GMT</pubDate>
             <description><![CDATA[genre: STORAGE
 genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/130.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cocoon Pendant Lamp in Resin and Steel]]></title>
+            <link>https://stoop.jp/collection/67310</link>
+            <guid>https://stoop.jp/collection/67310</guid>
+            <pubDate>Wed, 22 Jul 2026 10:34:45 GMT</pubDate>
+            <description><![CDATA[genre: CEILING LAMP, LIGHTING
+genre2: VINTAGE
+period: 1970s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/0601-MAIN12.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diamante Sideboard by Luciano Frigerio for Frigerio di Desio in Wood]]></title>
+            <link>https://stoop.jp/collection/67381</link>
+            <guid>https://stoop.jp/collection/67381</guid>
+            <pubDate>Wed, 22 Jul 2026 09:57:15 GMT</pubDate>
+            <description><![CDATA[genre: STORAGE
+genre2: VINTAGE
+period: 1970s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/136-22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Additional System Armchair and Ottoman by Joe Colombo for Tacchini in Fabric]]></title>
+            <link>https://stoop.jp/collection/67832</link>
+            <guid>https://stoop.jp/collection/67832</guid>
+            <pubDate>Wed, 22 Jul 2026 08:07:19 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING, SOFA
+maker: Tacchini
+creator: Joe Colombo
+genre2: NEW EDITION
+period: 1960s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/06/22.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Floor Lamp for STILNOVO in Steel , Brass and Metal]]></title>
@@ -42,17 +77,6 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/124-3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cocoon Pendant Lamp in Resin and Steel]]></title>
-            <link>https://stoop.jp/collection/67310</link>
-            <guid>https://stoop.jp/collection/67310</guid>
-            <pubDate>Sat, 30 May 2026 22:34:45 GMT</pubDate>
-            <description><![CDATA[genre: CEILING LAMP, LIGHTING
-genre2: VINTAGE
-period: 1970s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/0601-MAIN12.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[969 Chair by Gio Ponti for Montina in Wood and Fabric]]></title>
@@ -111,19 +135,6 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/06/132.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Additional System Armchair and Ottoman by Joe Colombo for Tacchini in Fabric]]></title>
-            <link>https://stoop.jp/collection/67832</link>
-            <guid>https://stoop.jp/collection/67832</guid>
-            <pubDate>Sat, 30 May 2026 21:07:19 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING, SOFA
-maker: Tacchini
-creator: Joe Colombo
-genre2: NEW EDITION
-period: 1960s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/06/22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Cocoon Pendant Lamp in Resin and Steel]]></title>
             <link>https://stoop.jp/collection/67245</link>
             <guid>https://stoop.jp/collection/67245</guid>
@@ -133,17 +144,6 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/110-2-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Diamante Sideboard by Luciano Frigerio for Frigerio di Desio in Wood]]></title>
-            <link>https://stoop.jp/collection/67381</link>
-            <guid>https://stoop.jp/collection/67381</guid>
-            <pubDate>Sat, 30 May 2026 18:29:15 GMT</pubDate>
-            <description><![CDATA[genre: STORAGE
-genre2: VINTAGE
-period: 1970s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/136-22.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Trash Cube Stool by Nicolas le Moigne for Swisspearl in Fibre Cement]]></title>
@@ -672,17 +672,6 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/1122.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Table Lamp in Rattan]]></title>
-            <link>https://stoop.jp/collection/69697</link>
-            <guid>https://stoop.jp/collection/69697</guid>
-            <pubDate>Sat, 30 May 2026 01:40:43 GMT</pubDate>
-            <description><![CDATA[genre: LIGHTING, TABLE LAMP
-genre2: VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/0001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Ghost Lamp by Gaetano Pesce for Meritalia® in Resin]]></title>
             <link>https://stoop.jp/collection/67922</link>
             <guid>https://stoop.jp/collection/67922</guid>
@@ -802,7 +791,7 @@ country: Italy]]></description>
 genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: Denmark]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/1113.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/11132.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Medea Chair by Vittorio Nobili for Tagliabue F.lli in Plywood and Steel]]></title>
@@ -911,7 +900,7 @@ country: Italy]]></description>
 genre2: MINIMAL & POSTMODERN, VINTAGE
 period: 1980s
 country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0020_20260317-MAIN-0511.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/03/image_0020_20260317-MAIN-05112.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mr 10 / Mr 533 Chair by Mies van der Rohe for Knoll in Leather and Chrome]]></title>
@@ -1056,18 +1045,6 @@ country: America]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/04/glass4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Seen through a small window by Ikki Kobayashi for Nan Fang Shu-chu]]></title>
-            <link>https://stoop.jp/collection/64507</link>
-            <guid>https://stoop.jp/collection/64507</guid>
-            <pubDate>Mon, 16 Mar 2026 01:38:20 GMT</pubDate>
-            <description><![CDATA[genre: DECOR, OBJECT
-artists: Ikki Kobayashi
-genre2: CONTEMPORARY
-period: Contemporary
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/02/image_0011_20260317-MAIN-9444.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Dining Table by Charlotte Perriand for Les Arcs in Pine]]></title>
             <link>https://stoop.jp/collection/64557</link>
             <guid>https://stoop.jp/collection/64557</guid>
@@ -1174,6 +1151,18 @@ country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/02/fukuda-art-2007.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Seen through a small window by Ikki Kobayashi for Nan Fang Shu-chu]]></title>
+            <link>https://stoop.jp/collection/64507</link>
+            <guid>https://stoop.jp/collection/64507</guid>
+            <pubDate>Fri, 16 Jan 2026 01:38:20 GMT</pubDate>
+            <description><![CDATA[genre: DECOR, OBJECT
+artists: Ikki Kobayashi
+genre2: CONTEMPORARY
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/02/image_0011_20260317-MAIN-9444.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Fontana Lamp Large by Max Ingrand for FontanaArte]]></title>
             <link>https://stoop.jp/collection/66927</link>
             <guid>https://stoop.jp/collection/66927</guid>
@@ -1186,6 +1175,17 @@ genre2: MINIMAL & POSTMODERN, NEW EDITION
 period: 1950s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/00010.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dining Chair by Jean-René Picard for SETA in Glassfiber and Steel]]></title>
+            <link>https://stoop.jp/collection/58844</link>
+            <guid>https://stoop.jp/collection/58844</guid>
+            <pubDate>Mon, 01 Dec 2025 23:57:38 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1950s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main2_0033_20251201-2-main-6862-33233.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
