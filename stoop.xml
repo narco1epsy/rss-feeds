@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Sat, 25 Jul 2026 03:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 06:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -45,6 +45,17 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/0601-MAIN14.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Diamante Sideboard by Luciano Frigerio for Frigerio di Desio in Wood]]></title>
+            <link>https://stoop.jp/collection/67381</link>
+            <guid>https://stoop.jp/collection/67381</guid>
+            <pubDate>Wed, 22 Jul 2026 16:23:15 GMT</pubDate>
+            <description><![CDATA[genre: STORAGE
+genre2: VINTAGE
+period: 1970s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/136-22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Cocoon Pendant Lamp in Resin and Steel]]></title>
             <link>https://stoop.jp/collection/67310</link>
             <guid>https://stoop.jp/collection/67310</guid>
@@ -66,17 +77,6 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/06/231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Diamante Sideboard by Luciano Frigerio for Frigerio di Desio in Wood]]></title>
-            <link>https://stoop.jp/collection/67381</link>
-            <guid>https://stoop.jp/collection/67381</guid>
-            <pubDate>Wed, 22 Jul 2026 09:57:15 GMT</pubDate>
-            <description><![CDATA[genre: STORAGE
-genre2: VINTAGE
-period: 1970s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/136-22.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Floor Lamp for STILNOVO in Steel , Brass and Metal]]></title>
@@ -280,7 +280,7 @@ country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/shihohayashi88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Samara Modular Wall Shelf by Derk Jan De Vries for Maisa di Seveso in Beech]]></title>
+            <title><![CDATA[Samara Wall Shelf by Derk Jan De Vries for Maisa di Seveso in Beech]]></title>
             <link>https://stoop.jp/collection/67613</link>
             <guid>https://stoop.jp/collection/67613</guid>
             <pubDate>Sat, 30 May 2026 16:56:25 GMT</pubDate>
