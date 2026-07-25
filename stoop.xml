@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Sat, 25 Jul 2026 06:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 09:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -53,7 +53,7 @@ country: Italy]]></description>
 genre2: VINTAGE
 period: 1970s
 country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/05/136-22.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/136-224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cocoon Pendant Lamp in Resin and Steel]]></title>
