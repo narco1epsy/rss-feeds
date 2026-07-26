@@ -4,10 +4,18 @@
         <title>ambiant</title>
         <link>https://ambiant.jp/collections/antiques</link>
         <description>ambiant の新着商品フィード</description>
-        <lastBuildDate>Sun, 26 Jul 2026 07:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 10:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Antique Grottaglie Two-Handled Vase "Ciarla" from Puglia AN-8082]]></title>
+            <link>https://checkout.ambiant.jp/products/8082</link>
+            <guid>https://checkout.ambiant.jp/products/8082</guid>
+            <pubDate>Sun, 26 Jul 2026 08:57:51 GMT</pubDate>
+            <description><![CDATA[19世紀南イタリア・プーリア州グロッターリエで作られたと見られる、チャルラ（ciarla）と呼ばれる両耳付きの飾り壺。 主に室内装飾として用いられたものです。 象牙色の白釉に、青い線を大らかに巡らせた簡素な意匠。 少し傾いた姿にはどこか愛嬌があり、胴に残る丸い付着物や把手に流れた青い釉など、制作の過程で偶然生まれた跡も、グロッターリエらしい小さな古陶のよい個性となっています。 — 29,700JPY / 在庫あり]]></description>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1052805_fcd36b75-6f9b-4131-ab53-41a3674b77ab.jpg?v=1784961251" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Antique Grottaglie Plate Robba Bianca AN-8094]]></title>
             <link>https://checkout.ambiant.jp/products/8094</link>
