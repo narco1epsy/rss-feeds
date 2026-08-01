@@ -4,7 +4,7 @@
         <title>Couperin</title>
         <link>https://couperin.net/</link>
         <description>Couperin の新着商品フィード</description>
-        <lastBuildDate>Sat, 01 Aug 2026 03:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 06:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -411,6 +411,7 @@
 <p>備考｜<br />
 個体差があるため、お好みのものをお選びいただけるようにしております。<br />
 ご希望がありましたら、注文時に備考欄に該当のアルファベットを書き添えください。</p>
+<p>B → <span style="color: #ff0000;">売約済</span> / A、C、D、E → 在庫あり</p>
 </div>
 ]]></content:encoded>
             <enclosure url="https://couperin.net/wp-content/uploads/2026/06/26061003.jpg" length="0" type="image/jpg"/>
@@ -1586,10 +1587,6 @@ Faïences et Porcelaines de Saint-Amand-Orchies-Hamage &amp; Manufacture du Moul
 生産｜フランス<br />
 窯　｜クレイユ<br />
 寸法｜幅23.3 / 25.2 / 高3cm（多少の個体差あり）</p>
-<p>備考｜<br />
-ご希望の個体がある場合、ご注文時に備考欄へアルファベットを書き添えください。</p>
-<p>A → <span style="color: #ff0000;">売約済</span> / B、C → 在庫あり</p>
-<p>&nbsp;</p>
 ]]></content:encoded>
             <enclosure url="https://couperin.net/wp-content/uploads/2026/06/26060302-0-1.jpg" length="0" type="image/jpg"/>
         </item>
