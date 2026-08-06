@@ -4,10 +4,18 @@
         <title>ambiant</title>
         <link>https://ambiant.jp/collections/antiques</link>
         <description>ambiant の新着商品フィード</description>
-        <lastBuildDate>Thu, 06 Aug 2026 09:59:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 12:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Large Antique Glazed Terracotta Puglia Confit Pot AN-8113]]></title>
+            <link>https://checkout.ambiant.jp/products/8113</link>
+            <guid>https://checkout.ambiant.jp/products/8113</guid>
+            <pubDate>Thu, 06 Aug 2026 09:59:33 GMT</pubDate>
+            <description><![CDATA[19世紀末〜20世紀前半頃、南イタリア・プーリア州、あるいはその周辺で作られたと見られる食糧保存容器。 白釉の濃淡や貫入、気泡痕が重なる釉肌と、下部の深い茶褐色の釉との対比も印象的です。 大きさもあるため、鉢カバーとして取り入れても良さそうです。 — 33,000JPY / 在庫あり]]></description>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1052715.jpg?v=1785999086" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grottaglie Marbled Glaze Jug AN-8070]]></title>
             <link>https://checkout.ambiant.jp/products/8070</link>
@@ -351,14 +359,6 @@
             <pubDate>Sat, 28 Mar 2026 07:48:25 GMT</pubDate>
             <description><![CDATA[南イタリア、カラブリアあるいはバジリカータ周辺で作られた四手の保存壺。 オリーブや穀物、油などを蓄えるために用いられていたものと考えられます。 四つの取手は、運搬や設置のための実用的な構造。 焼成時に生じた釉薬の流れと、この地域にしばしば見られる捻り装飾が、質朴な佇まいに豊かな陰影をもたらしています。 底部には穴があり、後年に植木鉢などとして転用されていたことがうかがえます。 — 66,000JPY / 在庫あり]]></description>
             <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1051434_bd12f7f6-6f20-42db-85d8-9d937451e736.jpg?v=1774684047" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Antique French Landscape Painting AN-4044]]></title>
-            <link>https://checkout.ambiant.jp/products/4044</link>
-            <guid>https://checkout.ambiant.jp/products/4044</guid>
-            <pubDate>Fri, 27 Mar 2026 05:04:50 GMT</pubDate>
-            <description><![CDATA[南フランスで見つけた農村風景画。 摩耗した厚紙に、素朴な筆の運びと曇天の空。 静かな哀愁を湛えた小さな油彩です。 — 27,500JPY / 売切れ]]></description>
-            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1030991_66b380fc-f808-4aa8-a4a1-05202d5961a3.jpg?v=1774602110" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Antique Three-Handled Storage Jar 1800s AN-4150]]></title>
