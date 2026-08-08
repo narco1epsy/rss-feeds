@@ -4,7 +4,7 @@
         <title>ambiant</title>
         <link>https://ambiant.jp/collections/antiques</link>
         <description>ambiant の新着商品フィード</description>
-        <lastBuildDate>Sat, 08 Aug 2026 11:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 13:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -209,14 +209,6 @@
             <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1053019_ec313f18-9668-4ad1-9392-b236d0337cb1.jpg?v=1781859969" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Antique Grottaglie Plate Robba Bianca AN-8083]]></title>
-            <link>https://checkout.ambiant.jp/products/8083</link>
-            <guid>https://checkout.ambiant.jp/products/8083</guid>
-            <pubDate>Sat, 20 Jun 2026 06:46:00 GMT</pubDate>
-            <description><![CDATA[19世紀南イタリア、プーリア州グロッターリエの輪花皿。 象牙色の白錫釉を特徴とする、ロッバ・ビアンカ（robba bianca）と呼ばれる陶器で、日常使いのために作られた素朴な民陶の中でも、より丁寧な工程を経て生まれたものです。 ゆるやかに波打つ縁は、同地の白釉陶器に見られる特徴的な意匠のひとつ。 象牙色を帯びながらも、ひときわ白くなめらかな釉調が美しく、広めに取られたリムと少し控えめな見込... — 44,000JPY / 売切れ]]></description>
-            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1052936.jpg?v=1781917633" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Antique Southern Italian Glazed Earthenware Bowl AN-8051]]></title>
             <link>https://checkout.ambiant.jp/products/8051</link>
             <guid>https://checkout.ambiant.jp/products/8051</guid>
@@ -375,14 +367,6 @@
             <pubDate>Mon, 13 Oct 2025 12:26:01 GMT</pubDate>
             <description><![CDATA[19世紀イタリア南部プーリア州グロッターリエ近郊で作られた、Broccaと呼ばれる伝統的なピッチャー。 家庭やオステリアで、ワインや水を注ぐために使われてきた実用の器です。 口縁を指でつまんだように成形した独特の造形は、この土地の典型的な意匠。 正面の文字は所有者あるいは注文主を示すものと思われます。 持ち手付近の小さな凹みは、成形の際に生じた欠けをそのまま施釉し焼成したものでしょう。 南イ... — 38,500JPY / 在庫あり]]></description>
             <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1051378_8aee92a5-a096-4307-95dc-6052d8370e13.jpg?v=1762244617" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Antique Grottaglie Bowl from Puglia AN-5071]]></title>
-            <link>https://checkout.ambiant.jp/products/an-25071</link>
-            <guid>https://checkout.ambiant.jp/products/an-25071</guid>
-            <pubDate>Sat, 27 Sep 2025 01:54:12 GMT</pubDate>
-            <description><![CDATA[南イタリアの骨董市で買い付けた、グロッターリエのボウル。 厚みのある土肌と素朴な釉調に、日常の暮らしを支えてきた実直さが感じられます。 食器としても、卓上のオブジェとしても。 使い勝手の良い小ぶりなサイズです。 — 33,000JPY / 売切れ]]></description>
-            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1051797.jpg?v=1758874456" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Antique Grottaglie Jug "Brocca" 1800s from Puglia]]></title>
