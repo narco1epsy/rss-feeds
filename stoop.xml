@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Mon, 10 Aug 2026 12:00:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 13:45:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -506,7 +506,7 @@ country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/08/1113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Model 42 by Alvar Aalto for Artek in Birch]]></title>
+            <title><![CDATA[Model 42 Chair by Alvar Aalto for Artek in Birch]]></title>
             <link>https://stoop.jp/collection/70946</link>
             <guid>https://stoop.jp/collection/70946</guid>
             <pubDate>Wed, 22 Jul 2026 19:46:15 GMT</pubDate>
