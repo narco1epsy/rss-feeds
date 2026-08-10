@@ -4,10 +4,23 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Mon, 10 Aug 2026 10:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 12:00:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Folding Chair by Jean Prouvé for TECTA in Steel and Fabric]]></title>
+            <link>https://stoop.jp/collection/70292</link>
+            <guid>https://stoop.jp/collection/70292</guid>
+            <pubDate>Thu, 30 Jul 2026 14:43:28 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+creator: Jean Prouvé
+focus_on: Permanent Exhibition "Chair"
+genre2: VINTAGE
+period: 1920s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/ch011.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Valentino Table by Emanuele Zenere for Cattelan Italia in Glass , Wood and Travertine]]></title>
             <link>https://stoop.jp/collection/70689</link>
@@ -40,6 +53,32 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/36.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Butterfly F675 Lounge Chair by Pierre Paulin for Artifort in Leather and Steel]]></title>
+            <link>https://stoop.jp/collection/74835</link>
+            <guid>https://stoop.jp/collection/74835</guid>
+            <pubDate>Wed, 22 Jul 2026 23:01:49 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+creator: Pierre Paulin
+focus_on: Permanent Exhibition "Chair"
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1960s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/08/a_0025_0126-312.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[C_06 Dining Chair by Ruud-Jan Kokke for KOKKE House in Oak and Ash]]></title>
+            <link>https://stoop.jp/collection/71694</link>
+            <guid>https://stoop.jp/collection/71694</guid>
+            <pubDate>Wed, 22 Jul 2026 22:53:25 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+maker: KOKKE House
+creator: Ruud-Jan Kokke
+genre2: NEW EDITION
+period: 1980s
+country: Netherlands]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/112111-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LC1 Chair by Le Corbusier , Charlotte Perriand , Pierre Jeanneret for Cassina in Calf Hair Leather and Chrome]]></title>
@@ -77,6 +116,19 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1950s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0040_20260721-main-17354.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Steltman Chair by Gerrit Thomas Rietveld for Pastoe in Black]]></title>
+            <link>https://stoop.jp/collection/74036</link>
+            <guid>https://stoop.jp/collection/74036</guid>
+            <pubDate>Wed, 22 Jul 2026 22:32:55 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+maker: Pastoe
+creator: Gerrit Thomas Rietveld
+genre2: NEW EDITION
+period: 1960s
+country: Netherlands]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/731-9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dining Table in Marble]]></title>
@@ -149,6 +201,19 @@ country: Spain]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/all_0012_20260713-topso-main-01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[C_05 Dining Chair by Ruud-Jan KOKKE for KOKKE House in Oak and Ash]]></title>
+            <link>https://stoop.jp/collection/71692</link>
+            <guid>https://stoop.jp/collection/71692</guid>
+            <pubDate>Wed, 22 Jul 2026 22:04:48 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+maker: KOKKE House
+creator: Ruud-Jan Kokke
+genre2: NEW EDITION
+period: 1980s
+country: Netherlands]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/731-72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Flower Vase for Virebent in Ceramic]]></title>
             <link>https://stoop.jp/collection/70683</link>
             <guid>https://stoop.jp/collection/70683</guid>
@@ -158,6 +223,20 @@ genre2: VINTAGE
 period: 1970s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/m29.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[B32 Cesca Chair by Marcel Breuer for THONET in Chrome , Wood and Rattan]]></title>
+            <link>https://stoop.jp/collection/70298</link>
+            <guid>https://stoop.jp/collection/70298</guid>
+            <pubDate>Wed, 22 Jul 2026 21:50:50 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+maker: THONET
+creator: Marcel Breuer
+focus_on: Permanent Exhibition "Chair"
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1930s
+country: Germany]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/ch00233.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Shelf in Wood]]></title>
@@ -287,6 +366,18 @@ country: Brazil]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/all_0002_20260713-topso-main-2758.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Visible touch -5 by Kanako Kitabayashi]]></title>
+            <link>https://stoop.jp/collection/74139</link>
+            <guid>https://stoop.jp/collection/74139</guid>
+            <pubDate>Wed, 22 Jul 2026 20:46:54 GMT</pubDate>
+            <description><![CDATA[genre: ART, DECOR, OBJECT
+artists: Kanako ​Kitabayashi
+genre2: CONTEMPORARY
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/08/1116.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Table Lamp in Ceramic and Brass]]></title>
             <link>https://stoop.jp/collection/70620</link>
             <guid>https://stoop.jp/collection/70620</guid>
@@ -355,6 +446,19 @@ country: Sweden]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/12.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Steltman Chair by Gerrit Thomas Rietveld for Pastoe in Oak]]></title>
+            <link>https://stoop.jp/collection/71704</link>
+            <guid>https://stoop.jp/collection/71704</guid>
+            <pubDate>Wed, 22 Jul 2026 20:06:27 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+maker: Pastoe
+creator: Gerrit Thomas Rietveld
+genre2: NEW EDITION
+period: 1960s
+country: Netherlands]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/11211133221.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Gaulino Easy Chair by Oscar Tusquets Chair for BD Barcelona in Ash and Black]]></title>
             <link>https://stoop.jp/collection/70985</link>
             <guid>https://stoop.jp/collection/70985</guid>
@@ -390,6 +494,31 @@ country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/m23-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[monumentum -a by Kanako Kitabayashi]]></title>
+            <link>https://stoop.jp/collection/74141</link>
+            <guid>https://stoop.jp/collection/74141</guid>
+            <pubDate>Wed, 22 Jul 2026 19:47:19 GMT</pubDate>
+            <description><![CDATA[genre: ART, DECOR, OBJECT
+artists: Kanako ​Kitabayashi
+genre2: CONTEMPORARY
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/08/1113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Model 42 by Alvar Aalto for Artek in Birch]]></title>
+            <link>https://stoop.jp/collection/70946</link>
+            <guid>https://stoop.jp/collection/70946</guid>
+            <pubDate>Wed, 22 Jul 2026 19:46:15 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+creator: Alvar Aalto
+focus_on: Permanent Exhibition "Chair"
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1930s
+country: Finland]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/ch012.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Calvet Arm Chair by Antoni Gaudí for BD Barcelona in Oak]]></title>
             <link>https://stoop.jp/collection/70991</link>
             <guid>https://stoop.jp/collection/70991</guid>
@@ -402,6 +531,44 @@ genre2: NEW EDITION
 period: 1860s - 1920s
 country: Spain]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/all_0009_20260713-topso-main-2400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Caress by Kanako Kitabayashi]]></title>
+            <link>https://stoop.jp/collection/74143</link>
+            <guid>https://stoop.jp/collection/74143</guid>
+            <pubDate>Wed, 22 Jul 2026 18:47:45 GMT</pubDate>
+            <description><![CDATA[genre: ART, DECOR, OBJECT
+artists: Kanako ​Kitabayashi
+genre2: CONTEMPORARY
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/08/1111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TZ 75 Coffee Table by Werner Blaser for Pastoe in Beech , Oak and Glass]]></title>
+            <link>https://stoop.jp/collection/71720</link>
+            <guid>https://stoop.jp/collection/71720</guid>
+            <pubDate>Wed, 22 Jul 2026 18:16:58 GMT</pubDate>
+            <description><![CDATA[genre: COFFEE TABLE, TABLE
+maker: Pastoe
+creator: Werner Blaser
+genre2: NEW EDITION
+period: 1960s
+country: Netherlands]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/731-3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IJhorst Side Tables Small by Constant Nieuwenhuys for Pastoe in Metal and Fenix Black , Oak , Walnut]]></title>
+            <link>https://stoop.jp/collection/71714</link>
+            <guid>https://stoop.jp/collection/71714</guid>
+            <pubDate>Wed, 22 Jul 2026 18:11:12 GMT</pubDate>
+            <description><![CDATA[genre: SIDE TABLE, TABLE
+maker: Pastoe
+creator: Constant Nieuwenhuys
+genre2: NEW EDITION
+period: 1950s
+country: Netherlands]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/731-8-3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dining Table in Glass and Travertine]]></title>
@@ -610,6 +777,19 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/11111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Magneto Floor Lamp by Henk Fillekes for Pastoe in Aluminum]]></title>
+            <link>https://stoop.jp/collection/71728</link>
+            <guid>https://stoop.jp/collection/71728</guid>
+            <pubDate>Wed, 22 Jul 2026 17:24:39 GMT</pubDate>
+            <description><![CDATA[genre: FLOOR LAMP, LIGHTING
+maker: Pastoe
+creator: Henk Fillekes
+genre2: NEW EDITION
+period: 1950s
+country: Netherlands]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/731-4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Rak Round Stool by Francesc Rifé for Kendo in Natural Ash]]></title>
             <link>https://stoop.jp/collection/71000</link>
             <guid>https://stoop.jp/collection/71000</guid>
@@ -682,6 +862,19 @@ genre2: NEW EDITION
 period: 1990s
 country: Spain]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/all_0004_20260713-topso-main-2653.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TC Stool by Ruud-Jan Kokke for KOKKE House in Birch]]></title>
+            <link>https://stoop.jp/collection/71697</link>
+            <guid>https://stoop.jp/collection/71697</guid>
+            <pubDate>Wed, 22 Jul 2026 16:55:36 GMT</pubDate>
+            <description><![CDATA[genre: SEATING, STOOL
+maker: KOKKE House
+creator: Ruud-Jan Kokke
+genre2: NEW EDITION
+period: 1990s
+country: Netherlands]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/731-5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dining Table in Marble , Acrylic and Glass]]></title>
@@ -959,6 +1152,19 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0030_20260721-main-20297.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Military Stool by Gerrit Thomas Rietveld for Pastoe in Oak]]></title>
+            <link>https://stoop.jp/collection/71712</link>
+            <guid>https://stoop.jp/collection/71712</guid>
+            <pubDate>Wed, 22 Jul 2026 16:08:58 GMT</pubDate>
+            <description><![CDATA[genre: SEATING, STOOL
+maker: Pastoe
+creator: Gerrit Thomas Rietveld
+genre2: NEW EDITION
+period: 1920s
+country: Netherlands]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/731-13-2-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lonuge Chair for B&T Gruppo Industriale Salotti in Fabric and Chrome]]></title>
             <link>https://stoop.jp/collection/71959</link>
             <guid>https://stoop.jp/collection/71959</guid>
@@ -979,192 +1185,6 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1940s
 country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/m23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stool in Wood and Rush Seat]]></title>
-            <link>https://stoop.jp/collection/70671</link>
-            <guid>https://stoop.jp/collection/70671</guid>
-            <pubDate>Wed, 22 Jul 2026 15:29:38 GMT</pubDate>
-            <description><![CDATA[genre: SEATING, STOOL
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1960s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/272.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Floor Lamp in Steel and Metal]]></title>
-            <link>https://stoop.jp/collection/70850</link>
-            <guid>https://stoop.jp/collection/70850</guid>
-            <pubDate>Wed, 22 Jul 2026 15:22:05 GMT</pubDate>
-            <description><![CDATA[genre: FLOOR LAMP, LIGHTING
-genre2: VINTAGE
-period: 1970s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flower Vare in Ceramic]]></title>
-            <link>https://stoop.jp/collection/71884</link>
-            <guid>https://stoop.jp/collection/71884</guid>
-            <pubDate>Wed, 22 Jul 2026 15:13:15 GMT</pubDate>
-            <description><![CDATA[genre: TABLEWARE
-genre2: VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/m40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amsterdam Chair by Pierre Guariche for Stainer in Leather and Steel]]></title>
-            <link>https://stoop.jp/collection/70730</link>
-            <guid>https://stoop.jp/collection/70730</guid>
-            <pubDate>Wed, 22 Jul 2026 15:12:06 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
-creator: Pierre Guariche
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0014_20260721-main-2490.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gaulino Chair by Oscar Tusquets for BD Barcelona in Ash and Black]]></title>
-            <link>https://stoop.jp/collection/70984</link>
-            <guid>https://stoop.jp/collection/70984</guid>
-            <pubDate>Wed, 22 Jul 2026 14:58:30 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
-maker: BD Barcelona
-creator: Oscar Tusquets
-genre2: NEW EDITION
-period: 2000s
-country: Spain]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/all_0007_20260713-topso-main-2502.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sideboard by A.R.P for Minvielle in Wood and Steel]]></title>
-            <link>https://stoop.jp/collection/70727</link>
-            <guid>https://stoop.jp/collection/70727</guid>
-            <pubDate>Wed, 22 Jul 2026 14:58:02 GMT</pubDate>
-            <description><![CDATA[genre: STORAGE
-creator: A.R.P = Atelier des Recherches Plastiques, Pierre Guariche
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0009_20260721-main-2630222-144.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Superleggera Chair by Gio Ponti for Cassina in Wood and Rattan]]></title>
-            <link>https://stoop.jp/collection/71805</link>
-            <guid>https://stoop.jp/collection/71805</guid>
-            <pubDate>Wed, 22 Jul 2026 14:22:55 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
-maker: Cassina
-creator: Gio Ponti
-focus_on: Permanent Exhibition "Chair"
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1970s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0019_20260721-main-2325-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bowl by Jean Marais in Ceramic]]></title>
-            <link>https://stoop.jp/collection/70753</link>
-            <guid>https://stoop.jp/collection/70753</guid>
-            <pubDate>Wed, 22 Jul 2026 13:55:40 GMT</pubDate>
-            <description><![CDATA[genre: TABLEWARE
-genre2: VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/m7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rak Bistro Table by Francesc Rifé for Kendo in Black Ash]]></title>
-            <link>https://stoop.jp/collection/70998</link>
-            <guid>https://stoop.jp/collection/70998</guid>
-            <pubDate>Wed, 22 Jul 2026 13:15:52 GMT</pubDate>
-            <description><![CDATA[genre: DINING TABLE, TABLE
-maker: Kendo
-creator: Francesc Rifé
-genre2: NEW EDITION
-period: 2000s
-country: Spain]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/all_0011_20260713-topso-main-8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pitcher & Sugar Pot Set for BRENNE in Ceramic]]></title>
-            <link>https://stoop.jp/collection/70653</link>
-            <guid>https://stoop.jp/collection/70653</guid>
-            <pubDate>Wed, 22 Jul 2026 12:58:50 GMT</pubDate>
-            <description><![CDATA[genre: TABLEWARE
-genre2: VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/m37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stool in Wood and Leather]]></title>
-            <link>https://stoop.jp/collection/70739</link>
-            <guid>https://stoop.jp/collection/70739</guid>
-            <pubDate>Wed, 22 Jul 2026 12:44:18 GMT</pubDate>
-            <description><![CDATA[genre: SEATING, STOOL
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1940s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0038_20260721-main-17742.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flower Vase by Fred and Andrée Stocker in Ceramic]]></title>
-            <link>https://stoop.jp/collection/70674</link>
-            <guid>https://stoop.jp/collection/70674</guid>
-            <pubDate>Wed, 22 Jul 2026 12:41:51 GMT</pubDate>
-            <description><![CDATA[genre: DECOR, OBJECT, TABLEWARE
-genre2: VINTAGE
-period: 1970s
-country: Switzerland]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main2_0019_20251201-2-main-7150332.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stool in Wood]]></title>
-            <link>https://stoop.jp/collection/70865</link>
-            <guid>https://stoop.jp/collection/70865</guid>
-            <pubDate>Wed, 22 Jul 2026 12:33:20 GMT</pubDate>
-            <description><![CDATA[genre: SEATING, STOOL
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0039_20260721-main-17504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Table Lamp in Travertine , Brass and Fabric]]></title>
-            <link>https://stoop.jp/collection/70868</link>
-            <guid>https://stoop.jp/collection/70868</guid>
-            <pubDate>Wed, 22 Jul 2026 12:27:00 GMT</pubDate>
-            <description><![CDATA[genre: LIGHTING, TABLE LAMP
-genre2: VINTAGE
-period: 1970s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/m14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bench by Charlotte Perriand for Les Arcs in Pine]]></title>
-            <link>https://stoop.jp/collection/70820</link>
-            <guid>https://stoop.jp/collection/70820</guid>
-            <pubDate>Wed, 22 Jul 2026 12:26:47 GMT</pubDate>
-            <description><![CDATA[genre: BENCH, SEATING
-creator: Charlotte Perriand
-genre2: VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/354.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Table Lamp in Travertine and Fabric]]></title>
-            <link>https://stoop.jp/collection/70782</link>
-            <guid>https://stoop.jp/collection/70782</guid>
-            <pubDate>Wed, 22 Jul 2026 12:25:43 GMT</pubDate>
-            <description><![CDATA[genre: LIGHTING, TABLE LAMP
-genre2: VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/m15.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
