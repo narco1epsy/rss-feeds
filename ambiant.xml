@@ -4,10 +4,18 @@
         <title>ambiant</title>
         <link>https://ambiant.jp/collections/antiques</link>
         <description>ambiant の新着商品フィード</description>
-        <lastBuildDate>Sun, 23 Aug 2026 08:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 09:43:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Antique Puglia Grottaglie Bowl AN-5193]]></title>
+            <link>https://checkout.ambiant.jp/products/5193</link>
+            <guid>https://checkout.ambiant.jp/products/5193</guid>
+            <pubDate>Sun, 23 Aug 2026 09:27:21 GMT</pubDate>
+            <description><![CDATA[19世紀末〜20世紀前半頃、南イタリア・プーリア州グロッターリエの日用陶の鉢。 蜂蜜色の釉肌に浮かぶ細かな鉄斑と、どっしりと低く構えた姿には、グロッターリエの民陶らしい質実剛健な趣があります。 — 33,000JPY / 在庫あり]]></description>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1060243.jpg?v=1785994150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Antique Puglia Terracotta Object — Bubulo AN-8106]]></title>
             <link>https://checkout.ambiant.jp/products/8106</link>
