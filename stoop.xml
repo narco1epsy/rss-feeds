@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Thu, 27 Aug 2026 20:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 05:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -241,7 +241,7 @@ country: Spain]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/all_0020_20260713-topso-main-308.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LCW by Charles & Ray Eames for Evans Products in Plywood]]></title>
+            <title><![CDATA[LCW Lounge Chair by Charles & Ray Eames for Evans Products in Plywood]]></title>
             <link>https://stoop.jp/collection/75124</link>
             <guid>https://stoop.jp/collection/75124</guid>
             <pubDate>Wed, 22 Jul 2026 22:14:44 GMT</pubDate>
@@ -616,7 +616,7 @@ country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/08/08203.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Stool 60 by Alvar Aalto for Finmar in Wood]]></title>
+            <title><![CDATA[Stool 60 by Alvar Aalto for Finmar in Birch]]></title>
             <link>https://stoop.jp/collection/70454</link>
             <guid>https://stoop.jp/collection/70454</guid>
             <pubDate>Wed, 22 Jul 2026 20:28:12 GMT</pubDate>
@@ -641,7 +641,7 @@ country: Spain]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/all_0021_20260713-topso-main-50822.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DCM by Charles & Ray Eames for Herman Miller in Plywood and Metal]]></title>
+            <title><![CDATA[DCM Chair by Charles & Ray Eames for Herman Miller in Plywood and Metal]]></title>
             <link>https://stoop.jp/collection/75120</link>
             <guid>https://stoop.jp/collection/75120</guid>
             <pubDate>Wed, 22 Jul 2026 20:23:45 GMT</pubDate>
