@@ -4,10 +4,18 @@
         <title>ambiant</title>
         <link>https://ambiant.jp/collections/antiques</link>
         <description>ambiant の新着商品フィード</description>
-        <lastBuildDate>Mon, 31 Aug 2026 23:52:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 05:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Antique Grottaglie Confit Pot 1800s AN-5048]]></title>
+            <link>https://checkout.ambiant.jp/products/5048</link>
+            <guid>https://checkout.ambiant.jp/products/5048</guid>
+            <pubDate>Mon, 31 Aug 2026 14:33:23 GMT</pubDate>
+            <description><![CDATA[19世紀南イタリア・プーリア州グロッターリエ、あるいはその周辺で作られたと見られる食糧保存容器。 オリーブや塩漬け・油漬けにした食材などを保存するためのもので、口を布などで覆い、口縁下に紐を掛けて留めて使われていたと考えられます。 すっと立ち上がった大ぶりな器形。素朴で力強い姿は、枝物などをいけるにも良さそうです。 — 44,000JPY / 在庫あり]]></description>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1051908_c690832f-b8d1-4208-bb94-0552193a692a.jpg?v=1770357526" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Antique Grottaglie Confit Pot AN-8112]]></title>
             <link>https://checkout.ambiant.jp/products/8112</link>
@@ -423,14 +431,6 @@
             <pubDate>Mon, 17 Mar 2025 12:34:10 GMT</pubDate>
             <description><![CDATA[17~18世紀頃イタリア、テラコッタ製の蓋。 推測するに南イタリア、或いはシチリアあたりでしょうか。 アンフォラなどの保存容器の蓋として、または調理用の蓋としても使用されていたと思われます。 — 25,300JPY / 在庫あり]]></description>
             <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1010331_9c681678-4698-4e38-9f86-a7e7d850e0f5.jpg?v=1731158318" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Antique Grottaglie Pot 1800s AN-5048]]></title>
-            <link>https://checkout.ambiant.jp/products/5048</link>
-            <guid>https://checkout.ambiant.jp/products/5048</guid>
-            <pubDate>Mon, 31 Aug 2026 14:33:23 GMT</pubDate>
-            <description><![CDATA[19世紀末〜20世紀前半頃、南イタリア・プーリア州グロッターリエ、あるいはその周辺で作られたと見られる食糧保存容器。 オリーブや塩漬け・油漬けにした食材などを保存するためのもので、口を布などで覆い、口縁下に紐を掛けて留めて使われていたと考えられます。 すっと立ち上がった大ぶりな器形。素朴で力強い姿は、枝物などをいけるにも良さそうです。 — 44,000JPY / 在庫あり]]></description>
-            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1051908_c690832f-b8d1-4208-bb94-0552193a692a.jpg?v=1770357526" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
