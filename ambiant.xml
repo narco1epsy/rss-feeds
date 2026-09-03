@@ -4,10 +4,18 @@
         <title>ambiant</title>
         <link>https://ambiant.jp/collections/antiques</link>
         <description>ambiant の新着商品フィード</description>
-        <lastBuildDate>Thu, 03 Sep 2026 01:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 05:50:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Italian Plaster Hand Relief AN-8126]]></title>
+            <link>https://checkout.ambiant.jp/products/8126</link>
+            <guid>https://checkout.ambiant.jp/products/8126</guid>
+            <pubDate>Thu, 03 Sep 2026 03:24:51 GMT</pubDate>
+            <description><![CDATA[イタリアで見つけた、小さな子どもの手を象った石膏のレリーフ。 彫刻制作のための研究資料、あるいは家族の記念として制作された可能性があります。 表面には経年によるパティナが重なり、古い石膏ならではの味わいが感じられます。 — 33,000JPY / 在庫あり]]></description>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1053087_2a6f7fd1-3811-430d-9f37-c5e83138013b.jpg?v=1788406467" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Antique Grottaglie Confit Pot 1800s AN-5048]]></title>
             <link>https://checkout.ambiant.jp/products/5048</link>

@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Thu, 03 Sep 2026 01:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 05:50:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -117,20 +117,6 @@ genre2: CONTEMPORARY
 period: Contemporary
 country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/08/001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LC1 Chair by Le Corbusier , Charlotte Perriand , Pierre Jeanneret for Cassina in Calf Hair Leather and Chrome]]></title>
-            <link>https://stoop.jp/collection/71790</link>
-            <guid>https://stoop.jp/collection/71790</guid>
-            <pubDate>Wed, 22 Jul 2026 22:37:34 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
-maker: Cassina
-creator: Charlotte Perriand, Le Corbusier, Pierre Jeanneret
-focus_on: Permanent Exhibition "Chair"
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0024_20260721-main-2162.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Coffee Table in Travertine]]></title>
@@ -352,17 +338,6 @@ country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/31111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Serving Tray in Glass and Steel]]></title>
-            <link>https://stoop.jp/collection/71936</link>
-            <guid>https://stoop.jp/collection/71936</guid>
-            <pubDate>Wed, 22 Jul 2026 21:49:51 GMT</pubDate>
-            <description><![CDATA[genre: TABLEWARE
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1960s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/m5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SB02 Dining Chair by Cees Braakman for Psatoe in Wood and Fabric]]></title>
             <link>https://stoop.jp/collection/70358</link>
             <guid>https://stoop.jp/collection/70358</guid>
@@ -455,17 +430,6 @@ genre2: VINTAGE
 period: 1970s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0045_20260721-main-1542.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Primitive Stool in Wood]]></title>
-            <link>https://stoop.jp/collection/70826</link>
-            <guid>https://stoop.jp/collection/70826</guid>
-            <pubDate>Wed, 22 Jul 2026 21:23:10 GMT</pubDate>
-            <description><![CDATA[genre: SEATING, STOOL
-genre2: VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Wall Lamp in Metal and Brass]]></title>
@@ -653,17 +617,6 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1950s
 country: America]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/08/0820602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sofa Set in Cow Leather and Wood]]></title>
-            <link>https://stoop.jp/collection/70841</link>
-            <guid>https://stoop.jp/collection/70841</guid>
-            <pubDate>Wed, 22 Jul 2026 20:22:59 GMT</pubDate>
-            <description><![CDATA[genre: SEATING, SOFA
-genre2: VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0001_20260721-main-2883332.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Coffee Table in Rattan and Steel]]></title>
@@ -1190,6 +1143,56 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1950s
 country: America]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/0820833.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rak Round Stool by Francesc Rifé for Kendo in Natural Ash]]></title>
+            <link>https://stoop.jp/collection/71000</link>
+            <guid>https://stoop.jp/collection/71000</guid>
+            <pubDate>Wed, 22 Jul 2026 17:19:27 GMT</pubDate>
+            <description><![CDATA[genre: SEATING, SIDE TABLE, STOOL
+maker: Kendo
+creator: Francesc Rifé
+genre2: NEW EDITION
+period: 2000s
+country: Spain]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/all_0016_20260713-topso-main-020.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rak Console Table by Francesc Rifé for Kendo in Black Ash]]></title>
+            <link>https://stoop.jp/collection/70999</link>
+            <guid>https://stoop.jp/collection/70999</guid>
+            <pubDate>Wed, 22 Jul 2026 17:17:28 GMT</pubDate>
+            <description><![CDATA[genre: TABLE
+maker: Kendo
+creator: Francesc Rifé
+genre2: NEW EDITION
+period: 2000s
+country: Spain]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/all_0025_20260713-topso-main-11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pitcher for VALLAURIS in Ceramic]]></title>
+            <link>https://stoop.jp/collection/70785</link>
+            <guid>https://stoop.jp/collection/70785</guid>
+            <pubDate>Wed, 22 Jul 2026 17:08:50 GMT</pubDate>
+            <description><![CDATA[genre: TABLEWARE
+maker: VALLAURIS
+genre2: VINTAGE
+period: 1960s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/m383.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Model 65 Chair by Alvar Aalto for Artek in Birch]]></title>
+            <link>https://stoop.jp/collection/70847</link>
+            <guid>https://stoop.jp/collection/70847</guid>
+            <pubDate>Wed, 22 Jul 2026 17:08:39 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+creator: Alvar Aalto
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1960s
+country: Finland]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0031_20260721-main-2005.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
