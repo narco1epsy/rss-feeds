@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Thu, 03 Sep 2026 05:50:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 11:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -805,7 +805,7 @@ country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/08/822120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Vintage Stool in Pine]]></title>
+            <title><![CDATA[Vintage Stool in Wood]]></title>
             <link>https://stoop.jp/collection/70575</link>
             <guid>https://stoop.jp/collection/70575</guid>
             <pubDate>Wed, 22 Jul 2026 19:38:32 GMT</pubDate>
@@ -968,17 +968,6 @@ country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/m18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Object in Metal , Wood and Steel]]></title>
-            <link>https://stoop.jp/collection/71896</link>
-            <guid>https://stoop.jp/collection/71896</guid>
-            <pubDate>Wed, 22 Jul 2026 17:48:06 GMT</pubDate>
-            <description><![CDATA[genre: DECOR, OBJECT
-genre2: VINTAGE
-period: 1970s
-country: America]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/m39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Desk by Cees Braakman for Pastoe in Wood and Steel]]></title>
             <link>https://stoop.jp/collection/70410</link>
             <guid>https://stoop.jp/collection/70410</guid>
@@ -1073,17 +1062,6 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0008_20260721-main-2664.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coffee Table in Glass and Travertine]]></title>
-            <link>https://stoop.jp/collection/70635</link>
-            <guid>https://stoop.jp/collection/70635</guid>
-            <pubDate>Wed, 22 Jul 2026 17:35:43 GMT</pubDate>
-            <description><![CDATA[genre: COFFEE TABLE, TABLE
-genre2: VINTAGE
-period: 1970s
-country: Spain]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Office Chair for AG Barcelona in Fabric , Chrome and Wood]]></title>
@@ -1193,6 +1171,30 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: Finland]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0031_20260721-main-2005.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Table Lamp by Jean Marais in Fabric and Ceramic]]></title>
+            <link>https://stoop.jp/collection/70659</link>
+            <guid>https://stoop.jp/collection/70659</guid>
+            <pubDate>Wed, 22 Jul 2026 17:08:10 GMT</pubDate>
+            <description><![CDATA[genre: LIGHTING, TABLE LAMP
+genre2: VINTAGE
+period: 1970s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/m10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamaica Stool by Pepe Cortés for BD Barcelona in Steel and Almunium]]></title>
+            <link>https://stoop.jp/collection/70989</link>
+            <guid>https://stoop.jp/collection/70989</guid>
+            <pubDate>Wed, 22 Jul 2026 16:56:33 GMT</pubDate>
+            <description><![CDATA[genre: SEATING, STOOL
+maker: BD Barcelona
+creator: Pepe Cortés
+genre2: NEW EDITION
+period: 1990s
+country: Spain]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/all_0004_20260713-topso-main-2653.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
