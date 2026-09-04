@@ -4,7 +4,7 @@
         <title>ELEPHANT</title>
         <link>https://elephant-life.com</link>
         <description>ELEPHANT の新着商品フィード</description>
-        <lastBuildDate>Fri, 04 Sep 2026 05:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 11:26:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -8327,14 +8327,19 @@ Kupittaan Saviの製品は、主に型で成形したものに手作業で装飾
         </item>
         <item>
             <title><![CDATA[BOWL]]></title>
-            <link>https://elephant-life.com/products/bowl</link>
-            <guid>https://elephant-life.com/products/bowl</guid>
+            <link>https://elephant-life.com/products/fmlc004</link>
+            <guid>https://elephant-life.com/products/fmlc004</guid>
             <pubDate>Tue, 16 Dec 2025 05:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="black-text-01">
-<p class="ex-text-01">1960年のミラノトリエンナーレに同様のデザインの作品を多数出展しています。<br>
-器に円盤上の蓋する不思議な意匠を取り入れた作品です。<br>
-1960年前後の作品と推測されます。<br>
-※目立つダメージなく良い状態です。</p>
+            <content:encoded><![CDATA[<div class="item-description">
+  <p>Francesca Mascitti-Lindh(フランセスカ・マスシッチ・リンド)によってARABIA(アラビア)の芸術部門在籍時に制作された器。</p>
+
+  <p>シャモットを混ぜたやや粗めの土を用いてろくろで成形され、上部が円盤状にせり出した特徴的な造形です。上面には透明感のある釉薬が施され、開口部付近と底面には茶褐色の釉薬が見られます。</p>
+
+  <p>1960年のミラノ・トリエンナーレに同様の作品が複数出品されており、同時期の作品と推測されます。</p>
+
+  <p>底面には手書きで『ARABIA FML』。</p>
+
+  <p>※目立つダメージなく良い状態です。</p>
 </div>
 
 <!-- 下段：FRANCESCA MASCITTI-LINDH 基本コード -->
@@ -8429,7 +8434,7 @@ Kupittaan Saviの製品は、主に型で成形したものに手作業で装飾
     世界的な評価を確立しました。
   </p>
 </div>]]></content:encoded>
-            <enclosure url="https://cdn.shopify.com/s/files/1/0786/5761/8160/files/FMLC004_1.jpg?v=1765862498" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0786/5761/8160/files/FMLC004_1_764c6f2a-e19e-4479-9e63-812938106dca.jpg?v=1788520770" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MUG]]></title>
