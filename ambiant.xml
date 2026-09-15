@@ -4,12 +4,20 @@
         <title>ambiant</title>
         <link>https://ambiant.jp/collections/antiques</link>
         <description>ambiant の新着商品フィード</description>
-        <lastBuildDate>Mon, 14 Sep 2026 23:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 01:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <item>
-            <title><![CDATA[Italian Plaster Hand Relief AN-8126]]></title>
+            <title><![CDATA[フランス アンティーク 石膏の手 AN-5088]]></title>
+            <link>https://checkout.ambiant.jp/products/5088</link>
+            <guid>https://checkout.ambiant.jp/products/5088</guid>
+            <pubDate>Tue, 15 Sep 2026 00:13:07 GMT</pubDate>
+            <description><![CDATA[フランスで見つけた、手をかたどった古い石膏。 表面には細かな皮膚のきめや関節の皺、爪の輪郭まで残されており、実物の手から直接型を取ったライフキャストと考えられます。 いつかの時代の、誰かの手の記憶を留めたような石膏オブジェです。 — 27,500JPY / 在庫あり]]></description>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/IMG-6588.jpg?v=1789195245" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[イタリア アンティーク 石膏の子供の手 AN-8126]]></title>
             <link>https://checkout.ambiant.jp/products/8126</link>
             <guid>https://checkout.ambiant.jp/products/8126</guid>
             <pubDate>Thu, 03 Sep 2026 03:24:51 GMT</pubDate>
