@@ -4,7 +4,7 @@
         <title>Couperin</title>
         <link>https://couperin.net/</link>
         <description>Couperin の新着商品フィード</description>
-        <lastBuildDate>Fri, 25 Sep 2026 01:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 07:51:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -140,7 +140,7 @@ D：口径4.5 高10.7cm</p>
 生産｜フランス北部</p>
 <p>寸法｜<br />
 A：<span style="color: #993300;">売約済</span><br />
-B：口径6.2 高13cm<br />
+B：<span style="color: #993300;">売約済</span><br />
 C：<span style="color: #993300;">売約済</span><br />
 D：口径6.4 高13.3cm<br />
 E：<span style="color: #993300;">売約済</span></p>
