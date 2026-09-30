@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Wed, 30 Sep 2026 06:46:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 13:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -150,7 +150,6 @@ country: England, Japan]]></description>
             <pubDate>Wed, 22 Jul 2026 22:33:09 GMT</pubDate>
             <description><![CDATA[genre: SEATING, STOOL
 creator: Marcel Gascoin
-focus_on: PINSTRIPE FURNITURE
 genre2: MID-CENTURY MODERN, VINTAGE
 period: 1950s
 country: France]]></description>
@@ -198,7 +197,6 @@ country: Spain]]></description>
             <guid>https://stoop.jp/collection/70907</guid>
             <pubDate>Wed, 22 Jul 2026 22:23:45 GMT</pubDate>
             <description><![CDATA[genre: CHAIR, SEATING
-focus_on: PINSTRIPE FURNITURE
 genre2: MID-CENTURY MODERN, VINTAGE
 period: 1950s
 country: Brazil]]></description>
@@ -782,17 +780,6 @@ country: Netherlands]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/08/82215.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Side Table in Bamboo and Wood]]></title>
-            <link>https://stoop.jp/collection/70526</link>
-            <guid>https://stoop.jp/collection/70526</guid>
-            <pubDate>Wed, 22 Jul 2026 19:43:07 GMT</pubDate>
-            <description><![CDATA[genre: SIDE TABLE, TABLE
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1960s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/08/822600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Dining Chair attribute to Jean Prouvé for Vauconsant in Fabric and Wood]]></title>
             <link>https://stoop.jp/collection/70532</link>
             <guid>https://stoop.jp/collection/70532</guid>
@@ -821,7 +808,6 @@ country: France]]></description>
             <guid>https://stoop.jp/collection/75220</guid>
             <pubDate>Wed, 22 Jul 2026 19:34:59 GMT</pubDate>
             <description><![CDATA[genre: CHAIR, SEATING, SOFA
-focus_on: PINSTRIPE FURNITURE
 genre2: VINTAGE
 period: 1970s
 country: Switzerland]]></description>
@@ -1195,6 +1181,19 @@ genre2: NEW EDITION
 period: 1990s
 country: Spain]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/all_0004_20260713-topso-main-2653.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TC Stool by Ruud-Jan Kokke for KOKKE House in Birch]]></title>
+            <link>https://stoop.jp/collection/71697</link>
+            <guid>https://stoop.jp/collection/71697</guid>
+            <pubDate>Wed, 22 Jul 2026 16:55:36 GMT</pubDate>
+            <description><![CDATA[genre: SEATING, STOOL
+maker: KOKKE House
+creator: Ruud-Jan Kokke
+genre2: NEW EDITION
+period: 1990s
+country: Netherlands]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/731-5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
