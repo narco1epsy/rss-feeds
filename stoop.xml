@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Fri, 02 Oct 2026 05:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 12:39:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -24,11 +24,11 @@ country: Finland]]></description>
             <title><![CDATA[Pendant Lamp in Metal]]></title>
             <link>https://stoop.jp/collection/76528</link>
             <guid>https://stoop.jp/collection/76528</guid>
-            <pubDate>Wed, 30 Sep 2026 01:16:50 GMT</pubDate>
+            <pubDate>Wed, 30 Sep 2026 12:46:50 GMT</pubDate>
             <description><![CDATA[genre: CEILING LAMP, LIGHTING
 genre2: VINTAGE
 country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-53.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-5332.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Table Lamp in Rattan]]></title>
@@ -369,11 +369,12 @@ country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/31111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SB02 Dining Chair by Cees Braakman for Psatoe in Wood and Fabric]]></title>
+            <title><![CDATA[SB02 Dining Chair by Cees Braakman for Pastoe in Wood and Fabric]]></title>
             <link>https://stoop.jp/collection/70358</link>
             <guid>https://stoop.jp/collection/70358</guid>
             <pubDate>Wed, 22 Jul 2026 21:49:22 GMT</pubDate>
             <description><![CDATA[genre: CHAIR, SEATING
+maker: Pastoe
 creator: Cees Braakman
 genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
@@ -937,6 +938,7 @@ country: Spain]]></description>
             <guid>https://stoop.jp/collection/72328</guid>
             <pubDate>Wed, 22 Jul 2026 17:57:24 GMT</pubDate>
             <description><![CDATA[genre: TABLEWARE
+focus_on: Japanese Design Meets Spanish Design
 genre2: MID-CENTURY MODERN, VINTAGE
 period: 1940s
 country: Japan]]></description>
