@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Thu, 01 Oct 2026 23:54:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 05:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -12,13 +12,34 @@
             <title><![CDATA[Pirkka Coffee Table by Ilmari Tapiovaara for Laukaan Puu in Wood]]></title>
             <link>https://stoop.jp/collection/59003</link>
             <guid>https://stoop.jp/collection/59003</guid>
-            <pubDate>Wed, 30 Sep 2026 22:18:42 GMT</pubDate>
+            <pubDate>Wed, 30 Sep 2026 14:18:42 GMT</pubDate>
             <description><![CDATA[genre: COFFEE TABLE, TABLE
 creator: Ilmari Tapiovaara
 genre2: MID-CENTURY MODERN, VINTAGE
 period: 1950s
 country: Finland]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2025/11/main-4_0014_20251201-main-4-8721.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pendant Lamp in Metal]]></title>
+            <link>https://stoop.jp/collection/76528</link>
+            <guid>https://stoop.jp/collection/76528</guid>
+            <pubDate>Wed, 30 Sep 2026 01:16:50 GMT</pubDate>
+            <description><![CDATA[genre: CEILING LAMP, LIGHTING
+genre2: VINTAGE
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-53.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Table Lamp in Rattan]]></title>
+            <link>https://stoop.jp/collection/70334</link>
+            <guid>https://stoop.jp/collection/70334</guid>
+            <pubDate>Wed, 30 Sep 2026 01:00:21 GMT</pubDate>
+            <description><![CDATA[genre: LIGHTING, TABLE LAMP
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1960s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-45.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pinstripe Chair by Domhnall Nolan × Makino Urushi Design]]></title>
@@ -1169,30 +1190,6 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: Finland]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0031_20260721-main-2005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Table Lamp by Jean Marais in Fabric and Ceramic]]></title>
-            <link>https://stoop.jp/collection/70659</link>
-            <guid>https://stoop.jp/collection/70659</guid>
-            <pubDate>Wed, 22 Jul 2026 17:08:10 GMT</pubDate>
-            <description><![CDATA[genre: LIGHTING, TABLE LAMP
-genre2: VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/m10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jamaica Stool by Pepe Cortés for BD Barcelona in Steel and Almunium]]></title>
-            <link>https://stoop.jp/collection/70989</link>
-            <guid>https://stoop.jp/collection/70989</guid>
-            <pubDate>Wed, 22 Jul 2026 16:56:33 GMT</pubDate>
-            <description><![CDATA[genre: SEATING, STOOL
-maker: BD Barcelona
-creator: Pepe Cortés
-genre2: NEW EDITION
-period: 1990s
-country: Spain]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/all_0004_20260713-topso-main-2653.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
