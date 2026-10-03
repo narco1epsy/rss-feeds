@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Sat, 03 Oct 2026 08:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 13:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -809,18 +809,6 @@ country: Spain]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/IMG_3125.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Coffee Cup & Saucer Set by Sori Yanagi for Matsumura & Co in Ceramic]]></title>
-            <link>https://stoop.jp/collection/72328</link>
-            <guid>https://stoop.jp/collection/72328</guid>
-            <pubDate>Wed, 22 Jul 2026 17:57:24 GMT</pubDate>
-            <description><![CDATA[genre: TABLEWARE
-focus_on: Japanese Design Meets Spanish Design
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1940s
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/IMG_8748.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Rooster Folding Stool by Barry Simpson in Wood]]></title>
             <link>https://stoop.jp/collection/72017</link>
             <guid>https://stoop.jp/collection/72017</guid>
@@ -1200,6 +1188,17 @@ genre2: VINTAGE
 period: 1970s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0021_20260721-main-2272.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diamante Sideboard by Luciano Frigerio for Frigerio di Desio in Wood]]></title>
+            <link>https://stoop.jp/collection/67381</link>
+            <guid>https://stoop.jp/collection/67381</guid>
+            <pubDate>Wed, 22 Jul 2026 16:23:15 GMT</pubDate>
+            <description><![CDATA[genre: STORAGE
+genre2: VINTAGE
+period: 1970s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/136-224.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
