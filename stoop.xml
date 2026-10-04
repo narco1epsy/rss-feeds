@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Sun, 04 Oct 2026 00:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 06:58:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -40,7 +40,7 @@ country: England, Japan]]></description>
             <guid>https://stoop.jp/collection/75128</guid>
             <pubDate>Tue, 04 Aug 2026 15:16:04 GMT</pubDate>
             <description><![CDATA[genre: FLOOR LAMP, LIGHTING
-genre2: MID-CENTURY MODERN, VINTAGE
+genre2: Italian Modern Design, MID-CENTURY MODERN, VINTAGE
 period: 1950s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/08/08202.jpg" length="0" type="image/jpg"/>
@@ -898,7 +898,7 @@ country: Italy]]></description>
             <description><![CDATA[genre: CHAIR, SEATING, SOFA
 maker: Tacchini
 creator: Joe Colombo
-genre2: NEW EDITION
+genre2: Italian Modern Design, NEW EDITION
 period: 1960s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/06/22.jpg" length="0" type="image/jpg"/>
@@ -1149,7 +1149,7 @@ country: Germany]]></description>
             <guid>https://stoop.jp/collection/70701</guid>
             <pubDate>Wed, 22 Jul 2026 16:38:09 GMT</pubDate>
             <description><![CDATA[genre: CHAIR, SEATING, SOFA
-genre2: VINTAGE
+genre2: Italian Modern Design, VINTAGE
 period: 1970s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0034_20260721-main-1932.jpg" length="0" type="image/jpg"/>
@@ -1195,7 +1195,7 @@ country: France]]></description>
             <guid>https://stoop.jp/collection/67381</guid>
             <pubDate>Wed, 22 Jul 2026 16:23:15 GMT</pubDate>
             <description><![CDATA[genre: STORAGE
-genre2: VINTAGE
+genre2: Italian Modern Design, VINTAGE
 period: 1970s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/136-224.jpg" length="0" type="image/jpg"/>
