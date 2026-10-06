@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Tue, 06 Oct 2026 10:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 17:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -291,7 +291,7 @@ country: France]]></description>
 genre2: VINTAGE
 period: 1970s
 country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-722.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-7222.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dining Chair in Rattan and Bamboo]]></title>
