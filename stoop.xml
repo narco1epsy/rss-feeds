@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Mon, 05 Oct 2026 22:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 03:01:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -539,6 +539,7 @@ country: France]]></description>
             <guid>https://stoop.jp/collection/76410</guid>
             <pubDate>Wed, 30 Sep 2026 12:32:15 GMT</pubDate>
             <description><![CDATA[genre: CHAIR, SEATING
+focus_on: Permanent Exhibition "Chair"
 genre2: MID-CENTURY MODERN, VINTAGE
 period: 1930s
 country: Japan]]></description>
@@ -678,6 +679,19 @@ genre2: VINTAGE
 period: 1970s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/10182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SE06 Chair by Martin Visser for Spectrum in Steel and Leather]]></title>
+            <link>https://stoop.jp/collection/70404</link>
+            <guid>https://stoop.jp/collection/70404</guid>
+            <pubDate>Wed, 30 Sep 2026 11:47:37 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+maker: Spectrum
+creator: Martin Visser
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1960s
+country: Netherlands]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928142.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Flower Vase for HOLMEGAARD in Glass]]></title>
@@ -1150,17 +1164,6 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1930s
 country: Germany]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/ch00233.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Shelf in Wood]]></title>
-            <link>https://stoop.jp/collection/70745</link>
-            <guid>https://stoop.jp/collection/70745</guid>
-            <pubDate>Wed, 22 Jul 2026 21:50:23 GMT</pubDate>
-            <description><![CDATA[genre: STORAGE
-genre2: VINTAGE
-period: 1970s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/31111.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
