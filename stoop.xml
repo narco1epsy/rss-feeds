@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Thu, 08 Oct 2026 09:01:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 16:31:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -287,7 +287,7 @@ country: France]]></description>
             <link>https://stoop.jp/collection/70553</link>
             <guid>https://stoop.jp/collection/70553</guid>
             <pubDate>Wed, 30 Sep 2026 18:15:36 GMT</pubDate>
-            <description><![CDATA[genre: TABLE
+            <description><![CDATA[genre: CONSOLE TABLE, TABLE
 genre2: VINTAGE
 period: 1970s
 country: Italy]]></description>
@@ -966,7 +966,7 @@ country: Denmark]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pendant Lamp for Lyma in Chrome and Glass]]></title>
+            <title><![CDATA[Pendant Lamp for Lyma in Chrome and Plastic]]></title>
             <link>https://stoop.jp/collection/70547</link>
             <guid>https://stoop.jp/collection/70547</guid>
             <pubDate>Wed, 30 Sep 2026 11:06:00 GMT</pubDate>
