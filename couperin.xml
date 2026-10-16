@@ -4,7 +4,7 @@
         <title>Couperin</title>
         <link>https://couperin.net/</link>
         <description>Couperin の新着商品フィード</description>
-        <lastBuildDate>Fri, 16 Oct 2026 01:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 07:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -76,7 +76,7 @@
             <enclosure url="https://couperin.net/wp-content/uploads/2026/10/2606101404-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Petit Assiette de Delft XVIIème]]></title>
+            <title><![CDATA[18th century Delft Vase]]></title>
             <link>https://couperin.net/2606101402-2/</link>
             <guid>https://couperin.net/2606101402-2/</guid>
             <pubDate>Wed, 14 Oct 2026 16:53:29 GMT</pubDate>
