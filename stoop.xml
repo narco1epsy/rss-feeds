@@ -4,15 +4,28 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Sat, 17 Oct 2026 09:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 13:45:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <item>
+            <title><![CDATA[Métropole No.306 Chair by Jean Prouvé in Leatherette and Steel]]></title>
+            <link>https://stoop.jp/collection/76405</link>
+            <guid>https://stoop.jp/collection/76405</guid>
+            <pubDate>Wed, 30 Sep 2026 23:59:19 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+creator: Jean Prouvé
+focus_on: ELEMENTS OF BLACK, Permanent Exhibition "Chair"
+genre2: VINTAGE
+period: 1950s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/202609281.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Kono Coffee Table by Lella and Massimo Vignelli for Casigliani in Marble , Copper and Glass]]></title>
             <link>https://stoop.jp/collection/70364</link>
             <guid>https://stoop.jp/collection/70364</guid>
-            <pubDate>Wed, 30 Sep 2026 23:59:36 GMT</pubDate>
+            <pubDate>Wed, 30 Sep 2026 23:58:36 GMT</pubDate>
             <description><![CDATA[genre: COFFEE TABLE, TABLE
 creator: Lella and Massimo Vignelli
 genre2: Italian Modern Design, MINIMAL & POSTMODERN, VINTAGE
@@ -189,6 +202,19 @@ country: Germany]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-1093.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Zig Zag Chair by Gerrit Thomas Rietveld for Cassina]]></title>
+            <link>https://stoop.jp/collection/78616</link>
+            <guid>https://stoop.jp/collection/78616</guid>
+            <pubDate>Wed, 30 Sep 2026 20:54:49 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+creator: Gerrit Thomas Rietveld
+focus_on: ELEMENTS OF BLACK, Permanent Exhibition "Chair"
+genre2: VINTAGE
+period: 1930s
+country: Italy, Netherlands]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/mod.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LTE3 Alzabile Floor Lamp by Ignazio Gardella for Azucena in Marble , Brass and Metal]]></title>
             <link>https://stoop.jp/collection/76421</link>
             <guid>https://stoop.jp/collection/76421</guid>
@@ -294,6 +320,19 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-7222.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[DCW Chair by Charles & Ray Eames for Evans Products in Plywood]]></title>
+            <link>https://stoop.jp/collection/79299</link>
+            <guid>https://stoop.jp/collection/79299</guid>
+            <pubDate>Wed, 30 Sep 2026 17:54:30 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+creator: Charles & Ray Eames
+focus_on: ELEMENTS OF BLACK, Permanent Exhibition "Chair"
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1940s
+country: America]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/m2-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dining Chair in Rattan and Bamboo]]></title>
             <link>https://stoop.jp/collection/70514</link>
             <guid>https://stoop.jp/collection/70514</guid>
@@ -303,6 +342,19 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1950s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/202609289.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Greene Street Armchair by Gaetano Pesce for Vitra in Resin, Steel and Rubber]]></title>
+            <link>https://stoop.jp/collection/76401</link>
+            <guid>https://stoop.jp/collection/76401</guid>
+            <pubDate>Wed, 30 Sep 2026 17:19:19 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+creator: Gaetano Pesce
+focus_on: ELEMENTS OF BLACK, Permanent Exhibition "Chair"
+genre2: VINTAGE
+period: 1980s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/202609282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[A Way of Communication : 20]]></title>
@@ -419,6 +471,20 @@ genre2: VINTAGE
 period: 1970s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-1042.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Superleggera Chair by Gio Ponti for Cassina in Wood and Rattan]]></title>
+            <link>https://stoop.jp/collection/78625</link>
+            <guid>https://stoop.jp/collection/78625</guid>
+            <pubDate>Wed, 30 Sep 2026 14:15:39 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+maker: Cassina
+creator: Gio Ponti
+focus_on: CONTRAST｜MODERNISM SHOW 2025, ELEMENTS OF BLACK, Italian Modern Design, Permanent Exhibition "Chair"
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1950s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/m1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Wall Lamp in Metal and Brass]]></title>
@@ -810,6 +876,20 @@ country: Denmark]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-2832.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MISS DORN Chair by Philippe Starck for Disform in Steel and Leather]]></title>
+            <link>https://stoop.jp/collection/78619</link>
+            <guid>https://stoop.jp/collection/78619</guid>
+            <pubDate>Wed, 30 Sep 2026 11:30:41 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+maker: Disform
+creator: Philippe Starck
+focus_on: ELEMENTS OF BLACK, Permanent Exhibition "Chair"
+genre2: MINIMAL & POSTMODERN, VINTAGE
+period: 1980s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/mod2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Chair by Rodney Kinsman for Bieffeplast in Steel and Leather]]></title>
             <link>https://stoop.jp/collection/70535</link>
             <guid>https://stoop.jp/collection/70535</guid>
@@ -886,6 +966,20 @@ genre2: MINIMAL & POSTMODERN, VINTAGE
 period: 1980s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-6211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wendy Wright Side Chair by Philippe Starck for Disform in Metal and Steel]]></title>
+            <link>https://stoop.jp/collection/76399</link>
+            <guid>https://stoop.jp/collection/76399</guid>
+            <pubDate>Wed, 30 Sep 2026 11:12:31 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+maker: Disform
+creator: Philippe Starck
+focus_on: ELEMENTS OF BLACK, Permanent Exhibition "Chair"
+genre2: MINIMAL & POSTMODERN, VINTAGE
+period: 1980s
+country: Spain]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/202609288.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Wall Lamp in Chrome]]></title>
@@ -1084,90 +1178,6 @@ genre2: CONTEMPORARY
 period: Contemporary
 country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/08/001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Side Table by Domhnall Nolan × Makino Urushi Design]]></title>
-            <link>https://stoop.jp/collection/74176</link>
-            <guid>https://stoop.jp/collection/74176</guid>
-            <pubDate>Wed, 22 Jul 2026 22:34:23 GMT</pubDate>
-            <description><![CDATA[genre: SIDE TABLE, TABLE
-creator: Domhnall Nolan
-artists: MAKINO URUSHI DESIGN
-focus_on: PINSTRIPE
-genre2: CONTEMPORARY
-period: Contemporary
-country: England, Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/08/002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[C-992 Trèfle Stool by Marcel Gascoin in Wood]]></title>
-            <link>https://stoop.jp/collection/70862</link>
-            <guid>https://stoop.jp/collection/70862</guid>
-            <pubDate>Wed, 22 Jul 2026 22:33:09 GMT</pubDate>
-            <description><![CDATA[genre: SEATING, STOOL
-creator: Marcel Gascoin
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0040_20260721-main-17354.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Steltman Chair by Gerrit Thomas Rietveld for Pastoe in Black]]></title>
-            <link>https://stoop.jp/collection/74036</link>
-            <guid>https://stoop.jp/collection/74036</guid>
-            <pubDate>Wed, 22 Jul 2026 22:32:55 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
-maker: Pastoe
-creator: Gerrit Thomas Rietveld
-genre2: NEW EDITION
-period: 1960s
-country: Netherlands]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/731-9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spider Wall Lamp by Serge Mouille for Les Ateliers Serge Mouille in Steel and Aluminum]]></title>
-            <link>https://stoop.jp/collection/75134</link>
-            <guid>https://stoop.jp/collection/75134</guid>
-            <pubDate>Wed, 22 Jul 2026 22:31:30 GMT</pubDate>
-            <description><![CDATA[genre: LIGHTING, WALL LAMP
-creator: Serge Mouille
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/08201133.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dining Table in Marble]]></title>
-            <link>https://stoop.jp/collection/58635</link>
-            <guid>https://stoop.jp/collection/58635</guid>
-            <pubDate>Wed, 22 Jul 2026 22:30:20 GMT</pubDate>
-            <description><![CDATA[genre: DINING TABLE, TABLE
-genre2: VINTAGE
-period: 1970s
-country: Spain]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dining Chair for Hall. Móveis e Decorações in Wood , Fabric and Rattan]]></title>
-            <link>https://stoop.jp/collection/70907</link>
-            <guid>https://stoop.jp/collection/70907</guid>
-            <pubDate>Wed, 22 Jul 2026 22:23:45 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: Brazil]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/main_0000_20260721-main-2933.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wall Lamp in Steel and Metal]]></title>
-            <link>https://stoop.jp/collection/71902</link>
-            <guid>https://stoop.jp/collection/71902</guid>
-            <pubDate>Wed, 22 Jul 2026 22:23:42 GMT</pubDate>
-            <description><![CDATA[genre: LIGHTING, WALL LAMP
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/07/11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
