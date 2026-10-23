@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Fri, 23 Oct 2026 04:54:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 10:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -696,6 +696,7 @@ country: France]]></description>
             <guid>https://stoop.jp/collection/76410</guid>
             <pubDate>Wed, 30 Sep 2026 12:32:15 GMT</pubDate>
             <description><![CDATA[genre: CHAIR, SEATING
+creator: Ubunji Kidokoro
 focus_on: Permanent Exhibition "Chair"
 genre2: MID-CENTURY MODERN, VINTAGE
 period: 1930s
