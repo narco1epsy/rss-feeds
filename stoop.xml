@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Thu, 29 Oct 2026 01:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 08:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -249,19 +249,6 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Key : 3 by Akari Uragami]]></title>
-            <link>https://stoop.jp/collection/76351</link>
-            <guid>https://stoop.jp/collection/76351</guid>
-            <pubDate>Wed, 30 Sep 2026 20:07:57 GMT</pubDate>
-            <description><![CDATA[genre: ART, DECOR, OBJECT
-artists: Akari Uragami
-focus_on: Unformed Meaning
-genre2: CONTEMPORARY
-period: Contemporary
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-25.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cocoon Wall Lamp in Resin and Steel]]></title>
@@ -598,6 +585,19 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: Netherlands]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/1021-12.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Key : 3 by Akari Uragami]]></title>
+            <link>https://stoop.jp/collection/76351</link>
+            <guid>https://stoop.jp/collection/76351</guid>
+            <pubDate>Wed, 30 Sep 2026 13:07:57 GMT</pubDate>
+            <description><![CDATA[genre: ART, DECOR, OBJECT
+artists: Akari Uragami
+focus_on: Unformed Meaning
+genre2: CONTEMPORARY
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-252.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Side Table in Wood and Glass]]></title>
