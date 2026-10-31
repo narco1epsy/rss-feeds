@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Sat, 31 Oct 2026 05:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 12:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -59,6 +59,19 @@ country: Netherlands]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-1082.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Unformed Meaning : 6 by Akari Uragami]]></title>
+            <link>https://stoop.jp/collection/76354</link>
+            <guid>https://stoop.jp/collection/76354</guid>
+            <pubDate>Wed, 30 Sep 2026 23:17:48 GMT</pubDate>
+            <description><![CDATA[genre: ART, DECOR
+artists: Akari Uragami
+focus_on: Unformed Meaning
+genre2: CONTEMPORARY
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-212.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dining Table by Angelo Mangiarotti for Up&Up in Travertine]]></title>
             <link>https://stoop.jp/collection/70584</link>
             <guid>https://stoop.jp/collection/70584</guid>
@@ -69,19 +82,6 @@ genre2: Italian Modern Design, VINTAGE
 period: 1970s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/1382.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Unformed Meaning : 6 by Akari Uragami]]></title>
-            <link>https://stoop.jp/collection/76354</link>
-            <guid>https://stoop.jp/collection/76354</guid>
-            <pubDate>Wed, 30 Sep 2026 23:08:48 GMT</pubDate>
-            <description><![CDATA[genre: ART, DECOR
-artists: Akari Uragami
-focus_on: Unformed Meaning
-genre2: CONTEMPORARY
-period: Contemporary
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-212.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dr. Sonderbar Chair by Philippe Starck for XO in Steel]]></title>
@@ -147,6 +147,17 @@ country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-22111121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Air Sofa by Burkhard Vogtherr for Hain & Thome in Leather and Chrome]]></title>
+            <link>https://stoop.jp/collection/70451</link>
+            <guid>https://stoop.jp/collection/70451</guid>
+            <pubDate>Wed, 30 Sep 2026 20:56:44 GMT</pubDate>
+            <description><![CDATA[genre: SEATING, SOFA
+genre2: MINIMAL & POSTMODERN, VINTAGE
+period: 1980s
+country: Germany]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-1093.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Coffee Table in Travertine]]></title>
             <link>https://stoop.jp/collection/76644</link>
             <guid>https://stoop.jp/collection/76644</guid>
@@ -158,21 +169,10 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-712.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Air Sofa by Burkhard Vogtherr for Hain & Thome in Leather and Chrome]]></title>
-            <link>https://stoop.jp/collection/70451</link>
-            <guid>https://stoop.jp/collection/70451</guid>
-            <pubDate>Wed, 30 Sep 2026 20:55:44 GMT</pubDate>
-            <description><![CDATA[genre: SEATING, SOFA
-genre2: MINIMAL & POSTMODERN, VINTAGE
-period: 1980s
-country: Germany]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-1093.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Zig Zag Chair by Gerrit Thomas Rietveld for Cassina]]></title>
             <link>https://stoop.jp/collection/78616</link>
             <guid>https://stoop.jp/collection/78616</guid>
-            <pubDate>Wed, 30 Sep 2026 20:54:49 GMT</pubDate>
+            <pubDate>Wed, 30 Sep 2026 20:53:49 GMT</pubDate>
             <description><![CDATA[genre: CHAIR, SEATING
 creator: Gerrit Thomas Rietveld
 focus_on: ELEMENTS OF BLACK, Permanent Exhibition "Chair"
@@ -185,7 +185,7 @@ country: Italy, Netherlands]]></description>
             <title><![CDATA[LTE3 Alzabile Floor Lamp by Ignazio Gardella for Azucena in Marble , Brass and Metal]]></title>
             <link>https://stoop.jp/collection/76421</link>
             <guid>https://stoop.jp/collection/76421</guid>
-            <pubDate>Wed, 30 Sep 2026 20:48:21 GMT</pubDate>
+            <pubDate>Wed, 30 Sep 2026 20:49:21 GMT</pubDate>
             <description><![CDATA[genre: FLOOR LAMP, LIGHTING
 creator: Ignazio Gardella
 genre2: Italian Modern Design, MID-CENTURY MODERN, VINTAGE
@@ -289,6 +289,17 @@ country: Switzerland]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/202609282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sideboard in Wood and Steel]]></title>
+            <link>https://stoop.jp/collection/70605</link>
+            <guid>https://stoop.jp/collection/70605</guid>
+            <pubDate>Wed, 30 Sep 2026 15:50:30 GMT</pubDate>
+            <description><![CDATA[genre: STORAGE
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1960s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/1253.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[A Way of Communication : 20 by Akari Uragami]]></title>
             <link>https://stoop.jp/collection/76360</link>
             <guid>https://stoop.jp/collection/76360</guid>
@@ -302,32 +313,10 @@ country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-223.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sideboard in Wood and Steel]]></title>
-            <link>https://stoop.jp/collection/70605</link>
-            <guid>https://stoop.jp/collection/70605</guid>
-            <pubDate>Wed, 30 Sep 2026 15:21:30 GMT</pubDate>
-            <description><![CDATA[genre: STORAGE
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1960s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/1253.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Magazine rack in Rattan and Steel]]></title>
-            <link>https://stoop.jp/collection/76441</link>
-            <guid>https://stoop.jp/collection/76441</guid>
-            <pubDate>Wed, 30 Sep 2026 14:21:47 GMT</pubDate>
-            <description><![CDATA[genre: STORAGE
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1960s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/1262.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Pirkka Coffee Table by Ilmari Tapiovaara for Laukaan Puu in Wood]]></title>
             <link>https://stoop.jp/collection/59003</link>
             <guid>https://stoop.jp/collection/59003</guid>
-            <pubDate>Wed, 30 Sep 2026 14:18:42 GMT</pubDate>
+            <pubDate>Wed, 30 Sep 2026 15:42:42 GMT</pubDate>
             <description><![CDATA[genre: COFFEE TABLE, TABLE
 creator: Ilmari Tapiovaara
 genre2: MID-CENTURY MODERN, VINTAGE
@@ -339,12 +328,23 @@ country: Finland]]></description>
             <title><![CDATA[Adjustable Desk Lamp in Metal and Brass]]></title>
             <link>https://stoop.jp/collection/70590</link>
             <guid>https://stoop.jp/collection/70590</guid>
-            <pubDate>Wed, 30 Sep 2026 14:16:54 GMT</pubDate>
+            <pubDate>Wed, 30 Sep 2026 15:16:54 GMT</pubDate>
             <description><![CDATA[genre: LIGHTING, TABLE LAMP
 genre2: Italian Modern Design, MID-CENTURY MODERN, VINTAGE
 period: 1950s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/10112322.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Magazine rack in Rattan and Steel]]></title>
+            <link>https://stoop.jp/collection/76441</link>
+            <guid>https://stoop.jp/collection/76441</guid>
+            <pubDate>Wed, 30 Sep 2026 14:21:47 GMT</pubDate>
+            <description><![CDATA[genre: STORAGE
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1960s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/1262.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Unformed Meaning : 4 by Akari Uragami]]></title>
@@ -453,6 +453,18 @@ country: Germany]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-6234.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Audoux & Minet Style Coffee Table , Chair and Stool in Rope and Wood]]></title>
+            <link>https://stoop.jp/collection/70316</link>
+            <guid>https://stoop.jp/collection/70316</guid>
+            <pubDate>Wed, 30 Sep 2026 13:08:43 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, COFFEE TABLE, SEATING, STOOL, TABLE
+creator: Audoux & Minet
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1950s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-57-22111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Key : 3 by Akari Uragami]]></title>
             <link>https://stoop.jp/collection/76351</link>
             <guid>https://stoop.jp/collection/76351</guid>
@@ -490,29 +502,16 @@ country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-5332.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Unformed Meaning by Akari Uragami]]></title>
-            <link>https://stoop.jp/collection/76346</link>
-            <guid>https://stoop.jp/collection/76346</guid>
-            <pubDate>Wed, 30 Sep 2026 12:19:11 GMT</pubDate>
-            <description><![CDATA[genre: ART, DECOR, OBJECT
-artists: Akari Uragami
-focus_on: Unformed Meaning
-genre2: CONTEMPORARY
-period: Contemporary
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/eye_0003_5H8A3597-6-22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Audoux & Minet Style Coffee Table , Chair and Stool in Rope and Wood]]></title>
-            <link>https://stoop.jp/collection/70316</link>
-            <guid>https://stoop.jp/collection/70316</guid>
-            <pubDate>Wed, 30 Sep 2026 12:18:43 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, COFFEE TABLE, SEATING, STOOL, TABLE
-creator: Audoux & Minet
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1950s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-57-22111.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Viscontea Pendant Lamp by Achille & Pier Giacomo Castiglioni for FLOS in Resin and Steel]]></title>
+            <link>https://stoop.jp/collection/76429</link>
+            <guid>https://stoop.jp/collection/76429</guid>
+            <pubDate>Wed, 30 Sep 2026 12:19:09 GMT</pubDate>
+            <description><![CDATA[genre: CEILING LAMP, LIGHTING
+creator: Achille Castiglioni
+genre2: Italian Modern Design, MID-CENTURY MODERN, VINTAGE
+period: 1960s
+country: Italy]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-52234.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Day Bed by Pierre Guariche for Free Span in Wood and Fabric]]></title>
@@ -525,18 +524,6 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1950s
 country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/111224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Viscontea Pendant Lamp by Achille & Pier Giacomo Castiglioni for FLOS in Resin and Steel]]></title>
-            <link>https://stoop.jp/collection/76429</link>
-            <guid>https://stoop.jp/collection/76429</guid>
-            <pubDate>Wed, 30 Sep 2026 12:18:09 GMT</pubDate>
-            <description><![CDATA[genre: CEILING LAMP, LIGHTING
-creator: Achille Castiglioni
-genre2: Italian Modern Design, MID-CENTURY MODERN, VINTAGE
-period: 1960s
-country: Italy]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-52234.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Side Table in Rattan]]></title>
@@ -583,6 +570,19 @@ country: France]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-30.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Unformed Meaning by Akari Uragami]]></title>
+            <link>https://stoop.jp/collection/76346</link>
+            <guid>https://stoop.jp/collection/76346</guid>
+            <pubDate>Wed, 30 Sep 2026 12:16:11 GMT</pubDate>
+            <description><![CDATA[genre: ART, DECOR, OBJECT
+artists: Akari Uragami
+focus_on: Unformed Meaning
+genre2: CONTEMPORARY
+period: Contemporary
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/eye_0003_5H8A3597-6-22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Art Deco Style Side Table in Wood]]></title>
             <link>https://stoop.jp/collection/70572</link>
             <guid>https://stoop.jp/collection/70572</guid>
@@ -603,17 +603,6 @@ genre2: VINTAGE
 period: 1970s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-5522.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Object in Wood]]></title>
-            <link>https://stoop.jp/collection/70470</link>
-            <guid>https://stoop.jp/collection/70470</guid>
-            <pubDate>Wed, 30 Sep 2026 12:09:37 GMT</pubDate>
-            <description><![CDATA[genre: DECOR, OBJECT
-genre2: VINTAGE
-period: 1930s
-country: India]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-2722.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dining Table in Wood]]></title>
@@ -663,20 +652,6 @@ country: Denmark]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-2832.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MISS DORN Chair by Philippe Starck for Disform in Steel and Leather]]></title>
-            <link>https://stoop.jp/collection/78619</link>
-            <guid>https://stoop.jp/collection/78619</guid>
-            <pubDate>Wed, 30 Sep 2026 11:30:41 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
-maker: Disform
-creator: Philippe Starck
-focus_on: ELEMENTS OF BLACK, Permanent Exhibition "Chair"
-genre2: MINIMAL & POSTMODERN, VINTAGE
-period: 1980s
-country: France]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/mod2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Chair by Rodney Kinsman for Bieffeplast in Steel and Leather]]></title>
             <link>https://stoop.jp/collection/70535</link>
             <guid>https://stoop.jp/collection/70535</guid>
@@ -697,6 +672,20 @@ genre2: MINIMAL & POSTMODERN, VINTAGE
 period: 1980s
 country: Netherlands]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-49322.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MISS DORN Chair by Philippe Starck for Disform in Steel and Leather]]></title>
+            <link>https://stoop.jp/collection/78619</link>
+            <guid>https://stoop.jp/collection/78619</guid>
+            <pubDate>Wed, 30 Sep 2026 11:18:41 GMT</pubDate>
+            <description><![CDATA[genre: CHAIR, SEATING
+maker: Disform
+creator: Philippe Starck
+focus_on: ELEMENTS OF BLACK, Permanent Exhibition "Chair"
+genre2: MINIMAL & POSTMODERN, VINTAGE
+period: 1980s
+country: France]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/mod2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Table Lamp in Steel and Chrome]]></title>
@@ -845,6 +834,17 @@ genre2: MINIMAL & POSTMODERN, VINTAGE
 period: 1980s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/10172-12.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Object in Wood]]></title>
+            <link>https://stoop.jp/collection/70470</link>
+            <guid>https://stoop.jp/collection/70470</guid>
+            <pubDate>Wed, 30 Sep 2026 06:09:37 GMT</pubDate>
+            <description><![CDATA[genre: DECOR, OBJECT
+genre2: VINTAGE
+period: 1930s
+country: India]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-2722.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cabinet in Wood and Steel]]></title>
