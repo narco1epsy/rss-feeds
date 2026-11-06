@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Thu, 05 Nov 2026 22:02:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 02:29:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -621,19 +621,6 @@ country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/j14.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OF Group 1 Desk by Isamu Kenmochi for Tendo Mokko in Wood and Aluminum]]></title>
-            <link>https://stoop.jp/collection/79076</link>
-            <guid>https://stoop.jp/collection/79076</guid>
-            <pubDate>Thu, 15 Oct 2026 12:05:54 GMT</pubDate>
-            <description><![CDATA[maker: Tendo Mokko
-creator: Isamu Kenmochi
-focus_on: Japanese Design Meets Spanish Design
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1970s
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/j2534.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Medium Mira Chair by George Nakashima for Sakura Seisakusho in American Black Walnut]]></title>
             <link>https://stoop.jp/collection/76263</link>
             <guid>https://stoop.jp/collection/76263</guid>
@@ -885,6 +872,19 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1980s
 country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/j21.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OF Group 1 Desk by Isamu Kenmochi for Tendo Mokko in Wood and Aluminum]]></title>
+            <link>https://stoop.jp/collection/79076</link>
+            <guid>https://stoop.jp/collection/79076</guid>
+            <pubDate>Thu, 15 Oct 2026 09:05:54 GMT</pubDate>
+            <description><![CDATA[maker: Tendo Mokko
+creator: Isamu Kenmochi
+focus_on: Japanese Design Meets Spanish Design
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1970s
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/j2534.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Básica Table Lamp by Santiago Roqueta for Santa&Cole in Fabric , Wood and Steel]]></title>
