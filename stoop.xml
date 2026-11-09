@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Sun, 08 Nov 2026 23:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 06:36:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -215,6 +215,18 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: Spain]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Side Table by Ubunji Kidokoro for Chikkosha in Wood]]></title>
+            <link>https://stoop.jp/collection/79155</link>
+            <guid>https://stoop.jp/collection/79155</guid>
+            <pubDate>Thu, 15 Oct 2026 19:52:22 GMT</pubDate>
+            <description><![CDATA[creator: Ubunji Kidokoro
+focus_on: Japanese Design Meets Spanish Design
+genre2: MID-CENTURY MODERN, VINTAGE
+period: 1930s
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/j13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stool by SANAA in Polished Metal]]></title>
@@ -1206,19 +1218,6 @@ genre2: CONTEMPORARY
 period: Contemporary
 country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/uragami301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heart : 3 by Akari Uragami]]></title>
-            <link>https://stoop.jp/collection/79646</link>
-            <guid>https://stoop.jp/collection/79646</guid>
-            <pubDate>Wed, 30 Sep 2026 17:29:44 GMT</pubDate>
-            <description><![CDATA[genre: ART, DECOR, OBJECT
-artists: Akari Uragami
-focus_on: Unformed Meaning
-genre2: CONTEMPORARY
-period: Contemporary
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/ura-ob-19.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
