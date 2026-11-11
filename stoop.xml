@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Tue, 10 Nov 2026 23:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 06:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -229,7 +229,7 @@ country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/j13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Stool by SANAA in Polished Metal]]></title>
+            <title><![CDATA[Osaka Stools by Kazuyo Sejima Associates (KSA) in Aluminum]]></title>
             <link>https://stoop.jp/collection/79540</link>
             <guid>https://stoop.jp/collection/79540</guid>
             <pubDate>Thu, 15 Oct 2026 19:51:56 GMT</pubDate>
@@ -418,7 +418,7 @@ country: America]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/130-223.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SANAA Chair by SANNA in Polished Metal]]></title>
+            <title><![CDATA[Rabbit Chair by Kazuyo Sejima and Ryue Nishizawa / SANAA (SANAA) in Aluminum]]></title>
             <link>https://stoop.jp/collection/79539</link>
             <guid>https://stoop.jp/collection/79539</guid>
             <pubDate>Thu, 15 Oct 2026 14:04:05 GMT</pubDate>
@@ -536,6 +536,18 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1960s
 country: Japan]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/j22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reception Desk by Kunio Maekawa for Tendo Mokko in Wood]]></title>
+            <link>https://stoop.jp/collection/79088</link>
+            <guid>https://stoop.jp/collection/79088</guid>
+            <pubDate>Thu, 15 Oct 2026 12:30:47 GMT</pubDate>
+            <description><![CDATA[creator: Kunio Maekawa
+focus_on: Japanese Design Meets Spanish Design
+genre2: VINTAGE
+period: 1970s
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/sj06.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Haco Chair by Isamu Kenmochi for Tendo Mokko in Fabric and Wood]]></title>
@@ -1205,19 +1217,6 @@ genre2: MID-CENTURY MODERN, VINTAGE
 period: 1940s
 country: America]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/m2-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liberation : 16 by Akari Uragami]]></title>
-            <link>https://stoop.jp/collection/79589</link>
-            <guid>https://stoop.jp/collection/79589</guid>
-            <pubDate>Wed, 30 Sep 2026 17:52:28 GMT</pubDate>
-            <description><![CDATA[genre: ART, DECOR
-artists: Akari Uragami
-focus_on: Unformed Meaning
-genre2: CONTEMPORARY
-period: Contemporary
-country: Japan]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/uragami301.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
