@@ -4,10 +4,18 @@
         <title>ambiant</title>
         <link>https://ambiant.jp/collections/antiques</link>
         <description>ambiant の新着商品フィード</description>
-        <lastBuildDate>Fri, 13 Nov 2026 22:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 03:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[イタリア プーリア グロッターリエ アンティーク ポット AN-8201]]></title>
+            <link>https://checkout.ambiant.jp/products/8201</link>
+            <guid>https://checkout.ambiant.jp/products/8201</guid>
+            <pubDate>Sat, 14 Nov 2026 00:22:29 GMT</pubDate>
+            <description><![CDATA[南イタリア、プーリア州グロッターリエの双耳保存容器。 かつて食糧の保存に用いられた、当地の暮らしに根ざした日用陶器。 もはや定番とも言えるグロッターリエの古陶とはいえ、本品は小ぶりな寸法ゆえ、鉢カバーや道具入れなど、様々に用途を変えて楽しめそうです。 持ち手に修復痕が見られます。 — 27,500JPY / 在庫あり]]></description>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1070887_4fc63626-abc9-4905-953c-15cef896649f.jpg?v=1794615646" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Antique Grottaglie Plate 1800s AN-8155]]></title>
             <link>https://checkout.ambiant.jp/products/8155</link>
@@ -1999,14 +2007,6 @@
             <pubDate>Mon, 17 Mar 2025 12:34:02 GMT</pubDate>
             <description><![CDATA[フランスより、古い石膏のオブジェ — 2,200JPY / 売切れ]]></description>
             <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/DSCF0492.jpg?v=1712373166" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19世紀 イタリア プーリアグロッターリエ マヨリカ 錫釉 輪花深皿 AT-24017]]></title>
-            <link>https://checkout.ambiant.jp/products/at-24017</link>
-            <guid>https://checkout.ambiant.jp/products/at-24017</guid>
-            <pubDate>Mon, 17 Mar 2025 12:34:02 GMT</pubDate>
-            <description><![CDATA[19世紀南イタリア、プーリア州グロッターリエの輪花大皿。 象牙色の白錫釉が特徴の、ロッバ・ビアンカ（robba bianca）と呼ばれる器で、日常使いのために作られた素朴な民窯陶器の中でも、より丁寧な工程を経て生まれたもの。 また、この波打つような縁はグロッターリエ陶器の様式美を象徴する意匠の一つです。 — 50JPY / 売切れ]]></description>
-            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/DSCF0458.jpg?v=1712297856" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
