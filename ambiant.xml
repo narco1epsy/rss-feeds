@@ -4,7 +4,7 @@
         <title>ambiant</title>
         <link>https://ambiant.jp/collections/antiques</link>
         <description>ambiant の新着商品フィード</description>
-        <lastBuildDate>Sun, 15 Nov 2026 10:57:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 17:43:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -31,6 +31,14 @@
             <pubDate>Tue, 03 Nov 2026 01:26:49 GMT</pubDate>
             <description><![CDATA[どっしりとした大ぶりで浅く広がる使い勝手の良さそうな造形。器肌に残る幾多の痕跡と、側面から底にかけてびっしりと施された鎹直し。 その貫禄ある佇まいに強く惹かれて手にした、プーリア州グロッターリエのボウル。 長年にわたり使い込まれてきたのでしょう。 — 50JPY / 売切れ]]></description>
             <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/IMG_8350.jpg?v=1793669191" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19世紀 シチリア 白釉の陶製菓子型]]></title>
+            <link>https://checkout.ambiant.jp/products/8151</link>
+            <guid>https://checkout.ambiant.jp/products/8151</guid>
+            <pubDate>Sun, 15 Nov 2026 12:21:55 GMT</pubDate>
+            <description><![CDATA[19世紀、シチリアのものと伝えられる白釉の陶製菓子型。 現地では、果実を煮詰め流し固めるための型として紹介されました。 シチリアには、マルメロを煮詰めて作る「コトニャータ」という伝統菓子があり、こうした陶製の型もその菓子作りに用いられてきたと考えられます。 見込みには、魚を思わせる浅い浮き彫りの装飾が施されています。 — 50JPY / 売切れ]]></description>
+            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/L1070846.jpg?v=1793422278" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Antique Grottaglie Plate 1800s AN-8173]]></title>
@@ -1999,14 +2007,6 @@
             <pubDate>Mon, 17 Mar 2025 12:34:03 GMT</pubDate>
             <description><![CDATA[19世紀、南イタリアはプーリア州グロッターリエ アンチョビなどを保存していた食糧保存壺 — 50JPY / 売切れ]]></description>
             <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/DSCF0590.jpg?v=1713510090" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[フランス 石膏 オブジェ レリーフ アンティーク AN-24029]]></title>
-            <link>https://checkout.ambiant.jp/products/an-24029</link>
-            <guid>https://checkout.ambiant.jp/products/an-24029</guid>
-            <pubDate>Mon, 17 Mar 2025 12:34:02 GMT</pubDate>
-            <description><![CDATA[フランスより、古い石膏のオブジェ — 2,200JPY / 売切れ]]></description>
-            <enclosure url="https://cdn.shopify.com/s/files/1/0568/6204/8303/files/DSCF0492.jpg?v=1712373166" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
