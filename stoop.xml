@@ -4,7 +4,7 @@
         <title>stoop</title>
         <link>https://stoop.jp/collection</link>
         <description>stoop の新着商品フィード</description>
-        <lastBuildDate>Mon, 16 Nov 2026 02:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 11:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -912,6 +912,16 @@ country: Spain]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-483.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Coffee Table and Side Tables by Togo Murano in Wood]]></title>
+            <link>https://stoop.jp/collection/79152</link>
+            <guid>https://stoop.jp/collection/79152</guid>
+            <pubDate>Thu, 15 Oct 2026 08:20:52 GMT</pubDate>
+            <description><![CDATA[focus_on: Japanese Design Meets Spanish Design
+genre2: VINTAGE
+country: Japan]]></description>
+            <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/j6-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Unformed Meaning : 3 by Akari Uragami]]></title>
             <link>https://stoop.jp/collection/79595</link>
             <guid>https://stoop.jp/collection/79595</guid>
@@ -1204,19 +1214,6 @@ genre2: VINTAGE
 period: 1970s
 country: Italy]]></description>
             <enclosure url="https://stoop.jp/wp-content/uploads/2026/09/20260928-7222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DCW Chair by Charles & Ray Eames for Evans Products in Plywood]]></title>
-            <link>https://stoop.jp/collection/79299</link>
-            <guid>https://stoop.jp/collection/79299</guid>
-            <pubDate>Wed, 30 Sep 2026 17:54:30 GMT</pubDate>
-            <description><![CDATA[genre: CHAIR, SEATING
-creator: Charles & Ray Eames
-focus_on: ELEMENTS OF BLACK, Permanent Exhibition "Chair"
-genre2: MID-CENTURY MODERN, VINTAGE
-period: 1940s
-country: America]]></description>
-            <enclosure url="https://stoop.jp/wp-content/uploads/2026/10/m2-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
