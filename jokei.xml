@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>叙景 jokei</title>
+        <link>https://jokei.theshop.jp</link>
+        <description>叙景 jokei の新着商品フィード</description>
+        <lastBuildDate>Fri, 27 Nov 2026 21:58:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[専用ページ]]></title>
+            <link>https://jokei.theshop.jp/items/167205226</link>
+            <guid>https://jokei.theshop.jp/items/167205226</guid>
+            <pubDate>Fri, 27 Nov 2026 21:58:54 GMT</pubDate>
+            <content:encoded><![CDATA[アンモナイト
+東ティモール産
+ペルム紀
+
+Ammonite
+Timor-Leste
+PERMIAN
+
+50×45×15 mm]]></content:encoded>
+            <enclosure url="https://baseec-img-mng.akamaized.net/images/item/origin/e5dcf93f6e77c958052d53dbdbbab759.png?imformat=generic" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[専用ページ]]></title>
+            <link>https://jokei.theshop.jp/items/167204890</link>
+            <guid>https://jokei.theshop.jp/items/167204890</guid>
+            <pubDate>Fri, 27 Nov 2026 21:58:54 GMT</pubDate>
+            <content:encoded><![CDATA[ゼブラストーン
+オーストラリア産
+エディアカラン紀
+
+Zebra Stone
+Westan Australia
+EDIACARAN
+
+150×80×15 mm]]></content:encoded>
+            <enclosure url="https://baseec-img-mng.akamaized.net/images/item/origin/73d176ba1b5fb9ecb5b4ff51d559a06c.png?imformat=generic" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[専用ページ]]></title>
+            <link>https://jokei.theshop.jp/items/103547168</link>
+            <guid>https://jokei.theshop.jp/items/103547168</guid>
+            <pubDate>Fri, 27 Nov 2026 21:58:54 GMT</pubDate>
+            <content:encoded><![CDATA[ロイヤルインペリアルジャスパー　Royal Imperial Jasper 
+
+世界5大ジャスパーのひとつ、メキシコ産ロイヤルインペリアルジャスパーです。
+世界中で産出するジャスパーの中でも特に芸術的な模様を描き出すことから名付けられました。
+本産地のジャスパーとしては珍しく、鮮やかな青色が瑞々しく表れています。
+コアを2つ伴った極上の一石です。
+
+153x57x18 mm
+メキシコ
+
+no1032]]></content:encoded>
+            <enclosure url="https://baseec-img-mng.akamaized.net/images/item/origin/f643b7dba763463a6c77008a06e60e5c.png?imformat=generic" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
